@@ -20,13 +20,10 @@ The main aim of this study is to assess, through a federated approach, the value
 
 1. Download this entire repository. You can do this by selecting Code > Download ZIP or by using GitHub Desktop.
 
-2. Open the project OMOPCAN_Study.Rproj in RStudio. When the project is open, its name will appear in the top-right corner of your RStudio session.
-   
-  2.1. Install the necessary packages for the study by activating and restoring the renv. 
-  
-  2.2. Open and work through the CodeToRun.R, which is the primary file you'll need. Execute the lines in the file, adding your database-specific information as instructed in the comments.
-  
-  2.3. To run the study, use the command source(here::here("RunStudy.R"))
+2. Open the project OMOPCAN_Study.Rproj in RStudio. When the project is open, its name will appear in the top-right corner of your RStudio session:
+  - Install the necessary packages for the study by activating and restoring the renv. 
+  - Open and work through the CodeToRun.R, which is the primary file you'll need. Execute the lines in the file, adding your database-specific information as instructed in the comments.
+  - To run the study, use the command source(here::here("RunStudy.R"))
 
 3. After running the analysis, you will find a results folder with one subfolder per each cancer group.
 
