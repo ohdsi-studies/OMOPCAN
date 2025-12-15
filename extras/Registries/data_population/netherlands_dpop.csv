@@ -1,976 +1,901 @@
-region,year,sex,age_gr,population
-netherlands,2000,Both,0 to 9,1985161
-netherlands,2000,Both,10 to 19,1887847
+region,years,sex,age_gr,population
+netherlands,2000,Both,0 to 9,1889619.5
+netherlands,2000,Both,10 to 19,1904552.5
 netherlands,2000,Both,100 and over,0
-netherlands,2000,Both,20 to 29,2132157
-netherlands,2000,Both,30 to 39,2629347
-netherlands,2000,Both,40 to 49,2348772
-netherlands,2000,Both,50 to 59,2004772
-netherlands,2000,Both,60 to 69,1367932
-netherlands,2000,Both,70 to 79,1007623
-netherlands,2000,Both,80 to 89,431543
-netherlands,2000,Both,90 to 99,68796
-netherlands,2000,Both,Overall,15863950
-netherlands,2000,Both,Overall,31727900
-netherlands,2000,Female,0 to 9,969121
-netherlands,2000,Female,10 to 19,922593
+netherlands,2000,Both,20 to 29,2071583
+netherlands,2000,Both,30 to 39,2641855.5
+netherlands,2000,Both,40 to 49,2378822.5
+netherlands,2000,Both,50 to 59,2061609.5
+netherlands,2000,Both,60 to 69,1395358
+netherlands,2000,Both,70 to 79,1032344
+netherlands,2000,Both,80 to 89,469521
+netherlands,2000,Both,90 to 99,64676.5
+netherlands,2000,Both,Overall,15909942
+netherlands,2000,Female,0 to 9,922786
+netherlands,2000,Female,10 to 19,930106
 netherlands,2000,Female,100 and over,0
-netherlands,2000,Female,20 to 29,1054140
-netherlands,2000,Female,30 to 39,1288145
-netherlands,2000,Female,40 to 49,1158982
-netherlands,2000,Female,50 to 59,986383
-netherlands,2000,Female,60 to 69,704660
-netherlands,2000,Female,70 to 79,584624
-netherlands,2000,Female,80 to 89,294784
-netherlands,2000,Female,90 to 99,54201
-netherlands,2000,Female,Overall,8017633
-netherlands,2000,Female,Overall,16035266
-netherlands,2000,Male,0 to 9,1016040
-netherlands,2000,Male,10 to 19,965254
+netherlands,2000,Female,20 to 29,1024821.5
+netherlands,2000,Female,30 to 39,1294601
+netherlands,2000,Female,40 to 49,1174016
+netherlands,2000,Female,50 to 59,1014181.5
+netherlands,2000,Female,60 to 69,714565.5
+netherlands,2000,Female,70 to 79,592806
+netherlands,2000,Female,80 to 89,316654
+netherlands,2000,Female,90 to 99,50255
+netherlands,2000,Female,Overall,8034792.5
+netherlands,2000,Male,0 to 9,966833.5
+netherlands,2000,Male,10 to 19,974446.5
 netherlands,2000,Male,100 and over,0
-netherlands,2000,Male,20 to 29,1078017
-netherlands,2000,Male,30 to 39,1341202
-netherlands,2000,Male,40 to 49,1189790
-netherlands,2000,Male,50 to 59,1018389
-netherlands,2000,Male,60 to 69,663272
-netherlands,2000,Male,70 to 79,422999
-netherlands,2000,Male,80 to 89,136759
-netherlands,2000,Male,90 to 99,14595
-netherlands,2000,Male,Overall,7846317
-netherlands,2000,Male,Overall,15692634
-netherlands,2001,Both,0 to 9,1996913
-netherlands,2001,Both,10 to 19,1911140
+netherlands,2000,Male,20 to 29,1046761.5
+netherlands,2000,Male,30 to 39,1347254.5
+netherlands,2000,Male,40 to 49,1204806.5
+netherlands,2000,Male,50 to 59,1047428
+netherlands,2000,Male,60 to 69,680792.5
+netherlands,2000,Male,70 to 79,439538
+netherlands,2000,Male,80 to 89,152867
+netherlands,2000,Male,90 to 99,14421.5
+netherlands,2000,Male,Overall,7875149.5
+netherlands,2001,Both,0 to 9,1898762.5
+netherlands,2001,Both,10 to 19,1930126.5
 netherlands,2001,Both,100 and over,0
-netherlands,2001,Both,20 to 29,2081512
-netherlands,2001,Both,30 to 39,2645592
-netherlands,2001,Both,40 to 49,2377995
-netherlands,2001,Both,50 to 59,2056871
-netherlands,2001,Both,60 to 69,1386386
-netherlands,2001,Both,70 to 79,1014029
-netherlands,2001,Both,80 to 89,446307
-netherlands,2001,Both,90 to 99,70330
-netherlands,2001,Both,Overall,15987075
-netherlands,2001,Both,Overall,31974150
-netherlands,2001,Female,0 to 9,975272
-netherlands,2001,Female,10 to 19,933252
+netherlands,2001,Both,20 to 29,2031287
+netherlands,2001,Both,30 to 39,2640181
+netherlands,2001,Both,40 to 49,2416165.5
+netherlands,2001,Both,50 to 59,2115756.5
+netherlands,2001,Both,60 to 69,1411396.5
+netherlands,2001,Both,70 to 79,1037516.5
+netherlands,2001,Both,80 to 89,483482
+netherlands,2001,Both,90 to 99,65423.5
+netherlands,2001,Both,Overall,16030097.5
+netherlands,2001,Female,0 to 9,927200
+netherlands,2001,Female,10 to 19,941912
 netherlands,2001,Female,100 and over,0
-netherlands,2001,Female,20 to 29,1030469
-netherlands,2001,Female,30 to 39,1296750
-netherlands,2001,Female,40 to 49,1173955
-netherlands,2001,Female,50 to 59,1012467
-netherlands,2001,Female,60 to 69,711375
-netherlands,2001,Female,70 to 79,585102
-netherlands,2001,Female,80 to 89,303110
-netherlands,2001,Female,90 to 99,55468
-netherlands,2001,Female,Overall,8077220
-netherlands,2001,Female,Overall,16154440
-netherlands,2001,Male,0 to 9,1021641
-netherlands,2001,Male,10 to 19,977888
+netherlands,2001,Female,20 to 29,1005986.5
+netherlands,2001,Female,30 to 39,1294542.5
+netherlands,2001,Female,40 to 49,1193151.5
+netherlands,2001,Female,50 to 59,1041699
+netherlands,2001,Female,60 to 69,719857
+netherlands,2001,Female,70 to 79,592363.5
+netherlands,2001,Female,80 to 89,324725.5
+netherlands,2001,Female,90 to 99,50705
+netherlands,2001,Female,Overall,8092142.5
+netherlands,2001,Male,0 to 9,971562.5
+netherlands,2001,Male,10 to 19,988214.5
 netherlands,2001,Male,100 and over,0
-netherlands,2001,Male,20 to 29,1051043
-netherlands,2001,Male,30 to 39,1348842
-netherlands,2001,Male,40 to 49,1204040
-netherlands,2001,Male,50 to 59,1044404
-netherlands,2001,Male,60 to 69,675011
-netherlands,2001,Male,70 to 79,428927
-netherlands,2001,Male,80 to 89,143197
-netherlands,2001,Male,90 to 99,14862
-netherlands,2001,Male,Overall,7909855
-netherlands,2001,Male,Overall,15819710
-netherlands,2002,Both,0 to 9,2003860
-netherlands,2002,Both,10 to 19,1936776
+netherlands,2001,Male,20 to 29,1025300.5
+netherlands,2001,Male,30 to 39,1345638.5
+netherlands,2001,Male,40 to 49,1223014
+netherlands,2001,Male,50 to 59,1074057.5
+netherlands,2001,Male,60 to 69,691539.5
+netherlands,2001,Male,70 to 79,445153
+netherlands,2001,Male,80 to 89,158756.5
+netherlands,2001,Male,90 to 99,14718.5
+netherlands,2001,Male,Overall,7937955
+netherlands,2002,Both,0 to 9,1904983
+netherlands,2002,Both,10 to 19,1956392
 netherlands,2002,Both,100 and over,0
-netherlands,2002,Both,20 to 29,2042450
-netherlands,2002,Both,30 to 39,2643277
-netherlands,2002,Both,40 to 49,2414942
-netherlands,2002,Both,50 to 59,2110583
-netherlands,2002,Both,60 to 69,1402524
-netherlands,2002,Both,70 to 79,1019266
-netherlands,2002,Both,80 to 89,460231
-netherlands,2002,Both,90 to 99,71376
-netherlands,2002,Both,Overall,16105285
-netherlands,2002,Both,Overall,32210570
-netherlands,2002,Female,0 to 9,978533
-netherlands,2002,Female,10 to 19,945023
+netherlands,2002,Both,20 to 29,1996255.5
+netherlands,2002,Both,30 to 39,2620747
+netherlands,2002,Both,40 to 49,2446709.5
+netherlands,2002,Both,50 to 59,2168258.5
+netherlands,2002,Both,60 to 69,1432000
+netherlands,2002,Both,70 to 79,1045024.5
+netherlands,2002,Both,80 to 89,495121.5
+netherlands,2002,Both,90 to 99,66995
+netherlands,2002,Both,Overall,16132486.5
+netherlands,2002,Female,0 to 9,930418.5
+netherlands,2002,Female,10 to 19,954479
 netherlands,2002,Female,100 and over,0
-netherlands,2002,Female,20 to 29,1012010
-netherlands,2002,Female,30 to 39,1296457
-netherlands,2002,Female,40 to 49,1192848
-netherlands,2002,Female,50 to 59,1039694
-netherlands,2002,Female,60 to 69,716700
-netherlands,2002,Female,70 to 79,584629
-netherlands,2002,Female,80 to 89,311167
-netherlands,2002,Female,90 to 99,56257
-netherlands,2002,Female,Overall,8133318
-netherlands,2002,Female,Overall,16266636
-netherlands,2002,Male,0 to 9,1025327
-netherlands,2002,Male,10 to 19,991753
+netherlands,2002,Female,20 to 29,988419
+netherlands,2002,Female,30 to 39,1287405.5
+netherlands,2002,Female,40 to 49,1208754
+netherlands,2002,Female,50 to 59,1068811
+netherlands,2002,Female,60 to 69,727537
+netherlands,2002,Female,70 to 79,593353
+netherlands,2002,Female,80 to 89,330794
+netherlands,2002,Female,90 to 99,51731
+netherlands,2002,Female,Overall,8141702
+netherlands,2002,Male,0 to 9,974564.5
+netherlands,2002,Male,10 to 19,1001913
 netherlands,2002,Male,100 and over,0
-netherlands,2002,Male,20 to 29,1030440
-netherlands,2002,Male,30 to 39,1346820
-netherlands,2002,Male,40 to 49,1222094
-netherlands,2002,Male,50 to 59,1070889
-netherlands,2002,Male,60 to 69,685824
-netherlands,2002,Male,70 to 79,434637
-netherlands,2002,Male,80 to 89,149064
-netherlands,2002,Male,90 to 99,15119
-netherlands,2002,Male,Overall,7971967
-netherlands,2002,Male,Overall,15943934
-netherlands,2003,Both,0 to 9,2007331
-netherlands,2003,Both,10 to 19,1961668
+netherlands,2002,Male,20 to 29,1007836.5
+netherlands,2002,Male,30 to 39,1333341.5
+netherlands,2002,Male,40 to 49,1237955.5
+netherlands,2002,Male,50 to 59,1099447.5
+netherlands,2002,Male,60 to 69,704463
+netherlands,2002,Male,70 to 79,451671.5
+netherlands,2002,Male,80 to 89,164327.5
+netherlands,2002,Male,90 to 99,15264
+netherlands,2002,Male,Overall,7990784.5
+netherlands,2003,Both,0 to 9,1907726.5
+netherlands,2003,Both,10 to 19,1977575.5
 netherlands,2003,Both,100 and over,0
-netherlands,2003,Both,20 to 29,2004007
-netherlands,2003,Both,30 to 39,2620163
-netherlands,2003,Both,40 to 49,2443939
-netherlands,2003,Both,50 to 59,2162201
-netherlands,2003,Both,60 to 69,1422671
-netherlands,2003,Both,70 to 79,1026622
-netherlands,2003,Both,80 to 89,471067
-netherlands,2003,Both,90 to 99,72903
-netherlands,2003,Both,Overall,16192572
-netherlands,2003,Both,Overall,32385144
-netherlands,2003,Female,0 to 9,980451
-netherlands,2003,Female,10 to 19,956950
+netherlands,2003,Both,20 to 29,1973221.5
+netherlands,2003,Both,30 to 39,2572576
+netherlands,2003,Both,40 to 49,2480580
+netherlands,2003,Both,50 to 59,2204954
+netherlands,2003,Both,60 to 69,1468215
+netherlands,2003,Both,70 to 79,1047390
+netherlands,2003,Both,80 to 89,507643.5
+netherlands,2003,Both,90 to 99,68631.5
+netherlands,2003,Both,Overall,16208513.5
+netherlands,2003,Female,0 to 9,931528.5
+netherlands,2003,Female,10 to 19,965220
 netherlands,2003,Female,100 and over,0
-netherlands,2003,Female,20 to 29,993260
-netherlands,2003,Female,30 to 39,1288043
-netherlands,2003,Female,40 to 49,1208033
-netherlands,2003,Female,50 to 59,1066486
-netherlands,2003,Female,60 to 69,724134
-netherlands,2003,Female,70 to 79,585548
-netherlands,2003,Female,80 to 89,316914
-netherlands,2003,Female,90 to 99,57282
-netherlands,2003,Female,Overall,8177101
-netherlands,2003,Female,Overall,16354202
-netherlands,2003,Male,0 to 9,1026880
-netherlands,2003,Male,10 to 19,1004718
+netherlands,2003,Female,20 to 29,977472.5
+netherlands,2003,Female,30 to 39,1267505
+netherlands,2003,Female,40 to 49,1225718.5
+netherlands,2003,Female,50 to 59,1088398.5
+netherlands,2003,Female,60 to 69,743353
+netherlands,2003,Female,70 to 79,591253
+netherlands,2003,Female,80 to 89,337539
+netherlands,2003,Female,90 to 99,52819
+netherlands,2003,Female,Overall,8180807
+netherlands,2003,Male,0 to 9,976198
+netherlands,2003,Male,10 to 19,1012355.5
 netherlands,2003,Male,100 and over,0
-netherlands,2003,Male,20 to 29,1010747
-netherlands,2003,Male,30 to 39,1332120
-netherlands,2003,Male,40 to 49,1235906
-netherlands,2003,Male,50 to 59,1095715
-netherlands,2003,Male,60 to 69,698537
-netherlands,2003,Male,70 to 79,441074
-netherlands,2003,Male,80 to 89,154153
-netherlands,2003,Male,90 to 99,15621
-netherlands,2003,Male,Overall,8015471
-netherlands,2003,Male,Overall,16030942
-netherlands,2004,Both,0 to 9,2007705
-netherlands,2004,Both,10 to 19,1979852
+netherlands,2003,Male,20 to 29,995749
+netherlands,2003,Male,30 to 39,1305071
+netherlands,2003,Male,40 to 49,1254861.5
+netherlands,2003,Male,50 to 59,1116555.5
+netherlands,2003,Male,60 to 69,724862
+netherlands,2003,Male,70 to 79,456137
+netherlands,2003,Male,80 to 89,170104.5
+netherlands,2003,Male,90 to 99,15812.5
+netherlands,2003,Male,Overall,8027706.5
+netherlands,2004,Both,0 to 9,1903133
+netherlands,2004,Both,10 to 19,1989058.5
 netherlands,2004,Both,100 and over,0
-netherlands,2004,Both,20 to 29,1978064
-netherlands,2004,Both,30 to 39,2570502
-netherlands,2004,Both,40 to 49,2476793
-netherlands,2004,Both,50 to 59,2198376
-netherlands,2004,Both,60 to 69,1458794
-netherlands,2004,Both,70 to 79,1029648
-netherlands,2004,Both,80 to 89,483632
-netherlands,2004,Both,90 to 99,74666
-netherlands,2004,Both,Overall,16258032
-netherlands,2004,Both,Overall,32516064
-netherlands,2004,Female,0 to 9,980212
-netherlands,2004,Female,10 to 19,966611
+netherlands,2004,Both,20 to 29,1959354
+netherlands,2004,Both,30 to 39,2509200
+netherlands,2004,Both,40 to 49,2513956.5
+netherlands,2004,Both,50 to 59,2234337
+netherlands,2004,Both,60 to 69,1511010.5
+netherlands,2004,Both,70 to 79,1054563
+netherlands,2004,Both,80 to 89,519205.5
+netherlands,2004,Both,90 to 99,70634.5
+netherlands,2004,Both,Overall,16264452.5
+netherlands,2004,Female,0 to 9,929235
+netherlands,2004,Female,10 to 19,971770
 netherlands,2004,Female,100 and over,0
-netherlands,2004,Female,20 to 29,981181
-netherlands,2004,Female,30 to 39,1267656
-netherlands,2004,Female,40 to 49,1224574
-netherlands,2004,Female,50 to 59,1085858
-netherlands,2004,Female,60 to 69,739862
-netherlands,2004,Female,70 to 79,583747
-netherlands,2004,Female,80 to 89,323796
-netherlands,2004,Female,90 to 99,58621
-netherlands,2004,Female,Overall,8212118
-netherlands,2004,Female,Overall,16424236
-netherlands,2004,Male,0 to 9,1027493
-netherlands,2004,Male,10 to 19,1013241
+netherlands,2004,Female,20 to 29,971287.5
+netherlands,2004,Female,30 to 39,1240070
+netherlands,2004,Female,40 to 49,1242661
+netherlands,2004,Female,50 to 59,1104263.5
+netherlands,2004,Female,60 to 69,762984.5
+netherlands,2004,Female,70 to 79,591124.5
+netherlands,2004,Female,80 to 89,343975.5
+netherlands,2004,Female,90 to 99,54157
+netherlands,2004,Female,Overall,8211528.5
+netherlands,2004,Male,0 to 9,973898
+netherlands,2004,Male,10 to 19,1017288.5
 netherlands,2004,Male,100 and over,0
-netherlands,2004,Male,20 to 29,996883
-netherlands,2004,Male,30 to 39,1302846
-netherlands,2004,Male,40 to 49,1252219
-netherlands,2004,Male,50 to 59,1112518
-netherlands,2004,Male,60 to 69,718932
-netherlands,2004,Male,70 to 79,445901
-netherlands,2004,Male,80 to 89,159836
-netherlands,2004,Male,90 to 99,16045
-netherlands,2004,Male,Overall,8045914
-netherlands,2004,Male,Overall,16091828
-netherlands,2005,Both,0 to 9,1998542
-netherlands,2005,Both,10 to 19,1989415
+netherlands,2004,Male,20 to 29,988066.5
+netherlands,2004,Male,30 to 39,1269130
+netherlands,2004,Male,40 to 49,1271295.5
+netherlands,2004,Male,50 to 59,1130073.5
+netherlands,2004,Male,60 to 69,748026
+netherlands,2004,Male,70 to 79,463438.5
+netherlands,2004,Male,80 to 89,175230
+netherlands,2004,Male,90 to 99,16477.5
+netherlands,2004,Male,Overall,8052924
+netherlands,2005,Both,0 to 9,1895513.5
+netherlands,2005,Both,10 to 19,1989511.5
 netherlands,2005,Both,100 and over,0
-netherlands,2005,Both,20 to 29,1962279
-netherlands,2005,Both,30 to 39,2505504
-netherlands,2005,Both,40 to 49,2509444
-netherlands,2005,Both,50 to 59,2227579
-netherlands,2005,Both,60 to 69,1501599
-netherlands,2005,Both,70 to 79,1037591
-netherlands,2005,Both,80 to 89,495934
-netherlands,2005,Both,90 to 99,77639
-netherlands,2005,Both,Overall,16305526
-netherlands,2005,Both,Overall,32611052
-netherlands,2005,Female,0 to 9,975993
-netherlands,2005,Female,10 to 19,972305
+netherlands,2005,Both,20 to 29,1955080
+netherlands,2005,Both,30 to 39,2438118
+netherlands,2005,Both,40 to 49,2269404
+netherlands,2005,Both,50 to 59,2274235
+netherlands,2005,Both,60 to 69,1543781.5
+netherlands,2005,Both,70 to 79,1064354.5
+netherlands,2005,Both,80 to 89,531253.5
+netherlands,2005,Both,90 to 99,71962.5
+netherlands,2005,Both,Overall,16033214
+netherlands,2005,Female,0 to 9,925651
+netherlands,2005,Female,10 to 19,972287
 netherlands,2005,Female,100 and over,0
-netherlands,2005,Female,20 to 29,974218
-netherlands,2005,Female,30 to 39,1239334
-netherlands,2005,Female,40 to 49,1241134
-netherlands,2005,Female,50 to 59,1101650
-netherlands,2005,Female,60 to 69,759552
-netherlands,2005,Female,70 to 79,583985
-netherlands,2005,Female,80 to 89,330607
-netherlands,2005,Female,90 to 99,60769
-netherlands,2005,Female,Overall,8239547
-netherlands,2005,Female,Overall,16479094
-netherlands,2005,Male,0 to 9,1022549
-netherlands,2005,Male,10 to 19,1017110
+netherlands,2005,Female,20 to 29,970023.5
+netherlands,2005,Female,30 to 39,1209013
+netherlands,2005,Female,40 to 49,1254275.5
+netherlands,2005,Female,50 to 59,1125956.5
+netherlands,2005,Female,60 to 69,778178.5
+netherlands,2005,Female,70 to 79,592645
+netherlands,2005,Female,80 to 89,350227
+netherlands,2005,Female,90 to 99,55115
+netherlands,2005,Female,Overall,8233372
+netherlands,2005,Male,0 to 9,969862.5
+netherlands,2005,Male,10 to 19,1017224.5
 netherlands,2005,Male,100 and over,0
-netherlands,2005,Male,20 to 29,988061
-netherlands,2005,Male,30 to 39,1266170
-netherlands,2005,Male,40 to 49,1268310
-netherlands,2005,Male,50 to 59,1125929
-netherlands,2005,Male,60 to 69,742047
-netherlands,2005,Male,70 to 79,453606
-netherlands,2005,Male,80 to 89,165327
-netherlands,2005,Male,90 to 99,16870
-netherlands,2005,Male,Overall,8065979
-netherlands,2005,Male,Overall,16131958
-netherlands,2006,Both,0 to 9,1986729
-netherlands,2006,Both,10 to 19,1988897
+netherlands,2005,Male,20 to 29,985056.5
+netherlands,2005,Male,30 to 39,1229105
+netherlands,2005,Male,40 to 49,1283860.5
+netherlands,2005,Male,50 to 59,1148278.5
+netherlands,2005,Male,60 to 69,765603
+netherlands,2005,Male,70 to 79,471709.5
+netherlands,2005,Male,80 to 89,181026.5
+netherlands,2005,Male,90 to 99,16847.5
+netherlands,2005,Male,Overall,8068574
+netherlands,2006,Both,0 to 9,1883110.5
+netherlands,2006,Both,10 to 19,1984737
 netherlands,2006,Both,100 and over,0
-netherlands,2006,Both,20 to 29,1956619
-netherlands,2006,Both,30 to 39,2433221
-netherlands,2006,Both,40 to 49,2532853
-netherlands,2006,Both,50 to 59,2267137
-netherlands,2006,Both,60 to 69,1534241
-netherlands,2006,Both,70 to 79,1047497
-netherlands,2006,Both,80 to 89,507784
-netherlands,2006,Both,90 to 99,79232
-netherlands,2006,Both,Overall,16334210
-netherlands,2006,Both,Overall,32668420
-netherlands,2006,Female,0 to 9,970242
-netherlands,2006,Female,10 to 19,972259
+netherlands,2006,Both,20 to 29,1954907
+netherlands,2006,Both,30 to 39,2099598
+netherlands,2006,Both,40 to 49,2551110.5
+netherlands,2006,Both,50 to 59,2250087.5
+netherlands,2006,Both,60 to 69,1641768.5
+netherlands,2006,Both,70 to 79,1076313
+netherlands,2006,Both,80 to 89,543633.5
+netherlands,2006,Both,90 to 99,73241.5
+netherlands,2006,Both,Overall,16058507
+netherlands,2006,Female,0 to 9,920119
+netherlands,2006,Female,10 to 19,969150
 netherlands,2006,Female,100 and over,0
-netherlands,2006,Female,20 to 29,971917
-netherlands,2006,Female,30 to 39,1207576
-netherlands,2006,Female,40 to 49,1252430
-netherlands,2006,Female,50 to 59,1123086
-netherlands,2006,Female,60 to 69,774701
-netherlands,2006,Female,70 to 79,585599
-netherlands,2006,Female,80 to 89,336951
-netherlands,2006,Female,90 to 99,62042
-netherlands,2006,Female,Overall,8256803
-netherlands,2006,Female,Overall,16513606
-netherlands,2006,Male,0 to 9,1016487
-netherlands,2006,Male,10 to 19,1016638
+netherlands,2006,Female,20 to 29,970873.5
+netherlands,2006,Female,30 to 39,1177493.5
+netherlands,2006,Female,40 to 49,1261455.5
+netherlands,2006,Female,50 to 59,1115574.5
+netherlands,2006,Female,60 to 69,825538.5
+netherlands,2006,Female,70 to 79,595459.5
+netherlands,2006,Female,80 to 89,356208.5
+netherlands,2006,Female,90 to 99,56058.5
+netherlands,2006,Female,Overall,8247931
+netherlands,2006,Male,0 to 9,962991.5
+netherlands,2006,Male,10 to 19,1015587
 netherlands,2006,Male,100 and over,0
-netherlands,2006,Male,20 to 29,984702
-netherlands,2006,Male,30 to 39,1225645
-netherlands,2006,Male,40 to 49,1280423
-netherlands,2006,Male,50 to 59,1144051
-netherlands,2006,Male,60 to 69,759540
-netherlands,2006,Male,70 to 79,461898
-netherlands,2006,Male,80 to 89,170833
-netherlands,2006,Male,90 to 99,17190
-netherlands,2006,Male,Overall,8077407
-netherlands,2006,Male,Overall,16154814
-netherlands,2007,Both,0 to 9,1972878
-netherlands,2007,Both,10 to 19,1984225
+netherlands,2006,Male,20 to 29,984033.5
+netherlands,2006,Male,30 to 39,1191280
+netherlands,2006,Male,40 to 49,1289655
+netherlands,2006,Male,50 to 59,1134513
+netherlands,2006,Male,60 to 69,816230
+netherlands,2006,Male,70 to 79,480853.5
+netherlands,2006,Male,80 to 89,187425
+netherlands,2006,Male,90 to 99,17183
+netherlands,2006,Male,Overall,8079751.5
+netherlands,2007,Both,0 to 9,1867662.5
+netherlands,2007,Both,10 to 19,1982525.5
 netherlands,2007,Both,100 and over,0
-netherlands,2007,Both,20 to 29,1955512
-netherlands,2007,Both,30 to 39,2363624
-netherlands,2007,Both,40 to 49,2545593
-netherlands,2007,Both,50 to 59,2243270
-netherlands,2007,Both,60 to 69,1632030
-netherlands,2007,Both,70 to 79,1060018
-netherlands,2007,Both,80 to 89,520015
-netherlands,2007,Both,90 to 99,80827
-netherlands,2007,Both,Overall,16357992
-netherlands,2007,Both,Overall,32715984
-netherlands,2007,Female,0 to 9,963906
-netherlands,2007,Female,10 to 19,969044
+netherlands,2007,Both,20 to 29,1962129
+netherlands,2007,Both,30 to 39,2301585
+netherlands,2007,Both,40 to 49,2559980
+netherlands,2007,Both,50 to 59,2238058.5
+netherlands,2007,Both,60 to 69,1730569.5
+netherlands,2007,Both,70 to 79,1089788
+netherlands,2007,Both,80 to 89,555323.5
+netherlands,2007,Both,90 to 99,74799
+netherlands,2007,Both,Overall,16362420.5
+netherlands,2007,Female,0 to 9,912293.5
+netherlands,2007,Female,10 to 19,968698
 netherlands,2007,Female,100 and over,0
-netherlands,2007,Female,20 to 29,971978
-netherlands,2007,Female,30 to 39,1175664
-netherlands,2007,Female,40 to 49,1259526
-netherlands,2007,Female,50 to 59,1112805
-netherlands,2007,Female,60 to 69,821903
-netherlands,2007,Female,70 to 79,588653
-netherlands,2007,Female,80 to 89,342798
-netherlands,2007,Female,90 to 99,63201
-netherlands,2007,Female,Overall,8269478
-netherlands,2007,Female,Overall,16538956
-netherlands,2007,Male,0 to 9,1008972
-netherlands,2007,Male,10 to 19,1015181
+netherlands,2007,Female,20 to 29,973756.5
+netherlands,2007,Female,30 to 39,1146654.5
+netherlands,2007,Female,40 to 49,1266194.5
+netherlands,2007,Female,50 to 59,1110865
+netherlands,2007,Female,60 to 69,869033
+netherlands,2007,Female,70 to 79,599348
+netherlands,2007,Female,80 to 89,361612
+netherlands,2007,Female,90 to 99,57046
+netherlands,2007,Female,Overall,8265501
+netherlands,2007,Male,0 to 9,955369
+netherlands,2007,Male,10 to 19,1013827.5
 netherlands,2007,Male,100 and over,0
-netherlands,2007,Male,20 to 29,983534
-netherlands,2007,Male,30 to 39,1187960
-netherlands,2007,Male,40 to 49,1286067
-netherlands,2007,Male,50 to 59,1130465
-netherlands,2007,Male,60 to 69,810127
-netherlands,2007,Male,70 to 79,471365
-netherlands,2007,Male,80 to 89,177217
-netherlands,2007,Male,90 to 99,17626
-netherlands,2007,Male,Overall,8088514
-netherlands,2007,Male,Overall,16177028
-netherlands,2008,Both,0 to 9,1956872
-netherlands,2008,Both,10 to 19,1983578
+netherlands,2007,Male,20 to 29,988372.5
+netherlands,2007,Male,30 to 39,1154930.5
+netherlands,2007,Male,40 to 49,1293785.5
+netherlands,2007,Male,50 to 59,1127193.5
+netherlands,2007,Male,60 to 69,861536.5
+netherlands,2007,Male,70 to 79,490440
+netherlands,2007,Male,80 to 89,193711.5
+netherlands,2007,Male,90 to 99,17753
+netherlands,2007,Male,Overall,8096919.5
+netherlands,2008,Both,0 to 9,1849484.5
+netherlands,2008,Both,10 to 19,1989210.5
 netherlands,2008,Both,100 and over,0
-netherlands,2008,Both,20 to 29,1967463
-netherlands,2008,Both,30 to 39,2299600
-netherlands,2008,Both,40 to 49,2555917
-netherlands,2008,Both,50 to 59,2231864
-netherlands,2008,Both,60 to 69,1720738
-netherlands,2008,Both,70 to 79,1073878
-netherlands,2008,Both,80 to 89,532054
-netherlands,2008,Both,90 to 99,83435
-netherlands,2008,Both,Overall,16405399
-netherlands,2008,Both,Overall,32810798
-netherlands,2008,Female,0 to 9,956049
-netherlands,2008,Female,10 to 19,969313
+netherlands,2008,Both,20 to 29,1977219.5
+netherlands,2008,Both,30 to 39,2243059
+netherlands,2008,Both,40 to 49,2569383
+netherlands,2008,Both,50 to 59,2244298.5
+netherlands,2008,Both,60 to 69,1798280.5
+netherlands,2008,Both,70 to 79,1108341
+netherlands,2008,Both,80 to 89,570424.5
+netherlands,2008,Both,90 to 99,75573
+netherlands,2008,Both,Overall,16425274
+netherlands,2008,Female,0 to 9,903429.5
+netherlands,2008,Female,10 to 19,971899
 netherlands,2008,Female,100 and over,0
-netherlands,2008,Female,20 to 29,977145
-netherlands,2008,Female,30 to 39,1145998
-netherlands,2008,Female,40 to 49,1264680
-netherlands,2008,Female,50 to 59,1108335
-netherlands,2008,Female,60 to 69,865323
-netherlands,2008,Female,70 to 79,592789
-netherlands,2008,Female,80 to 89,348554
-netherlands,2008,Female,90 to 99,65140
-netherlands,2008,Female,Overall,8293326
-netherlands,2008,Female,Overall,16586652
-netherlands,2008,Male,0 to 9,1000823
-netherlands,2008,Male,10 to 19,1014265
+netherlands,2008,Female,20 to 29,980173.5
+netherlands,2008,Female,30 to 39,1118902.5
+netherlands,2008,Female,40 to 49,1271258
+netherlands,2008,Female,50 to 59,1115386
+netherlands,2008,Female,60 to 69,901824.5
+netherlands,2008,Female,70 to 79,605300
+netherlands,2008,Female,80 to 89,368931.5
+netherlands,2008,Female,90 to 99,57512
+netherlands,2008,Female,Overall,8294616.5
+netherlands,2008,Male,0 to 9,946055
+netherlands,2008,Male,10 to 19,1017311.5
 netherlands,2008,Male,100 and over,0
-netherlands,2008,Male,20 to 29,990318
-netherlands,2008,Male,30 to 39,1153602
-netherlands,2008,Male,40 to 49,1291237
-netherlands,2008,Male,50 to 59,1123529
-netherlands,2008,Male,60 to 69,855415
-netherlands,2008,Male,70 to 79,481089
-netherlands,2008,Male,80 to 89,183500
-netherlands,2008,Male,90 to 99,18295
-netherlands,2008,Male,Overall,8112073
-netherlands,2008,Male,Overall,16224146
-netherlands,2009,Both,0 to 9,1942190
-netherlands,2009,Both,10 to 19,1991395
+netherlands,2008,Male,20 to 29,997046
+netherlands,2008,Male,30 to 39,1124156.5
+netherlands,2008,Male,40 to 49,1298125
+netherlands,2008,Male,50 to 59,1128912.5
+netherlands,2008,Male,60 to 69,896456
+netherlands,2008,Male,70 to 79,503041
+netherlands,2008,Male,80 to 89,201493
+netherlands,2008,Male,90 to 99,18061
+netherlands,2008,Male,Overall,8130657.5
+netherlands,2009,Both,0 to 9,1834423.5
+netherlands,2009,Both,10 to 19,1996818
 netherlands,2009,Both,100 and over,0
-netherlands,2009,Both,20 to 29,1988832
-netherlands,2009,Both,30 to 39,2245029
-netherlands,2009,Both,40 to 49,2567117
-netherlands,2009,Both,50 to 59,2238812
-netherlands,2009,Both,60 to 69,1788356
-netherlands,2009,Both,70 to 79,1092848
-netherlands,2009,Both,80 to 89,546446
-netherlands,2009,Both,90 to 99,84762
-netherlands,2009,Both,Overall,16485787
-netherlands,2009,Both,Overall,32971574
-netherlands,2009,Female,0 to 9,948522
-netherlands,2009,Female,10 to 19,973170
+netherlands,2009,Both,20 to 29,2001148.5
+netherlands,2009,Both,30 to 39,2178012.5
+netherlands,2009,Both,40 to 49,2586602.5
+netherlands,2009,Both,50 to 59,2265202.5
+netherlands,2009,Both,60 to 69,1855636.5
+netherlands,2009,Both,70 to 79,1129667.5
+netherlands,2009,Both,80 to 89,583935.5
+netherlands,2009,Both,90 to 99,77455
+netherlands,2009,Both,Overall,16508902
+netherlands,2009,Female,0 to 9,896139.5
+netherlands,2009,Female,10 to 19,975008
 netherlands,2009,Female,100 and over,0
-netherlands,2009,Female,20 to 29,986139
-netherlands,2009,Female,30 to 39,1119803
-netherlands,2009,Female,40 to 49,1270393
-netherlands,2009,Female,50 to 59,1113108
-netherlands,2009,Female,60 to 69,897985
-netherlands,2009,Female,70 to 79,598870
-netherlands,2009,Female,80 to 89,355382
-netherlands,2009,Female,90 to 99,66019
-netherlands,2009,Female,Overall,8329391
-netherlands,2009,Female,Overall,16658782
-netherlands,2009,Male,0 to 9,993668
-netherlands,2009,Male,10 to 19,1018225
+netherlands,2009,Female,20 to 29,991365.5
+netherlands,2009,Female,30 to 39,1087239
+netherlands,2009,Female,40 to 49,1279783
+netherlands,2009,Female,50 to 59,1126884
+netherlands,2009,Female,60 to 69,929659
+netherlands,2009,Female,70 to 79,613225.5
+netherlands,2009,Female,80 to 89,374931.5
+netherlands,2009,Female,90 to 99,58595.5
+netherlands,2009,Female,Overall,8332830.5
+netherlands,2009,Male,0 to 9,938284
+netherlands,2009,Male,10 to 19,1021810
 netherlands,2009,Male,100 and over,0
-netherlands,2009,Male,20 to 29,1002693
-netherlands,2009,Male,30 to 39,1125226
-netherlands,2009,Male,40 to 49,1296724
-netherlands,2009,Male,50 to 59,1125704
-netherlands,2009,Male,60 to 69,890371
-netherlands,2009,Male,70 to 79,493978
-netherlands,2009,Male,80 to 89,191064
-netherlands,2009,Male,90 to 99,18743
-netherlands,2009,Male,Overall,8156396
-netherlands,2009,Male,Overall,16312792
-netherlands,2010,Both,0 to 9,1928130
-netherlands,2010,Both,10 to 19,2000204
+netherlands,2009,Male,20 to 29,1009783
+netherlands,2009,Male,30 to 39,1090773.5
+netherlands,2009,Male,40 to 49,1306819.5
+netherlands,2009,Male,50 to 59,1138318.5
+netherlands,2009,Male,60 to 69,925977.5
+netherlands,2009,Male,70 to 79,516442
+netherlands,2009,Male,80 to 89,209004
+netherlands,2009,Male,90 to 99,18859.5
+netherlands,2009,Male,Overall,8176071.5
+netherlands,2010,Both,0 to 9,1814980.5
+netherlands,2010,Both,10 to 19,2002093.5
 netherlands,2010,Both,100 and over,0
-netherlands,2010,Both,20 to 29,2012265
-netherlands,2010,Both,30 to 39,2180507
-netherlands,2010,Both,40 to 49,2585337
-netherlands,2010,Both,50 to 59,2260211
-netherlands,2010,Both,60 to 69,1845956
-netherlands,2010,Both,70 to 79,1114385
-netherlands,2010,Both,80 to 89,560127
-netherlands,2010,Both,90 to 99,87867
-netherlands,2010,Both,Overall,16574989
-netherlands,2010,Both,Overall,33149978
-netherlands,2010,Female,0 to 9,941948
-netherlands,2010,Female,10 to 19,976756
+netherlands,2010,Both,20 to 29,2025561.5
+netherlands,2010,Both,30 to 39,2125297.5
+netherlands,2010,Both,40 to 49,2596317
+netherlands,2010,Both,50 to 59,2291768
+netherlands,2010,Both,60 to 69,1904095
+netherlands,2010,Both,70 to 79,1152133.5
+netherlands,2010,Both,80 to 89,596684
+netherlands,2010,Both,90 to 99,84351
+netherlands,2010,Both,Overall,16593281.5
+netherlands,2010,Female,0 to 9,886463
+netherlands,2010,Female,10 to 19,977944
 netherlands,2010,Female,100 and over,0
-netherlands,2010,Female,20 to 29,997337
-netherlands,2010,Female,30 to 39,1088388
-netherlands,2010,Female,40 to 49,1279459
-netherlands,2010,Female,50 to 59,1124849
-netherlands,2010,Female,60 to 69,925994
-netherlands,2010,Female,70 to 79,607044
-netherlands,2010,Female,80 to 89,361694
-netherlands,2010,Female,90 to 99,68044
-netherlands,2010,Female,Overall,8371513
-netherlands,2010,Female,Overall,16743026
-netherlands,2010,Male,0 to 9,986182
-netherlands,2010,Male,10 to 19,1023448
+netherlands,2010,Female,20 to 29,1003121
+netherlands,2010,Female,30 to 39,1061702
+netherlands,2010,Female,40 to 49,1285682.5
+netherlands,2010,Female,50 to 59,1140714.5
+netherlands,2010,Female,60 to 69,953773
+netherlands,2010,Female,70 to 79,621460.5
+netherlands,2010,Female,80 to 89,379796.5
+netherlands,2010,Female,90 to 99,63095
+netherlands,2010,Female,Overall,8373752
+netherlands,2010,Male,0 to 9,928517.5
+netherlands,2010,Male,10 to 19,1024149.5
 netherlands,2010,Male,100 and over,0
-netherlands,2010,Male,20 to 29,1014928
-netherlands,2010,Male,30 to 39,1092119
-netherlands,2010,Male,40 to 49,1305878
-netherlands,2010,Male,50 to 59,1135362
-netherlands,2010,Male,60 to 69,919962
-netherlands,2010,Male,70 to 79,507341
-netherlands,2010,Male,80 to 89,198433
-netherlands,2010,Male,90 to 99,19823
-netherlands,2010,Male,Overall,8203476
-netherlands,2010,Male,Overall,16406952
-netherlands,2011,Both,0 to 9,1908335
-netherlands,2011,Both,10 to 19,2005484
+netherlands,2010,Male,20 to 29,1022440.5
+netherlands,2010,Male,30 to 39,1063595.5
+netherlands,2010,Male,40 to 49,1310634.5
+netherlands,2010,Male,50 to 59,1151053.5
+netherlands,2010,Male,60 to 69,950322
+netherlands,2010,Male,70 to 79,530673
+netherlands,2010,Male,80 to 89,216887.5
+netherlands,2010,Male,90 to 99,21256
+netherlands,2010,Male,Overall,8219529.5
+netherlands,2011,Both,0 to 9,1796400.5
+netherlands,2011,Both,10 to 19,2003822.5
 netherlands,2011,Both,100 and over,0
-netherlands,2011,Both,20 to 29,2036267
-netherlands,2011,Both,30 to 39,2126332
-netherlands,2011,Both,40 to 49,2594217
-netherlands,2011,Both,50 to 59,2286566
-netherlands,2011,Both,60 to 69,1894212
-netherlands,2011,Both,70 to 79,1136839
-netherlands,2011,Both,80 to 89,572884
-netherlands,2011,Both,90 to 99,94663
-netherlands,2011,Both,Overall,16655799
-netherlands,2011,Both,Overall,33311598
-netherlands,2011,Female,0 to 9,932145
-netherlands,2011,Female,10 to 19,979680
+netherlands,2011,Both,20 to 29,2051073.5
+netherlands,2011,Both,30 to 39,2080261.5
+netherlands,2011,Both,40 to 49,2587847.5
+netherlands,2011,Both,50 to 59,2326021
+netherlands,2011,Both,60 to 69,1954390
+netherlands,2011,Both,70 to 79,1171245
+netherlands,2011,Both,80 to 89,608387
+netherlands,2011,Both,90 to 99,90723.5
+netherlands,2011,Both,Overall,16670172
+netherlands,2011,Female,0 to 9,877228.5
+netherlands,2011,Female,10 to 19,978688
 netherlands,2011,Female,100 and over,0
-netherlands,2011,Female,20 to 29,1009483
-netherlands,2011,Female,30 to 39,1062720
-netherlands,2011,Female,40 to 49,1285251
-netherlands,2011,Female,50 to 59,1138574
-netherlands,2011,Female,60 to 69,950041
-netherlands,2011,Female,70 to 79,615189
-netherlands,2011,Female,80 to 89,366587
-netherlands,2011,Female,90 to 99,72647
-netherlands,2011,Female,Overall,8412317
-netherlands,2011,Female,Overall,16824634
-netherlands,2011,Male,0 to 9,976190
-netherlands,2011,Male,10 to 19,1025804
+netherlands,2011,Female,20 to 29,1015515.5
+netherlands,2011,Female,30 to 39,1040247
+netherlands,2011,Female,40 to 49,1282835
+netherlands,2011,Female,50 to 59,1158622.5
+netherlands,2011,Female,60 to 69,979130.5
+netherlands,2011,Female,70 to 79,627889
+netherlands,2011,Female,80 to 89,383712.5
+netherlands,2011,Female,90 to 99,67240
+netherlands,2011,Female,Overall,8411108.5
+netherlands,2011,Male,0 to 9,919172
+netherlands,2011,Male,10 to 19,1025134.5
 netherlands,2011,Male,100 and over,0
-netherlands,2011,Male,20 to 29,1026784
-netherlands,2011,Male,30 to 39,1063612
-netherlands,2011,Male,40 to 49,1308966
-netherlands,2011,Male,50 to 59,1147992
-netherlands,2011,Male,60 to 69,944171
-netherlands,2011,Male,70 to 79,521650
-netherlands,2011,Male,80 to 89,206297
-netherlands,2011,Male,90 to 99,22016
-netherlands,2011,Male,Overall,8243482
-netherlands,2011,Male,Overall,16486964
-netherlands,2012,Both,0 to 9,1887428
-netherlands,2012,Both,10 to 19,2007326
+netherlands,2011,Male,20 to 29,1035558
+netherlands,2011,Male,30 to 39,1040014.5
+netherlands,2011,Male,40 to 49,1305012.5
+netherlands,2011,Male,50 to 59,1167398.5
+netherlands,2011,Male,60 to 69,975259.5
+netherlands,2011,Male,70 to 79,543356
+netherlands,2011,Male,80 to 89,224674.5
+netherlands,2011,Male,90 to 99,23483.5
+netherlands,2011,Male,Overall,8259063.5
+netherlands,2012,Both,0 to 9,1774184
+netherlands,2012,Both,10 to 19,2005496
 netherlands,2012,Both,100 and over,0
-netherlands,2012,Both,20 to 29,2060848
-netherlands,2012,Both,30 to 39,2081045
-netherlands,2012,Both,40 to 49,2585858
-netherlands,2012,Both,50 to 59,2320985
-netherlands,2012,Both,60 to 69,1944546
-netherlands,2012,Both,70 to 79,1156297
-netherlands,2012,Both,80 to 89,584469
-netherlands,2012,Both,90 to 99,101546
-netherlands,2012,Both,Overall,16730348
-netherlands,2012,Both,Overall,33460696
-netherlands,2012,Female,0 to 9,921536
-netherlands,2012,Female,10 to 19,980570
+netherlands,2012,Both,20 to 29,2074261.5
+netherlands,2012,Both,30 to 39,2040966.5
+netherlands,2012,Both,40 to 49,2564985.5
+netherlands,2012,Both,50 to 59,2355450
+netherlands,2012,Both,60 to 69,2003978.5
+netherlands,2012,Both,70 to 79,1194829.5
+netherlands,2012,Both,80 to 89,621201.5
+netherlands,2012,Both,90 to 99,95879
+netherlands,2012,Both,Overall,16731232
+netherlands,2012,Female,0 to 9,866166.5
+netherlands,2012,Female,10 to 19,979747
 netherlands,2012,Female,100 and over,0
-netherlands,2012,Female,20 to 29,1020837
-netherlands,2012,Female,30 to 39,1040906
-netherlands,2012,Female,40 to 49,1282399
-netherlands,2012,Female,50 to 59,1156546
-netherlands,2012,Female,60 to 69,975228
-netherlands,2012,Female,70 to 79,621675
-netherlands,2012,Female,80 to 89,370522
-netherlands,2012,Female,90 to 99,77258
-netherlands,2012,Female,Overall,8447477
-netherlands,2012,Female,Overall,16894954
-netherlands,2012,Male,0 to 9,965892
-netherlands,2012,Male,10 to 19,1026756
+netherlands,2012,Female,20 to 29,1026577
+netherlands,2012,Female,30 to 39,1020396.5
+netherlands,2012,Female,40 to 49,1273852.5
+netherlands,2012,Female,50 to 59,1174033.5
+netherlands,2012,Female,60 to 69,1004269
+netherlands,2012,Female,70 to 79,636484
+netherlands,2012,Female,80 to 89,388341.5
+netherlands,2012,Female,90 to 99,70599.5
+netherlands,2012,Female,Overall,8440467
+netherlands,2012,Male,0 to 9,908017.5
+netherlands,2012,Male,10 to 19,1025749
 netherlands,2012,Male,100 and over,0
-netherlands,2012,Male,20 to 29,1040011
-netherlands,2012,Male,30 to 39,1040139
-netherlands,2012,Male,40 to 49,1303459
-netherlands,2012,Male,50 to 59,1164439
-netherlands,2012,Male,60 to 69,969318
-netherlands,2012,Male,70 to 79,534622
-netherlands,2012,Male,80 to 89,213947
-netherlands,2012,Male,90 to 99,24288
-netherlands,2012,Male,Overall,8282871
-netherlands,2012,Male,Overall,16565742
-netherlands,2013,Both,0 to 9,1862188
-netherlands,2013,Both,10 to 19,2008585
+netherlands,2012,Male,20 to 29,1047684.5
+netherlands,2012,Male,30 to 39,1020570
+netherlands,2012,Male,40 to 49,1291133
+netherlands,2012,Male,50 to 59,1181416.5
+netherlands,2012,Male,60 to 69,999709.5
+netherlands,2012,Male,70 to 79,558345.5
+netherlands,2012,Male,80 to 89,232860
+netherlands,2012,Male,90 to 99,25279.5
+netherlands,2012,Male,Overall,8290765
+netherlands,2013,Both,0 to 9,1747811
+netherlands,2013,Both,10 to 19,2008283
 netherlands,2013,Both,100 and over,0
-netherlands,2013,Both,20 to 29,2080077
-netherlands,2013,Both,30 to 39,2040281
-netherlands,2013,Both,40 to 49,2562214
-netherlands,2013,Both,50 to 59,2350088
-netherlands,2013,Both,60 to 69,1993611
-netherlands,2013,Both,70 to 79,1179711
-netherlands,2013,Both,80 to 89,596630
-netherlands,2013,Both,90 to 99,106190
-netherlands,2013,Both,Overall,16779575
-netherlands,2013,Both,Overall,33559150
-netherlands,2013,Female,0 to 9,909056
-netherlands,2013,Female,10 to 19,981439
+netherlands,2013,Both,20 to 29,2093121
+netherlands,2013,Both,30 to 39,2018528
+netherlands,2013,Both,40 to 49,2519751
+netherlands,2013,Both,50 to 59,2389822.5
+netherlands,2013,Both,60 to 69,2040297
+netherlands,2013,Both,70 to 79,1231341.5
+netherlands,2013,Both,80 to 89,629932
+netherlands,2013,Both,90 to 99,101521.5
+netherlands,2013,Both,Overall,16780408.5
+netherlands,2013,Female,0 to 9,853051.5
+netherlands,2013,Female,10 to 19,980981.5
 netherlands,2013,Female,100 and over,0
-netherlands,2013,Female,20 to 29,1030234
-netherlands,2013,Female,30 to 39,1020683
-netherlands,2013,Female,40 to 49,1273154
-netherlands,2013,Female,50 to 59,1171940
-netherlands,2013,Female,60 to 69,1000144
-netherlands,2013,Female,70 to 79,630268
-netherlands,2013,Female,80 to 89,374976
-netherlands,2013,Female,90 to 99,80342
-netherlands,2013,Female,Overall,8472236
-netherlands,2013,Female,Overall,16944472
-netherlands,2013,Male,0 to 9,953132
-netherlands,2013,Male,10 to 19,1027146
+netherlands,2013,Female,20 to 29,1035671
+netherlands,2013,Female,30 to 39,1008884
+netherlands,2013,Female,40 to 49,1254021
+netherlands,2013,Female,50 to 59,1191451
+netherlands,2013,Female,60 to 69,1023077
+netherlands,2013,Female,70 to 79,652234.5
+netherlands,2013,Female,80 to 89,390370.5
+netherlands,2013,Female,90 to 99,74258
+netherlands,2013,Female,Overall,8464000
+netherlands,2013,Male,0 to 9,894759.5
+netherlands,2013,Male,10 to 19,1027301.5
 netherlands,2013,Male,100 and over,0
-netherlands,2013,Male,20 to 29,1049843
-netherlands,2013,Male,30 to 39,1019598
-netherlands,2013,Male,40 to 49,1289060
-netherlands,2013,Male,50 to 59,1178148
-netherlands,2013,Male,60 to 69,993467
-netherlands,2013,Male,70 to 79,549443
-netherlands,2013,Male,80 to 89,221654
-netherlands,2013,Male,90 to 99,25848
-netherlands,2013,Male,Overall,8307339
-netherlands,2013,Male,Overall,16614678
-netherlands,2014,Both,0 to 9,1833831
-netherlands,2014,Both,10 to 19,2012209
+netherlands,2013,Male,20 to 29,1057450
+netherlands,2013,Male,30 to 39,1009644
+netherlands,2013,Male,40 to 49,1265730
+netherlands,2013,Male,50 to 59,1198371.5
+netherlands,2013,Male,60 to 69,1017220
+netherlands,2013,Male,70 to 79,579107
+netherlands,2013,Male,80 to 89,239561.5
+netherlands,2013,Male,90 to 99,27263.5
+netherlands,2013,Male,Overall,8316408.5
+netherlands,2014,Both,0 to 9,1728993.5
+netherlands,2014,Both,10 to 19,2005185
 netherlands,2014,Both,100 and over,0
-netherlands,2014,Both,20 to 29,2099087
-netherlands,2014,Both,30 to 39,2018565
-netherlands,2014,Both,40 to 49,2517793
-netherlands,2014,Both,50 to 59,2384576
-netherlands,2014,Both,60 to 69,2029964
-netherlands,2014,Both,70 to 79,1216175
-netherlands,2014,Both,80 to 89,605398
-netherlands,2014,Both,90 to 99,111691
-netherlands,2014,Both,Overall,16829289
-netherlands,2014,Both,Overall,33658578
-netherlands,2014,Female,0 to 9,894902
-netherlands,2014,Female,10 to 19,983014
+netherlands,2014,Both,20 to 29,2110890
+netherlands,2014,Both,30 to 39,2012505.5
+netherlands,2014,Both,40 to 49,2464062
+netherlands,2014,Both,50 to 59,2426238
+netherlands,2014,Both,60 to 69,2070929.5
+netherlands,2014,Both,70 to 79,1273403.5
+netherlands,2014,Both,80 to 89,641939.5
+netherlands,2014,Both,90 to 99,105985.5
+netherlands,2014,Both,Overall,16840132
+netherlands,2014,Female,0 to 9,843614
+netherlands,2014,Female,10 to 19,979653
 netherlands,2014,Female,100 and over,0
-netherlands,2014,Female,20 to 29,1038888
-netherlands,2014,Female,30 to 39,1009081
-netherlands,2014,Female,40 to 49,1253537
-netherlands,2014,Female,50 to 59,1189480
-netherlands,2014,Female,60 to 69,1018930
-netherlands,2014,Female,70 to 79,646043
-netherlands,2014,Female,80 to 89,377115
-netherlands,2014,Female,90 to 99,83914
-netherlands,2014,Female,Overall,8494904
-netherlands,2014,Female,Overall,16989808
-netherlands,2014,Male,0 to 9,938929
-netherlands,2014,Male,10 to 19,1029195
+netherlands,2014,Female,20 to 29,1043576.5
+netherlands,2014,Female,30 to 39,1004785
+netherlands,2014,Female,40 to 49,1228820
+netherlands,2014,Female,50 to 59,1209724.5
+netherlands,2014,Female,60 to 69,1038763
+netherlands,2014,Female,70 to 79,671146
+netherlands,2014,Female,80 to 89,394003.5
+netherlands,2014,Female,90 to 99,77180.5
+netherlands,2014,Female,Overall,8491266
+netherlands,2014,Male,0 to 9,885379.5
+netherlands,2014,Male,10 to 19,1025532
 netherlands,2014,Male,100 and over,0
-netherlands,2014,Male,20 to 29,1060199
-netherlands,2014,Male,30 to 39,1009484
-netherlands,2014,Male,40 to 49,1264256
-netherlands,2014,Male,50 to 59,1195096
-netherlands,2014,Male,60 to 69,1011034
-netherlands,2014,Male,70 to 79,570132
-netherlands,2014,Male,80 to 89,228283
-netherlands,2014,Male,90 to 99,27777
-netherlands,2014,Male,Overall,8334385
-netherlands,2014,Male,Overall,16668770
-netherlands,2015,Both,0 to 9,1817977
-netherlands,2015,Both,10 to 19,2010082
-netherlands,2015,Both,100 and over,2170
-netherlands,2015,Both,20 to 29,2119706
-netherlands,2015,Both,30 to 39,2014741
-netherlands,2015,Both,40 to 49,2462781
-netherlands,2015,Both,50 to 59,2421570
-netherlands,2015,Both,60 to 69,2060616
-netherlands,2015,Both,70 to 79,1258277
-netherlands,2015,Both,80 to 89,618113
-netherlands,2015,Both,90 to 99,135478
-netherlands,2015,Both,Overall,16900726
-netherlands,2015,Both,Overall,33822237
-netherlands,2015,Female,0 to 9,887201
-netherlands,2015,Female,10 to 19,982124
-netherlands,2015,Female,100 and over,1874
-netherlands,2015,Female,20 to 29,1047984
-netherlands,2015,Female,30 to 39,1006095
-netherlands,2015,Female,40 to 49,1228645
-netherlands,2015,Female,50 to 59,1207855
-netherlands,2015,Female,60 to 69,1034581
-netherlands,2015,Female,70 to 79,664831
-netherlands,2015,Female,80 to 89,381272
-netherlands,2015,Female,90 to 99,102286
-netherlands,2015,Female,Overall,8527868
-netherlands,2015,Female,Overall,17072616
-netherlands,2015,Male,0 to 9,930776
-netherlands,2015,Male,10 to 19,1027958
-netherlands,2015,Male,100 and over,296
-netherlands,2015,Male,20 to 29,1071722
-netherlands,2015,Male,30 to 39,1008646
-netherlands,2015,Male,40 to 49,1234136
-netherlands,2015,Male,50 to 59,1213715
-netherlands,2015,Male,60 to 69,1026035
-netherlands,2015,Male,70 to 79,593446
-netherlands,2015,Male,80 to 89,236841
-netherlands,2015,Male,90 to 99,33192
-netherlands,2015,Male,Overall,8372858
-netherlands,2015,Male,Overall,16749621
-netherlands,2016,Both,0 to 9,1806892
-netherlands,2016,Both,10 to 19,2011607
-netherlands,2016,Both,100 and over,2101
-netherlands,2016,Both,20 to 29,2136948
-netherlands,2016,Both,30 to 39,2026754
-netherlands,2016,Both,40 to 49,2406726
-netherlands,2016,Both,50 to 59,2451133
-netherlands,2016,Both,60 to 69,2100455
-netherlands,2016,Both,70 to 79,1289857
-netherlands,2016,Both,80 to 89,629236
-netherlands,2016,Both,90 to 99,139945
-netherlands,2016,Both,Overall,16979120
-netherlands,2016,Both,Overall,33980774
-netherlands,2016,Female,0 to 9,881569
-netherlands,2016,Female,10 to 19,982118
-netherlands,2016,Female,100 and over,1827
-netherlands,2016,Female,20 to 29,1055138
-netherlands,2016,Female,30 to 39,1011073
-netherlands,2016,Female,40 to 49,1202759
-netherlands,2016,Female,50 to 59,1221554
-netherlands,2016,Female,60 to 69,1055613
-netherlands,2016,Female,70 to 79,679040
-netherlands,2016,Female,80 to 89,384442
-netherlands,2016,Female,90 to 99,104929
-netherlands,2016,Female,Overall,8561985
-netherlands,2016,Female,Overall,17142047
-netherlands,2016,Male,0 to 9,925323
-netherlands,2016,Male,10 to 19,1029489
-netherlands,2016,Male,100 and over,274
-netherlands,2016,Male,20 to 29,1081810
-netherlands,2016,Male,30 to 39,1015681
-netherlands,2016,Male,40 to 49,1203967
-netherlands,2016,Male,50 to 59,1229579
-netherlands,2016,Male,60 to 69,1044842
-netherlands,2016,Male,70 to 79,610817
-netherlands,2016,Male,80 to 89,244794
-netherlands,2016,Male,90 to 99,35016
-netherlands,2016,Male,Overall,8417135
-netherlands,2016,Male,Overall,16838727
-netherlands,2017,Both,0 to 9,1801469
-netherlands,2017,Both,10 to 19,2015704
-netherlands,2017,Both,100 and over,2225
-netherlands,2017,Both,20 to 29,2156330
-netherlands,2017,Both,30 to 39,2050309
-netherlands,2017,Both,40 to 49,2356471
-netherlands,2017,Both,50 to 59,2473222
-netherlands,2017,Both,60 to 69,2083983
-netherlands,2017,Both,70 to 79,1379744
-netherlands,2017,Both,80 to 89,641923
-netherlands,2017,Both,90 to 99,144003
-netherlands,2017,Both,Overall,17081507
-netherlands,2017,Both,Overall,34186890
-netherlands,2017,Female,0 to 9,878724
-netherlands,2017,Female,10 to 19,983571
-netherlands,2017,Female,100 and over,1905
-netherlands,2017,Female,20 to 29,1061903
-netherlands,2017,Female,30 to 39,1021980
-netherlands,2017,Female,40 to 49,1178819
-netherlands,2017,Female,50 to 59,1232247
-netherlands,2017,Female,60 to 69,1047861
-netherlands,2017,Female,70 to 79,722604
-netherlands,2017,Female,80 to 89,388788
-netherlands,2017,Female,90 to 99,107032
-netherlands,2017,Female,Overall,8606405
-netherlands,2017,Female,Overall,17231839
-netherlands,2017,Male,0 to 9,922745
-netherlands,2017,Male,10 to 19,1032133
-netherlands,2017,Male,100 and over,320
-netherlands,2017,Male,20 to 29,1094427
-netherlands,2017,Male,30 to 39,1028329
-netherlands,2017,Male,40 to 49,1177652
-netherlands,2017,Male,50 to 59,1240975
-netherlands,2017,Male,60 to 69,1036122
-netherlands,2017,Male,70 to 79,657140
-netherlands,2017,Male,80 to 89,253135
-netherlands,2017,Male,90 to 99,36971
-netherlands,2017,Male,Overall,8475102
-netherlands,2017,Male,Overall,16955051
-netherlands,2018,Both,0 to 9,1796165
-netherlands,2018,Both,10 to 19,2014491
-netherlands,2018,Both,100 and over,2180
-netherlands,2018,Both,20 to 29,2174938
-netherlands,2018,Both,30 to 39,2078145
-netherlands,2018,Both,40 to 49,2307135
-netherlands,2018,Both,50 to 59,2491356
-netherlands,2018,Both,60 to 69,2079275
-netherlands,2018,Both,70 to 79,1460665
-netherlands,2018,Both,80 to 89,654742
-netherlands,2018,Both,90 to 99,146754
-netherlands,2018,Both,Overall,17181084
-netherlands,2018,Both,Overall,34386930
-netherlands,2018,Female,0 to 9,875642
-netherlands,2018,Female,10 to 19,983128
-netherlands,2018,Female,100 and over,1857
-netherlands,2018,Female,20 to 29,1071802
-netherlands,2018,Female,30 to 39,1034666
-netherlands,2018,Female,40 to 49,1156224
-netherlands,2018,Female,50 to 59,1241003
-netherlands,2018,Female,60 to 69,1045860
-netherlands,2018,Female,70 to 79,762277
-netherlands,2018,Female,80 to 89,393142
-netherlands,2018,Female,90 to 99,108105
-netherlands,2018,Female,Overall,8654043
-netherlands,2018,Female,Overall,17327749
-netherlands,2018,Male,0 to 9,920523
-netherlands,2018,Male,10 to 19,1031363
-netherlands,2018,Male,100 and over,323
-netherlands,2018,Male,20 to 29,1103136
-netherlands,2018,Male,30 to 39,1043479
-netherlands,2018,Male,40 to 49,1150911
-netherlands,2018,Male,50 to 59,1250353
-netherlands,2018,Male,60 to 69,1033415
-netherlands,2018,Male,70 to 79,698388
-netherlands,2018,Male,80 to 89,261600
-netherlands,2018,Male,90 to 99,38649
-netherlands,2018,Male,Overall,8527041
-netherlands,2018,Male,Overall,17059181
-netherlands,2019,Both,0 to 9,1783504
-netherlands,2019,Both,10 to 19,2008334
-netherlands,2019,Both,100 and over,2189
-netherlands,2019,Both,20 to 29,2201788
-netherlands,2019,Both,30 to 39,2108199
-netherlands,2019,Both,40 to 49,2261107
-netherlands,2019,Both,50 to 59,2508388
-netherlands,2019,Both,60 to 69,2089913
-netherlands,2019,Both,70 to 79,1522110
-netherlands,2019,Both,80 to 89,672182
-netherlands,2019,Both,90 to 99,150124
-netherlands,2019,Both,Overall,17282163
-netherlands,2019,Both,Overall,34590001
-netherlands,2019,Female,0 to 9,869613
-netherlands,2019,Female,10 to 19,980499
-netherlands,2019,Female,100 and over,1850
-netherlands,2019,Female,20 to 29,1084435
-netherlands,2019,Female,30 to 39,1048089
-netherlands,2019,Female,40 to 49,1134107
-netherlands,2019,Female,50 to 59,1249800
-netherlands,2019,Female,60 to 69,1051908
-netherlands,2019,Female,70 to 79,791774
-netherlands,2019,Female,80 to 89,399470
-netherlands,2019,Female,90 to 99,109624
-netherlands,2019,Female,Overall,8701077
-netherlands,2019,Female,Overall,17422246
-netherlands,2019,Male,0 to 9,913891
-netherlands,2019,Male,10 to 19,1027835
-netherlands,2019,Male,100 and over,339
-netherlands,2019,Male,20 to 29,1117353
-netherlands,2019,Male,30 to 39,1060110
-netherlands,2019,Male,40 to 49,1127000
-netherlands,2019,Male,50 to 59,1258588
-netherlands,2019,Male,60 to 69,1038005
-netherlands,2019,Male,70 to 79,730336
-netherlands,2019,Male,80 to 89,272712
-netherlands,2019,Male,90 to 99,40500
-netherlands,2019,Male,Overall,8581086
-netherlands,2019,Male,Overall,17167755
-netherlands,2020,Both,0 to 9,1772895
-netherlands,2020,Both,10 to 19,2002362
-netherlands,2020,Both,100 and over,2398
-netherlands,2020,Both,20 to 29,2233550
-netherlands,2020,Both,30 to 39,2147931
-netherlands,2020,Both,40 to 49,2208076
-netherlands,2020,Both,50 to 59,2532418
-netherlands,2020,Both,60 to 69,2113846
-netherlands,2020,Both,70 to 79,1574419
-netherlands,2020,Both,80 to 89,692257
-netherlands,2020,Both,90 to 99,154146
-netherlands,2020,Both,Overall,17407585
-netherlands,2020,Both,Overall,34841883
-netherlands,2020,Female,0 to 9,864531
-netherlands,2020,Female,10 to 19,977784
-netherlands,2020,Female,100 and over,2006
-netherlands,2020,Female,20 to 29,1099286
-netherlands,2020,Female,30 to 39,1066068
-netherlands,2020,Female,40 to 49,1108213
-netherlands,2020,Female,50 to 59,1261681
-netherlands,2020,Female,60 to 69,1064184
-netherlands,2020,Female,70 to 79,816829
-netherlands,2020,Female,80 to 89,407958
-netherlands,2020,Female,90 to 99,111900
-netherlands,2020,Female,Overall,8759554
-netherlands,2020,Female,Overall,17539994
-netherlands,2020,Male,0 to 9,908364
-netherlands,2020,Male,10 to 19,1024578
-netherlands,2020,Male,100 and over,392
-netherlands,2020,Male,20 to 29,1134264
-netherlands,2020,Male,30 to 39,1081863
-netherlands,2020,Male,40 to 49,1099863
-netherlands,2020,Male,50 to 59,1270737
-netherlands,2020,Male,60 to 69,1049662
-netherlands,2020,Male,70 to 79,757590
-netherlands,2020,Male,80 to 89,284299
-netherlands,2020,Male,90 to 99,42246
-netherlands,2020,Male,Overall,8648031
-netherlands,2020,Male,Overall,17301889
-netherlands,2021,Both,0 to 9,1757453
-netherlands,2021,Both,10 to 19,1986013
-netherlands,2021,Both,100 and over,2536
-netherlands,2021,Both,20 to 29,2240428
-netherlands,2021,Both,30 to 39,2180575
-netherlands,2021,Both,40 to 49,2166062
-netherlands,2021,Both,50 to 59,2549688
-netherlands,2021,Both,60 to 69,2141439
-netherlands,2021,Both,70 to 79,1615096
-netherlands,2021,Both,80 to 89,706932
-netherlands,2021,Both,90 to 99,155874
-netherlands,2021,Both,Overall,17475415
-netherlands,2021,Both,Overall,34977511
-netherlands,2021,Female,0 to 9,856580
-netherlands,2021,Female,10 to 19,969671
-netherlands,2021,Female,100 and over,2125
-netherlands,2021,Female,20 to 29,1101547
-netherlands,2021,Female,30 to 39,1079839
-netherlands,2021,Female,40 to 49,1087049
-netherlands,2021,Female,50 to 59,1270836
-netherlands,2021,Female,60 to 69,1078521
-netherlands,2021,Female,70 to 79,837383
-netherlands,2021,Female,80 to 89,413510
-netherlands,2021,Female,90 to 99,112574
-netherlands,2021,Female,Overall,8788879
-netherlands,2021,Female,Overall,17598514
-netherlands,2021,Male,0 to 9,900873
-netherlands,2021,Male,10 to 19,1016342
-netherlands,2021,Male,100 and over,411
-netherlands,2021,Male,20 to 29,1138881
-netherlands,2021,Male,30 to 39,1100736
-netherlands,2021,Male,40 to 49,1079013
-netherlands,2021,Male,50 to 59,1278852
-netherlands,2021,Male,60 to 69,1062918
-netherlands,2021,Male,70 to 79,777713
-netherlands,2021,Male,80 to 89,293422
-netherlands,2021,Male,90 to 99,43300
-netherlands,2021,Male,Overall,8686536
-netherlands,2021,Male,Overall,17378997
-netherlands,2022,Both,0 to 9,1759273
-netherlands,2022,Both,10 to 19,1978544
-netherlands,2022,Both,100 and over,2595
-netherlands,2022,Both,20 to 29,2267391
-netherlands,2022,Both,30 to 39,2220450
-netherlands,2022,Both,40 to 49,2132501
-netherlands,2022,Both,50 to 59,2548563
-netherlands,2022,Both,60 to 69,2175813
-netherlands,2022,Both,70 to 79,1655030
-netherlands,2022,Both,80 to 89,719558
-netherlands,2022,Both,90 to 99,157763
-netherlands,2022,Both,Overall,17590672
-netherlands,2022,Both,Overall,35208153
-netherlands,2022,Female,0 to 9,857772
-netherlands,2022,Female,10 to 19,966113
-netherlands,2022,Female,100 and over,2165
-netherlands,2022,Female,20 to 29,1115502
-netherlands,2022,Female,30 to 39,1097278
-netherlands,2022,Female,40 to 49,1070268
-netherlands,2022,Female,50 to 59,1271096
-netherlands,2022,Female,60 to 69,1096496
-netherlands,2022,Female,70 to 79,857776
-netherlands,2022,Female,80 to 89,418139
-netherlands,2022,Female,90 to 99,113366
-netherlands,2022,Female,Overall,8845204
-netherlands,2022,Female,Overall,17711175
-netherlands,2022,Male,0 to 9,901501
-netherlands,2022,Male,10 to 19,1012431
-netherlands,2022,Male,100 and over,430
-netherlands,2022,Male,20 to 29,1151889
-netherlands,2022,Male,30 to 39,1123172
-netherlands,2022,Male,40 to 49,1062233
-netherlands,2022,Male,50 to 59,1277467
-netherlands,2022,Male,60 to 69,1079317
-netherlands,2022,Male,70 to 79,797254
-netherlands,2022,Male,80 to 89,301419
-netherlands,2022,Male,90 to 99,44397
-netherlands,2022,Male,Overall,8745468
-netherlands,2022,Male,Overall,17496978
-netherlands,2023,Both,0 to 9,1766806
-netherlands,2023,Both,10 to 19,1983652
-netherlands,2023,Both,100 and over,2572
-netherlands,2023,Both,20 to 29,2322262
-netherlands,2023,Both,30 to 39,2289762
-netherlands,2023,Both,40 to 49,2124542
-netherlands,2023,Both,50 to 59,2541679
-netherlands,2023,Both,60 to 69,2212042
-netherlands,2023,Both,70 to 79,1697929
-netherlands,2023,Both,80 to 89,737399
-netherlands,2023,Both,90 to 99,158963
-netherlands,2023,Both,Overall,17811291
-netherlands,2023,Both,Overall,35648899
-netherlands,2023,Female,0 to 9,861698
-netherlands,2023,Female,10 to 19,968439
-netherlands,2023,Female,100 and over,2172
-netherlands,2023,Female,20 to 29,1144551
-netherlands,2023,Female,30 to 39,1131932
-netherlands,2023,Female,40 to 49,1067291
-netherlands,2023,Female,50 to 59,1270978
-netherlands,2023,Female,60 to 69,1115830
-netherlands,2023,Female,70 to 79,880084
-netherlands,2023,Female,80 to 89,425089
-netherlands,2023,Female,90 to 99,113182
-netherlands,2023,Female,Overall,8960982
-netherlands,2023,Female,Overall,17942228
-netherlands,2023,Male,0 to 9,905108
-netherlands,2023,Male,10 to 19,1015213
-netherlands,2023,Male,100 and over,400
-netherlands,2023,Male,20 to 29,1177711
-netherlands,2023,Male,30 to 39,1157830
-netherlands,2023,Male,40 to 49,1057251
-netherlands,2023,Male,50 to 59,1270701
-netherlands,2023,Male,60 to 69,1096212
-netherlands,2023,Male,70 to 79,817845
-netherlands,2023,Male,80 to 89,312310
-netherlands,2023,Male,90 to 99,45781
-netherlands,2023,Male,Overall,8850309
-netherlands,2023,Male,Overall,17706671
-netherlands,2024,Both,0 to 9,1762380
-netherlands,2024,Both,10 to 19,1970879
-netherlands,2024,Both,100 and over,2555
-netherlands,2024,Both,20 to 29,2355424
-netherlands,2024,Both,30 to 39,2341054
-netherlands,2024,Both,40 to 49,2125060
-netherlands,2024,Both,50 to 59,2508947
-netherlands,2024,Both,60 to 69,2249572
-netherlands,2024,Both,70 to 79,1728947
-netherlands,2024,Both,80 to 89,764113
-netherlands,2024,Both,90 to 99,160627
-netherlands,2024,Both,Overall,17942942
-netherlands,2024,Both,Overall,35912500
-netherlands,2024,Female,0 to 9,859962
-netherlands,2024,Female,10 to 19,959960
-netherlands,2024,Female,100 and over,2096
-netherlands,2024,Female,20 to 29,1160985
-netherlands,2024,Female,30 to 39,1155187
-netherlands,2024,Female,40 to 49,1066728
-netherlands,2024,Female,50 to 59,1256830
-netherlands,2024,Female,60 to 69,1134364
-netherlands,2024,Female,70 to 79,896053
-netherlands,2024,Female,80 to 89,436860
-netherlands,2024,Female,90 to 99,113428
-netherlands,2024,Female,Overall,9022174
-netherlands,2024,Female,Overall,18064627
-netherlands,2024,Male,0 to 9,902418
-netherlands,2024,Male,10 to 19,1010919
-netherlands,2024,Male,100 and over,459
-netherlands,2024,Male,20 to 29,1194439
-netherlands,2024,Male,30 to 39,1185867
-netherlands,2024,Male,40 to 49,1058332
-netherlands,2024,Male,50 to 59,1252117
-netherlands,2024,Male,60 to 69,1115208
-netherlands,2024,Male,70 to 79,832894
-netherlands,2024,Male,80 to 89,327253
-netherlands,2024,Male,90 to 99,47199
-netherlands,2024,Male,Overall,8920768
-netherlands,2024,Male,Overall,17847873
+netherlands,2014,Male,20 to 29,1067313.5
+netherlands,2014,Male,30 to 39,1007720.5
+netherlands,2014,Male,40 to 49,1235242
+netherlands,2014,Male,50 to 59,1216513.5
+netherlands,2014,Male,60 to 69,1032166.5
+netherlands,2014,Male,70 to 79,602257.5
+netherlands,2014,Male,80 to 89,247936
+netherlands,2014,Male,90 to 99,28805
+netherlands,2014,Male,Overall,8348866
+netherlands,2015,Both,0 to 9,1718289
+netherlands,2015,Both,10 to 19,2004387.5
+netherlands,2015,Both,100 and over,2830.5
+netherlands,2015,Both,20 to 29,2125659
+netherlands,2015,Both,30 to 39,2022979
+netherlands,2015,Both,40 to 49,2406672.5
+netherlands,2015,Both,50 to 59,2455780.5
+netherlands,2015,Both,60 to 69,2111083
+netherlands,2015,Both,70 to 79,1305691.5
+netherlands,2015,Both,80 to 89,654618.5
+netherlands,2015,Both,90 to 99,131932
+netherlands,2015,Both,Overall,16939923
+netherlands,2015,Female,0 to 9,838407
+netherlands,2015,Female,10 to 19,978794.5
+netherlands,2015,Female,100 and over,2437
+netherlands,2015,Female,20 to 29,1049565
+netherlands,2015,Female,30 to 39,1009167.5
+netherlands,2015,Female,40 to 49,1202500
+netherlands,2015,Female,50 to 59,1223505.5
+netherlands,2015,Female,60 to 69,1059962.5
+netherlands,2015,Female,70 to 79,685540.5
+netherlands,2015,Female,80 to 89,398023
+netherlands,2015,Female,90 to 99,97024
+netherlands,2015,Female,Overall,8544926.5
+netherlands,2015,Male,0 to 9,879882
+netherlands,2015,Male,10 to 19,1025593
+netherlands,2015,Male,100 and over,393.5
+netherlands,2015,Male,20 to 29,1076094
+netherlands,2015,Male,30 to 39,1013811.5
+netherlands,2015,Male,40 to 49,1204172.5
+netherlands,2015,Male,50 to 59,1232275
+netherlands,2015,Male,60 to 69,1051120.5
+netherlands,2015,Male,70 to 79,620151
+netherlands,2015,Male,80 to 89,256595.5
+netherlands,2015,Male,90 to 99,34908
+netherlands,2015,Male,Overall,8394996.5
+netherlands,2016,Both,0 to 9,1710628.5
+netherlands,2016,Both,10 to 19,2006249
+netherlands,2016,Both,100 and over,2892
+netherlands,2016,Both,20 to 29,2141476.5
+netherlands,2016,Both,30 to 39,2044328.5
+netherlands,2016,Both,40 to 49,2355048.5
+netherlands,2016,Both,50 to 59,2476966.5
+netherlands,2016,Both,60 to 69,2094158
+netherlands,2016,Both,70 to 79,1396048.5
+netherlands,2016,Both,80 to 89,667438
+netherlands,2016,Both,90 to 99,135079.5
+netherlands,2016,Both,Overall,17030313.5
+netherlands,2016,Female,0 to 9,834602
+netherlands,2016,Female,10 to 19,979295.5
+netherlands,2016,Female,100 and over,2476.5
+netherlands,2016,Female,20 to 29,1054842.5
+netherlands,2016,Female,30 to 39,1019179.5
+netherlands,2016,Female,40 to 49,1177899
+netherlands,2016,Female,50 to 59,1233889.5
+netherlands,2016,Female,60 to 69,1052027.5
+netherlands,2016,Female,70 to 79,729360.5
+netherlands,2016,Female,80 to 89,402172
+netherlands,2016,Female,90 to 99,98450.5
+netherlands,2016,Female,Overall,8584195
+netherlands,2016,Male,0 to 9,876026.5
+netherlands,2016,Male,10 to 19,1026953.5
+netherlands,2016,Male,100 and over,415.5
+netherlands,2016,Male,20 to 29,1086634
+netherlands,2016,Male,30 to 39,1025149
+netherlands,2016,Male,40 to 49,1177149.5
+netherlands,2016,Male,50 to 59,1243077
+netherlands,2016,Male,60 to 69,1042130.5
+netherlands,2016,Male,70 to 79,666688
+netherlands,2016,Male,80 to 89,265266
+netherlands,2016,Male,90 to 99,36629
+netherlands,2016,Male,Overall,8446118.5
+netherlands,2017,Both,0 to 9,1706480.5
+netherlands,2017,Both,10 to 19,2004786
+netherlands,2017,Both,100 and over,2954
+netherlands,2017,Both,20 to 29,2161154
+netherlands,2017,Both,30 to 39,2071678.5
+netherlands,2017,Both,40 to 49,2305375.5
+netherlands,2017,Both,50 to 59,2494710.5
+netherlands,2017,Both,60 to 69,2088972.5
+netherlands,2017,Both,70 to 79,1477267.5
+netherlands,2017,Both,80 to 89,680543
+netherlands,2017,Both,90 to 99,137373.5
+netherlands,2017,Both,Overall,17131295.5
+netherlands,2017,Female,0 to 9,831978.5
+netherlands,2017,Female,10 to 19,978214.5
+netherlands,2017,Female,100 and over,2510
+netherlands,2017,Female,20 to 29,1064340.5
+netherlands,2017,Female,30 to 39,1031132.5
+netherlands,2017,Female,40 to 49,1154938.5
+netherlands,2017,Female,50 to 59,1242276.5
+netherlands,2017,Female,60 to 69,1049831
+netherlands,2017,Female,70 to 79,769198.5
+netherlands,2017,Female,80 to 89,406685.5
+netherlands,2017,Female,90 to 99,99118
+netherlands,2017,Female,Overall,8630224
+netherlands,2017,Male,0 to 9,874502
+netherlands,2017,Male,10 to 19,1026571.5
+netherlands,2017,Male,100 and over,444
+netherlands,2017,Male,20 to 29,1096813.5
+netherlands,2017,Male,30 to 39,1040546
+netherlands,2017,Male,40 to 49,1150437
+netherlands,2017,Male,50 to 59,1252434
+netherlands,2017,Male,60 to 69,1039141.5
+netherlands,2017,Male,70 to 79,708069
+netherlands,2017,Male,80 to 89,273857.5
+netherlands,2017,Male,90 to 99,38255.5
+netherlands,2017,Male,Overall,8501071.5
+netherlands,2018,Both,0 to 9,1695253.5
+netherlands,2018,Both,10 to 19,1999100.5
+netherlands,2018,Both,100 and over,2931.5
+netherlands,2018,Both,20 to 29,2187177
+netherlands,2018,Both,30 to 39,2099765.5
+netherlands,2018,Both,40 to 49,2258228.5
+netherlands,2018,Both,50 to 59,2511406.5
+netherlands,2018,Both,60 to 69,2099652.5
+netherlands,2018,Both,70 to 79,1539419
+netherlands,2018,Both,80 to 89,698365.5
+netherlands,2018,Both,90 to 99,140323.5
+netherlands,2018,Both,Overall,17231623.5
+netherlands,2018,Female,0 to 9,826559
+netherlands,2018,Female,10 to 19,975645.5
+netherlands,2018,Female,100 and over,2475
+netherlands,2018,Female,20 to 29,1076851
+netherlands,2018,Female,30 to 39,1043998
+netherlands,2018,Female,40 to 49,1132497
+netherlands,2018,Female,50 to 59,1251030
+netherlands,2018,Female,60 to 69,1055896
+netherlands,2018,Female,70 to 79,799057.5
+netherlands,2018,Female,80 to 89,413165.5
+netherlands,2018,Female,90 to 99,100385.5
+netherlands,2018,Female,Overall,8677560
+netherlands,2018,Male,0 to 9,868694.5
+netherlands,2018,Male,10 to 19,1023455
+netherlands,2018,Male,100 and over,456.5
+netherlands,2018,Male,20 to 29,1110326
+netherlands,2018,Male,30 to 39,1055767.5
+netherlands,2018,Male,40 to 49,1125731.5
+netherlands,2018,Male,50 to 59,1260376.5
+netherlands,2018,Male,60 to 69,1043756.5
+netherlands,2018,Male,70 to 79,740361.5
+netherlands,2018,Male,80 to 89,285200
+netherlands,2018,Male,90 to 99,39938
+netherlands,2018,Male,Overall,8554063.5
+netherlands,2019,Both,0 to 9,1683439.5
+netherlands,2019,Both,10 to 19,1991373.5
+netherlands,2019,Both,100 and over,3122.5
+netherlands,2019,Both,20 to 29,2215956.5
+netherlands,2019,Both,30 to 39,2136511.5
+netherlands,2019,Both,40 to 49,2203582
+netherlands,2019,Both,50 to 59,2534730
+netherlands,2019,Both,60 to 69,2123017
+netherlands,2019,Both,70 to 79,1591797.5
+netherlands,2019,Both,80 to 89,718248.5
+netherlands,2019,Both,90 to 99,143095.5
+netherlands,2019,Both,Overall,17344874
+netherlands,2019,Female,0 to 9,820878
+netherlands,2019,Female,10 to 19,972194
+netherlands,2019,Female,100 and over,2595.5
+netherlands,2019,Female,20 to 29,1090297
+netherlands,2019,Female,30 to 39,1060721
+netherlands,2019,Female,40 to 49,1105946
+netherlands,2019,Female,50 to 59,1262638.5
+netherlands,2019,Female,60 to 69,1067999
+netherlands,2019,Female,70 to 79,824161
+netherlands,2019,Female,80 to 89,421276
+netherlands,2019,Female,90 to 99,101609.5
+netherlands,2019,Female,Overall,8730315.5
+netherlands,2019,Male,0 to 9,862561.5
+netherlands,2019,Male,10 to 19,1019179.5
+netherlands,2019,Male,100 and over,527
+netherlands,2019,Male,20 to 29,1125659.5
+netherlands,2019,Male,30 to 39,1075790.5
+netherlands,2019,Male,40 to 49,1097636
+netherlands,2019,Male,50 to 59,1272091.5
+netherlands,2019,Male,60 to 69,1055018
+netherlands,2019,Male,70 to 79,767636.5
+netherlands,2019,Male,80 to 89,296972.5
+netherlands,2019,Male,90 to 99,41486
+netherlands,2019,Male,Overall,8614558.5
+netherlands,2020,Both,0 to 9,1670238.5
+netherlands,2020,Both,10 to 19,1976878.5
+netherlands,2020,Both,100 and over,3412.5
+netherlands,2020,Both,20 to 29,2233494.5
+netherlands,2020,Both,30 to 39,2173690
+netherlands,2020,Both,40 to 49,2162900.5
+netherlands,2020,Both,50 to 59,2551941.5
+netherlands,2020,Both,60 to 69,2151225
+netherlands,2020,Both,70 to 79,1634705
+netherlands,2020,Both,80 to 89,736407.5
+netherlands,2020,Both,90 to 99,146606.5
+netherlands,2020,Both,Overall,17441500
+netherlands,2020,Female,0 to 9,814120
+netherlands,2020,Female,10 to 19,964990.5
+netherlands,2020,Female,100 and over,2840
+netherlands,2020,Female,20 to 29,1098717.5
+netherlands,2020,Female,30 to 39,1076741.5
+netherlands,2020,Female,40 to 49,1085459
+netherlands,2020,Female,50 to 59,1271692
+netherlands,2020,Female,60 to 69,1082477
+netherlands,2020,Female,70 to 79,845470
+netherlands,2020,Female,80 to 89,428320.5
+netherlands,2020,Female,90 to 99,103388.5
+netherlands,2020,Female,Overall,8774216.5
+netherlands,2020,Male,0 to 9,856118.5
+netherlands,2020,Male,10 to 19,1011888
+netherlands,2020,Male,100 and over,572.5
+netherlands,2020,Male,20 to 29,1134777
+netherlands,2020,Male,30 to 39,1096948.5
+netherlands,2020,Male,40 to 49,1077441.5
+netherlands,2020,Male,50 to 59,1280249.5
+netherlands,2020,Male,60 to 69,1068748
+netherlands,2020,Male,70 to 79,789235
+netherlands,2020,Male,80 to 89,308087
+netherlands,2020,Male,90 to 99,43218
+netherlands,2020,Male,Overall,8667283.5
+netherlands,2021,Both,0 to 9,1665567
+netherlands,2021,Both,10 to 19,1965038
+netherlands,2021,Both,100 and over,3484
+netherlands,2021,Both,20 to 29,2247779
+netherlands,2021,Both,30 to 39,2211241.5
+netherlands,2021,Both,40 to 49,2129321.5
+netherlands,2021,Both,50 to 59,2551752
+netherlands,2021,Both,60 to 69,2186358
+netherlands,2021,Both,70 to 79,1675611
+netherlands,2021,Both,80 to 89,748733
+netherlands,2021,Both,90 to 99,148158.5
+netherlands,2021,Both,Overall,17533043.5
+netherlands,2021,Female,0 to 9,812006.5
+netherlands,2021,Female,10 to 19,959075.5
+netherlands,2021,Female,100 and over,2883.5
+netherlands,2021,Female,20 to 29,1105283
+netherlands,2021,Female,30 to 39,1093044
+netherlands,2021,Female,40 to 49,1068622
+netherlands,2021,Female,50 to 59,1272289
+netherlands,2021,Female,60 to 69,1100905
+netherlands,2021,Female,70 to 79,866295.5
+netherlands,2021,Female,80 to 89,432664
+netherlands,2021,Female,90 to 99,103973.5
+netherlands,2021,Female,Overall,8817041.5
+netherlands,2021,Male,0 to 9,853560.5
+netherlands,2021,Male,10 to 19,1005962.5
+netherlands,2021,Male,100 and over,600.5
+netherlands,2021,Male,20 to 29,1142496
+netherlands,2021,Male,30 to 39,1118197.5
+netherlands,2021,Male,40 to 49,1060699.5
+netherlands,2021,Male,50 to 59,1279463
+netherlands,2021,Male,60 to 69,1085453
+netherlands,2021,Male,70 to 79,809315.5
+netherlands,2021,Male,80 to 89,316069
+netherlands,2021,Male,90 to 99,44185
+netherlands,2021,Male,Overall,8716002
+netherlands,2022,Both,0 to 9,1671665
+netherlands,2022,Both,10 to 19,1961016.5
+netherlands,2022,Both,100 and over,3539.5
+netherlands,2022,Both,20 to 29,2290074.5
+netherlands,2022,Both,30 to 39,2267013.5
+netherlands,2022,Both,40 to 49,2113021.5
+netherlands,2022,Both,50 to 59,2541122
+netherlands,2022,Both,60 to 69,2219697
+netherlands,2022,Both,70 to 79,1717591.5
+netherlands,2022,Both,80 to 89,765922.5
+netherlands,2022,Both,90 to 99,150318
+netherlands,2022,Both,Overall,17700981.5
+netherlands,2022,Female,0 to 9,815203
+netherlands,2022,Female,10 to 19,956954.5
+netherlands,2022,Female,100 and over,2950.5
+netherlands,2022,Female,20 to 29,1127825.5
+netherlands,2022,Female,30 to 39,1119820.5
+netherlands,2022,Female,40 to 49,1060221.5
+netherlands,2022,Female,50 to 59,1269485.5
+netherlands,2022,Female,60 to 69,1118317.5
+netherlands,2022,Female,70 to 79,888115.5
+netherlands,2022,Female,80 to 89,439535.5
+netherlands,2022,Female,90 to 99,104663.5
+netherlands,2022,Female,Overall,8903093
+netherlands,2022,Male,0 to 9,856462
+netherlands,2022,Male,10 to 19,1004062
+netherlands,2022,Male,100 and over,589
+netherlands,2022,Male,20 to 29,1162249
+netherlands,2022,Male,30 to 39,1147193
+netherlands,2022,Male,40 to 49,1052800
+netherlands,2022,Male,50 to 59,1271636.5
+netherlands,2022,Male,60 to 69,1101379.5
+netherlands,2022,Male,70 to 79,829476
+netherlands,2022,Male,80 to 89,326387
+netherlands,2022,Male,90 to 99,45654.5
+netherlands,2022,Male,Overall,8797888.5
+netherlands,2023,Both,0 to 9,1674321
+netherlands,2023,Both,10 to 19,1954316
+netherlands,2023,Both,100 and over,3456
+netherlands,2023,Both,20 to 29,2334034
+netherlands,2023,Both,30 to 39,2327562.5
+netherlands,2023,Both,40 to 49,2118876
+netherlands,2023,Both,50 to 59,2510885.5
+netherlands,2023,Both,60 to 69,2259464.5
+netherlands,2023,Both,70 to 79,1749510
+netherlands,2023,Both,80 to 89,793118.5
+netherlands,2023,Both,90 to 99,151572.5
+netherlands,2023,Both,Overall,17877116.5
+netherlands,2023,Female,0 to 9,816961
+netherlands,2023,Female,10 to 19,952212.5
+netherlands,2023,Female,100 and over,2850.5
+netherlands,2023,Female,20 to 29,1150539.5
+netherlands,2023,Female,30 to 39,1148799
+netherlands,2023,Female,40 to 49,1063430
+netherlands,2023,Female,50 to 59,1257342.5
+netherlands,2023,Female,60 to 69,1138452.5
+netherlands,2023,Female,70 to 79,904815
+netherlands,2023,Female,80 to 89,451445.5
+netherlands,2023,Female,90 to 99,104730
+netherlands,2023,Female,Overall,8991578
+netherlands,2023,Male,0 to 9,857360
+netherlands,2023,Male,10 to 19,1002103.5
+netherlands,2023,Male,100 and over,605.5
+netherlands,2023,Male,20 to 29,1183494.5
+netherlands,2023,Male,30 to 39,1178763.5
+netherlands,2023,Male,40 to 49,1055446
+netherlands,2023,Male,50 to 59,1253543
+netherlands,2023,Male,60 to 69,1121012
+netherlands,2023,Male,70 to 79,844695
+netherlands,2023,Male,80 to 89,341673
+netherlands,2023,Male,90 to 99,46842.5
+netherlands,2023,Male,Overall,8885538.5
+netherlands,2024,Both,0 to 9,1664545.5
+netherlands,2024,Both,10 to 19,1950744.5
+netherlands,2024,Both,100 and over,3499.5
+netherlands,2024,Both,20 to 29,2353460
+netherlands,2024,Both,30 to 39,2369561.5
+netherlands,2024,Both,40 to 49,2132025.5
+netherlands,2024,Both,50 to 59,2467341.5
+netherlands,2024,Both,60 to 69,2298324
+netherlands,2024,Both,70 to 79,1776504
+netherlands,2024,Both,80 to 89,823297.5
+netherlands,2024,Both,90 to 99,154181
+netherlands,2024,Both,Overall,17993484.5
+netherlands,2024,Female,0 to 9,811980.5
+netherlands,2024,Female,10 to 19,948646.5
+netherlands,2024,Female,100 and over,2854
+netherlands,2024,Female,20 to 29,1159747.5
+netherlands,2024,Female,30 to 39,1168012.5
+netherlands,2024,Female,40 to 49,1068171
+netherlands,2024,Female,50 to 59,1237696
+netherlands,2024,Female,60 to 69,1157599.5
+netherlands,2024,Female,70 to 79,918387.5
+netherlands,2024,Female,80 to 89,465400.5
+netherlands,2024,Female,90 to 99,105379.5
+netherlands,2024,Female,Overall,9043875
+netherlands,2024,Male,0 to 9,852565
+netherlands,2024,Male,10 to 19,1002098
+netherlands,2024,Male,100 and over,645.5
+netherlands,2024,Male,20 to 29,1193712.5
+netherlands,2024,Male,30 to 39,1201549
+netherlands,2024,Male,40 to 49,1063854.5
+netherlands,2024,Male,50 to 59,1229645.5
+netherlands,2024,Male,60 to 69,1140724.5
+netherlands,2024,Male,70 to 79,858116.5
+netherlands,2024,Male,80 to 89,357897
+netherlands,2024,Male,90 to 99,48801.5
+netherlands,2024,Male,Overall,8949609.5
