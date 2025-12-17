@@ -7,6 +7,18 @@ if(!exists("cancersToRun")){
   cancersToRun = c("respiratory", "digestive","male","female","hematologic", "oral","urinary","skin", "other")
 }
 
+startdate <- tryCatch(as.Date(startdate),error = function(e) NA)
+if (is.na(startdate)) {
+  print("Invalid start date. Setting 2000-01-01 as start date.")
+  startdate <- as.Date("2000-01-01")
+}
+
+enddate <- tryCatch(as.Date(enddate),error = function(e) NA)
+if (is.na(enddate)) {
+  print("Invalid end date. Setting 2024-12-31 as end date.")
+  enddate <- as.Date("2024-12-31")
+}
+
 # start the clock
 start <- Sys.time()
 
