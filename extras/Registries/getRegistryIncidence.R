@@ -249,6 +249,8 @@ getRegistryIncidence <- function(cdm,
           )         
         warning(paste0("No population data for denominator id ", denominatorCohortId, " during year ", year_i))
       }
+
+      ir[[paste0(i)]] <- ir[[paste0(i)]] %>% mutate(n_events = as.numeric(n_events))
     }
 
     ir <- dplyr::bind_rows(ir) %>%
