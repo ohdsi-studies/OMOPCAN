@@ -60,13 +60,26 @@ executeSurvival <- TRUE
 minimum_counts <- 10
 
 # create cdm reference 
-cdm <- CDMConnector::cdmFromCon(
-  con = db,
-  cdmSchema = cdm_database_schema,
-  writeSchema = results_database_schema,
-  writePrefix = stem_table,
-  cdmName = db_name
-)
+if(executeInstantiateCohorts){
+  cdm <- CDMConnector::cdmFromCon(
+    con = db,
+    cdmSchema = cdm_database_schema,
+    writeSchema = results_database_schema,
+    writePrefix = stem_table,
+    cdmName = db_name
+  )
+} else{
+  listCohorts <- c("outcome_all", "exclusion")
+  if(!isRegistry){listCohorts <- c(listCohorts, "denominator", "conditions_all", "medications")}
+  cdm <- CDMConnector::cdmFromCon(
+    con = db, 
+    cdmSchema = cdm_database_schema,
+    writeSchema = results_database_schema, 
+    writePrefix = stem_table,
+    cdmName = db_name,
+    cohortTables = listCohorts
+  )
+}
 
 if(isRegistry){
   source(here::here("RunStudyRegistry.R"))
