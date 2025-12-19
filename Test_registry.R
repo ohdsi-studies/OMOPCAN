@@ -70,6 +70,9 @@ cdm <- CDMConnector::cdmFromCon(
 
 cancersToRun = c("respiratory","female")
 
+executeInstantiateCohorts <- FALSE
+executeCharacterisation <- FALSE
+
 if(isRegistry){
   source(here::here("RunStudyRegistry.R"))
 }else{
