@@ -60,6 +60,7 @@ executeSurvival <- TRUE
 minimum_counts <- 10
 
 # create cdm reference 
+executeInstantiateCohorts <- TRUE
 if(executeInstantiateCohorts){
   cdm <- CDMConnector::cdmFromCon(
     con = db,
