@@ -64,13 +64,14 @@ if (grepl("NAJS", db_name, ignore.case=TRUE)){
       targetEndDate = "condition_end_date"
     ) %>% 
     compute(name= "outcome_all", overwrite=TRUE)
-  #Filter first record per cancer
+  #Filter first record per cancer and set cohort_end to end of observation period
   cdm$outcome_all <- cdm$outcome_all %>% 
-    group_by(cohort_definition_id, subject_id ) %>% 
-    slice_min(n = 1, order_by = cohort_start_date) %>% 
+    # group_by(cohort_definition_id, subject_id ) %>% 
+    # slice_min(n = 1, order_by = cohort_start_date) %>% 
+    CohortConstructor::exitAtObservationEnd() %>% 
     compute(name= "outcome_all", overwrite=TRUE)
-  cdm$outcome_all <- cdm$outcome_all %>%
-    CDMConnector::recordCohortAttrition(reason = "Leave only first cancer record")
+  # cdm$outcome_all <- cdm$outcome_all %>%
+  #   CDMConnector::recordCohortAttrition(reason = "Leave only first cancer record")
 }else{
   #Instantiate all cancers
   log4r::info(logger, "Instantiate cancer cohorts")
