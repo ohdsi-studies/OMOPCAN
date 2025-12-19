@@ -68,6 +68,15 @@ cancer_types <- cancer_types[cancersToRun]
 if (executeInstantiateCohorts) {
   log4r::info(logger, "STEP 0 INSTANTIATE COHORTS ---------------------------")
   source(here::here("extras/1_InstantiateCohorts/instantiate_cohorts.R"))
+}else{
+  listCohorts <- c("outcome_all", "exclusion")
+  if(!isRegistry){listCohorts <- c(listCohorts, "denominator", "conditions_all", "medications")}
+  for (table in listCohorts){
+    cdm[[table]] <- dplyr::tbl(
+      db, 
+      DBI::Id(schema = results_database_schema, paste0(stem_table,table))) %>% 
+      compute(name=table, overwrite=TRUE)
+  }
 }
 
 #Denominator counts for registries
