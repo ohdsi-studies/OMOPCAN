@@ -38,7 +38,7 @@ if (grepl("NAJS", db_name, ignore.case=TRUE)){
       window = c(0,0),
       intersections = c(1,Inf),,
       targetStartDate = "condition_start_date",
-      targetEndDate = "condition_end_date"
+      targetEndDate = "condition_start_date"
     ) %>% 
     compute(name= "exclusion", overwrite=TRUE)
   #Instantiate all cancers
@@ -61,7 +61,7 @@ if (grepl("NAJS", db_name, ignore.case=TRUE)){
       window = c(0,0),
       intersections = c(1,Inf),,
       targetStartDate = "condition_start_date",
-      targetEndDate = "condition_end_date"
+      targetEndDate = "condition_start_date"
     ) %>% 
     compute(name= "outcome_all", overwrite=TRUE)
   #Filter first record per cancer and set cohort_end to end of observation period
