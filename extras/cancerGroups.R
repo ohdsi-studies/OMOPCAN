@@ -8,7 +8,7 @@ cancer_types[["respiratory"]] = list(
 )
 
 cancer_types[["digestive"]] = list(
-  types = c("esophagus", "colorectal", "stomach", "liver", "pancreatic", "gallbladder"),
+  types = c("esophagus", "colorectal", "colon", "rectum", "anal", "stomach", "liver", "pancreatic", "gallbladder"),
   stratification = c("t2d","viral_hepatitis", "tobacco", "obesitycharybdis","cardiovascular_disease", "hypertension")
 )
 
