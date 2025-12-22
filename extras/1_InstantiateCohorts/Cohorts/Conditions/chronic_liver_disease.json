@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "328383001",
         "CONCEPT_ID": 4212540,
         "CONCEPT_NAME": "Chronic liver disease",
@@ -11,9 +11,13 @@
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED"
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
       },
-      "includeDescendants": true
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
     }
   ]
 }

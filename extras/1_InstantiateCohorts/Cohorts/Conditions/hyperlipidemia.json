@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "55822004",
         "CONCEPT_ID": 432867,
         "CONCEPT_NAME": "Hyperlipidemia",

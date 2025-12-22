@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "414545008",
         "CONCEPT_ID": 4185932,
         "CONCEPT_NAME": "Ischemic heart disease",

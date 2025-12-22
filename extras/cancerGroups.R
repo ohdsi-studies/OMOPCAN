@@ -8,7 +8,7 @@ cancer_types[["respiratory"]] = list(
 )
 
 cancer_types[["digestive"]] = list(
-  types = c("esophagus", "colorectal", "colon", "rectum", "anal", "stomach", "liver", "pancreatic", "gallbladder"),
+  types = c("esophagus", "colorectal", "colon", "rectum", "anus", "stomach", "liver", "pancreatic", "gallbladder"),
   stratification = c("t2d","viral_hepatitis", "tobacco", "obesitycharybdis","cardiovascular_disease", "hypertension")
 )
 
@@ -23,7 +23,7 @@ cancer_types[["female"]] = list(
 )
 
 cancer_types[["hematologic"]] = list(
-  types = c("hodgkin", "non_hodgkin", "multiple_myeloma_broad", "leukemia_broad"),
+  types = c("hodgkin", "non_hodgkin", "multiple_myeloma", "leukaemia"),
   stratification = c("hiv", "autoimmune_conditions", "obesitycharybdis","tobacco")
 )
 
@@ -38,7 +38,7 @@ cancer_types[["urinary"]] = list(
 )
 
 cancer_types[["skin"]] = list(
-  types = c("melanoma_skin", "non_melanoma_broad"),
+  types = c("melanoma_skin", "nmsc_broad", "nmsc_narrow"),
   stratification = c("tobacco", "obesitycharybdis")
 )
 

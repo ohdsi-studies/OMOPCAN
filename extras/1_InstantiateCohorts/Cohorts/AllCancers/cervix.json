@@ -6752,6 +6752,90 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "ICDO3"
             }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8574/3-C53.9",
+              "CONCEPT_ID": 36551128,
+              "CONCEPT_NAME": "Adenocarcinoma with neuroendocrine differentiation of cervix uteri",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8013/3-C53.9",
+              "CONCEPT_ID": 44500232,
+              "CONCEPT_NAME": "Large cell neuroendocrine carcinoma of cervix uteri",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8013/3-C53.0",
+              "CONCEPT_ID": 36547874,
+              "CONCEPT_NAME": "Large cell neuroendocrine carcinoma of endocervix",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8013/3-C53.1",
+              "CONCEPT_ID": 36549230,
+              "CONCEPT_NAME": "Large cell neuroendocrine carcinoma of exocervix",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8240/3-C53.9",
+              "CONCEPT_ID": 751731,
+              "CONCEPT_NAME": "Neuroendocrine tumor, NOS, of cervix uteri",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "722683006",
+              "CONCEPT_ID": 36716617,
+              "CONCEPT_NAME": "Primary neuroendocrine carcinoma of cervix uteri",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
           }
         ]
       }
@@ -6764,11 +6848,8 @@
           "CodesetId": 1,
           "OccurrenceStartDate": {
             "Value": "2000-01-01",
-            "Op": "gte"
-          },
-          "OccurrenceEndDate": {
-            "Value": "2024-12-31",
-            "Op": "lte"
+            "Extent": "2024-12-31",
+            "Op": "bt"
           }
         }
       }

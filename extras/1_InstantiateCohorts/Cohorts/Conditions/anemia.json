@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "271737000",
         "CONCEPT_ID": 439777,
         "CONCEPT_NAME": "Anemia",
@@ -21,7 +21,7 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "45828008",
         "CONCEPT_ID": 434701,
         "CONCEPT_NAME": "Anemia in mother complicating pregnancy, childbirth AND/OR puerperium",
@@ -40,7 +40,7 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "462166006",
         "CONCEPT_ID": 43022052,
         "CONCEPT_NAME": "Fetal anemia",

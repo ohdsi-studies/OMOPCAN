@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "53741008",
         "CONCEPT_ID": 317576,
         "CONCEPT_NAME": "Coronary arteriosclerosis",

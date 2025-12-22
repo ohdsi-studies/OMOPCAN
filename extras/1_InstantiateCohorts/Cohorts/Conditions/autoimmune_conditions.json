@@ -3,25 +3,6 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "200976008",
-        "CONCEPT_ID": 75614,
-        "CONCEPT_NAME": "Acrodermatitis continua",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2020-07-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "363732003",
         "CONCEPT_ID": 443394,
         "CONCEPT_NAME": "Addison's disease",
@@ -325,44 +306,6 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Context-dependent",
-        "CONCEPT_CODE": "112561000119108",
-        "CONCEPT_ID": 46269999,
-        "CONCEPT_NAME": "History of Crohns disease",
-        "DOMAIN_ID": "Observation",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2015-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Context-dependent",
-        "CONCEPT_CODE": "161567008",
-        "CONCEPT_ID": 4058299,
-        "CONCEPT_NAME": "H/O: rheumatoid arthritis",
-        "DOMAIN_ID": "Observation",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "1092871000119107",
         "CONCEPT_ID": 46274082,
@@ -649,25 +592,6 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "33339001",
-        "CONCEPT_ID": 81931,
-        "CONCEPT_NAME": "Psoriasis with arthropathy",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2021-09-30"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "1092881000119105",
         "CONCEPT_ID": 46273478,
         "CONCEPT_NAME": "Rectal hemorrhage due to ulcerative colitis",
@@ -689,7 +613,7 @@
         "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "307755009",
         "CONCEPT_ID": 4145240,
-        "CONCEPT_NAME": "Renal tubulo-interstitial disorder in systemic lupus erythematosus",
+        "CONCEPT_NAME": "Renal tubulo-interstitial disorder due to systemic lupus erythematosus",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -934,25 +858,6 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "201443009",
-        "CONCEPT_ID": 4063582,
-        "CONCEPT_NAME": "Systemic sclerosis induced by drugs and chemicals",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "U",
-        "INVALID_REASON_CAPTION": "Invalid",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2023-03-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "46635009",
         "CONCEPT_ID": 201254,
         "CONCEPT_NAME": "Type 1 diabetes mellitus",
@@ -963,25 +868,6 @@
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
         "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
-        "CONCEPT_CODE": "444073006",
-        "CONCEPT_ID": 40484648,
-        "CONCEPT_NAME": "Type 1 diabetes mellitus uncontrolled",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "N",
-        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2010-01-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,

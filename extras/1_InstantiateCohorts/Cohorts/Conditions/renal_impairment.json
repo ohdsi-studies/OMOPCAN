@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "236423003",
         "CONCEPT_ID": 4030518,
         "CONCEPT_NAME": "Renal impairment",

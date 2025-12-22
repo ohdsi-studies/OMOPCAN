@@ -2,7 +2,7 @@
   "ConceptSets": [
     {
       "id": 1,
-      "name": "leukemia",
+      "name": "leukemia_narrow",
       "expression": {
         "items": [
           {
@@ -343,20 +343,6 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "91854005",
-              "CONCEPT_ID": 135496,
-              "CONCEPT_NAME": "Acute leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "ICDO Condition",
               "CONCEPT_CODE": "9801/3-C77.2",
               "CONCEPT_ID": 36557514,
@@ -596,34 +582,6 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "91856007",
-              "CONCEPT_ID": 141816,
-              "CONCEPT_NAME": "Acute lymphoid leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "12301000132103",
-              "CONCEPT_ID": 36712834,
-              "CONCEPT_NAME": "Acute lymphoid leukemia relapse",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "277602003",
               "CONCEPT_ID": 4079686,
               "CONCEPT_NAME": "Acute megakaryoblastic leukemia",
@@ -767,20 +725,6 @@
               "CONCEPT_CODE": "413441006",
               "CONCEPT_ID": 135768,
               "CONCEPT_NAME": "Acute monocytic leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "91858008",
-              "CONCEPT_ID": 140672,
-              "CONCEPT_NAME": "Acute monocytic leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -1114,51 +1058,9 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "1162531007",
-              "CONCEPT_ID": 37160492,
-              "CONCEPT_NAME": "Acute myeloid leukemia in complete remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "91860005",
-              "CONCEPT_ID": 135762,
-              "CONCEPT_NAME": "Acute myeloid leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "359631009",
               "CONCEPT_ID": 4233531,
               "CONCEPT_NAME": "Acute myeloid leukemia, minimal differentiation, FAB M0",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "61311000119104",
-              "CONCEPT_ID": 764781,
-              "CONCEPT_NAME": "Acute myeloid leukemia, minimal differentiation, FAB M0 in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -1729,20 +1631,6 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "426124006",
-              "CONCEPT_ID": 4138903,
-              "CONCEPT_NAME": "Acute myeloid leukemia with maturation, FAB M2, in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "ICDO Condition",
               "CONCEPT_CODE": "9874/3-C77.2",
               "CONCEPT_ID": 36558245,
@@ -2037,20 +1925,6 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "61321000119106",
-              "CONCEPT_ID": 764782,
-              "CONCEPT_NAME": "Acute myeloid leukemia without maturation, FAB M1 in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "ICDO Condition",
               "CONCEPT_CODE": "9873/3-C77.2",
               "CONCEPT_ID": 36555336,
@@ -2237,20 +2111,6 @@
               "CONCEPT_CODE": "110005000",
               "CONCEPT_ID": 4003187,
               "CONCEPT_NAME": "Acute myelomonocytic leukemia, FAB M4",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "427658007",
-              "CONCEPT_ID": 4142105,
-              "CONCEPT_NAME": "Acute myelomonocytic leukemia, FAB M4, in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -2528,20 +2388,6 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "425869007",
-              "CONCEPT_ID": 4137687,
-              "CONCEPT_NAME": "Acute promyelocytic leukemia, FAB M3, in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "285769009",
               "CONCEPT_ID": 4112803,
               "CONCEPT_NAME": "Acute promyelocytic leukemia - hypogranular variant",
@@ -2710,20 +2556,6 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "110007008",
-              "CONCEPT_ID": 4003188,
-              "CONCEPT_NAME": "Adult T-cell leukemia/lymphoma",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "849141000000100",
               "CONCEPT_ID": 3545719,
               "CONCEPT_NAME": "Adult T-cell leukemia/lymphoma",
@@ -2732,6 +2564,20 @@
               "INVALID_REASON_CAPTION": "Invalid",
               "STANDARD_CONCEPT": "N",
               "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "110007008",
+              "CONCEPT_ID": 4003188,
+              "CONCEPT_NAME": "Adult T-cell leukemia/lymphoma",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
             }
           },
@@ -3172,20 +3018,6 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "898197001",
-              "CONCEPT_ID": 604486,
-              "CONCEPT_NAME": "Adult T-cell leukemia/lymphoma in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "721762007",
               "CONCEPT_ID": 36715966,
               "CONCEPT_NAME": "Adult T-cell leukemia/lymphoma of skin",
@@ -3438,37 +3270,9 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "426217000",
-              "CONCEPT_ID": 4138466,
-              "CONCEPT_NAME": "Aleukemic leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "188728002",
               "CONCEPT_ID": 4094549,
               "CONCEPT_NAME": "Aleukemic lymphoid leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "426248008",
-              "CONCEPT_ID": 4142254,
-              "CONCEPT_NAME": "Aleukemic lymphoid leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -8145,20 +7949,6 @@
               "CONCEPT_CODE": "277619001",
               "CONCEPT_ID": 4173974,
               "CONCEPT_NAME": "B-cell prolymphocytic leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "788874003",
-              "CONCEPT_ID": 37312023,
-              "CONCEPT_NAME": "B-cell prolymphocytic leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -39068,34 +38858,6 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "123781000119107",
-              "CONCEPT_ID": 760962,
-              "CONCEPT_NAME": "Chronic leukemia in relapse",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "92811003",
-              "CONCEPT_ID": 134597,
-              "CONCEPT_NAME": "Chronic leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "725437002",
               "CONCEPT_ID": 37110902,
               "CONCEPT_NAME": "Chronic lymphocytic leukemia genetic mutation variant",
@@ -39127,48 +38889,6 @@
               "CONCEPT_CODE": "92814006",
               "CONCEPT_ID": 138379,
               "CONCEPT_NAME": "Chronic lymphoid leukemia, disease",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "122961000119105",
-              "CONCEPT_ID": 760935,
-              "CONCEPT_NAME": "Chronic lymphoid leukemia in relapse",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "92813000",
-              "CONCEPT_ID": 133438,
-              "CONCEPT_NAME": "Chronic lymphoid leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "122881000119107",
-              "CONCEPT_ID": 760932,
-              "CONCEPT_NAME": "Chronic monocytic leukemia in relapse",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -39393,20 +39113,6 @@
               "CONCEPT_CODE": "413843002",
               "CONCEPT_ID": 4185301,
               "CONCEPT_NAME": "Chronic myeloid leukemia in myeloid blast crisis",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "92817004",
-              "CONCEPT_ID": 132572,
-              "CONCEPT_NAME": "Chronic myeloid leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -39757,20 +39463,6 @@
               "CONCEPT_CODE": "93451002",
               "CONCEPT_ID": 138099,
               "CONCEPT_NAME": "Erythroleukemia, FAB M6",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "426642002",
-              "CONCEPT_ID": 4139358,
-              "CONCEPT_NAME": "Erythroleukemia, FAB M6 in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -40159,20 +39851,6 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "788972003",
-              "CONCEPT_ID": 37311926,
-              "CONCEPT_NAME": "Juvenile myelomonocytic leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "ICDO Condition",
               "CONCEPT_CODE": "9946/3-C77.2",
               "CONCEPT_ID": 36524014,
@@ -40345,20 +40023,6 @@
               "CONCEPT_CODE": "93143009",
               "CONCEPT_ID": 317510,
               "CONCEPT_NAME": "Leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "93142004",
-              "CONCEPT_ID": 135766,
-              "CONCEPT_NAME": "Leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -40733,34 +40397,6 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "122951000119108",
-              "CONCEPT_ID": 760934,
-              "CONCEPT_NAME": "Lymphoid leukemia in relapse",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "93169003",
-              "CONCEPT_ID": 134596,
-              "CONCEPT_NAME": "Lymphoid leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "ICDO Condition",
               "CONCEPT_CODE": "9820/3-C77.4",
               "CONCEPT_ID": 36536991,
@@ -40975,20 +40611,6 @@
               "CONCEPT_CODE": "188754005",
               "CONCEPT_ID": 313159,
               "CONCEPT_NAME": "Megakaryocytic leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "94148006",
-              "CONCEPT_ID": 136930,
-              "CONCEPT_NAME": "Megakaryocytic leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -41378,34 +41000,6 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "122901000119109",
-              "CONCEPT_ID": 760933,
-              "CONCEPT_NAME": "Myeloid leukemia in relapse",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "94716000",
-              "CONCEPT_ID": 132850,
-              "CONCEPT_NAME": "Myeloid leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "724642009",
               "CONCEPT_ID": 37110398,
               "CONCEPT_NAME": "Myeloid neoplasm associated with beta-type platelet-derived growth factor receptor gene rearrangement",
@@ -41437,20 +41031,6 @@
               "CONCEPT_CODE": "94719007",
               "CONCEPT_ID": 140967,
               "CONCEPT_NAME": "Myeloid sarcoma",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "94718004",
-              "CONCEPT_ID": 132575,
-              "CONCEPT_NAME": "Myeloid sarcoma in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -44657,20 +44237,6 @@
               "CONCEPT_CODE": "277572006",
               "CONCEPT_ID": 4082461,
               "CONCEPT_NAME": "Precursor B-cell acute lymphoblastic leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "425941003",
-              "CONCEPT_ID": 4138752,
-              "CONCEPT_NAME": "Precursor B-cell acute lymphoblastic leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -53124,34 +52690,6 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "12281000132104",
-              "CONCEPT_ID": 3572249,
-              "CONCEPT_NAME": "Relapsing acute myeloid leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "415287001",
-              "CONCEPT_ID": 443719,
-              "CONCEPT_NAME": "Relapsing chronic myeloid leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "277550009",
               "CONCEPT_ID": 4173956,
               "CONCEPT_NAME": "Richter's syndrome",
@@ -53194,37 +52732,9 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "427056005",
-              "CONCEPT_ID": 4143848,
-              "CONCEPT_NAME": "Subacute leukemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "188726003",
               "CONCEPT_ID": 136656,
               "CONCEPT_NAME": "Subacute lymphoid leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "426370008",
-              "CONCEPT_ID": 4139054,
-              "CONCEPT_NAME": "Subacute lymphoid leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -53249,38 +52759,10 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "427642009",
-              "CONCEPT_ID": 3188166,
-              "CONCEPT_NAME": "T-cell acute lymphoblastic leukaemia in remission",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "N",
-              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-              "VOCABULARY_ID": "Nebraska Lexicon"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "277575008",
               "CONCEPT_ID": 4082462,
               "CONCEPT_NAME": "T-cell acute lymphoblastic leukemia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "427642009",
-              "CONCEPT_ID": 4143997,
-              "CONCEPT_NAME": "T-cell acute lymphoblastic leukemia in remission",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -57183,11 +56665,95 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Disorder",
-              "CONCEPT_CODE": "898198006",
-              "CONCEPT_ID": 604487,
-              "CONCEPT_NAME": "T-cell prolymphocytic leukemia in remission",
-              "DOMAIN_ID": "Condition",
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "128818009",
+              "CONCEPT_ID": 4028711,
+              "CONCEPT_NAME": "Acute biphenotypic leukemia",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "1162928000",
+              "CONCEPT_ID": 37151872,
+              "CONCEPT_NAME": "Acute myeloid leukemia",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "1162660006",
+              "CONCEPT_ID": 37156124,
+              "CONCEPT_NAME": "B lymphoblastic leukemia lymphoma",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "413836008",
+              "CONCEPT_ID": 4211647,
+              "CONCEPT_NAME": "Chronic eosinophilic leukemia",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "54087003",
+              "CONCEPT_ID": 4182216,
+              "CONCEPT_NAME": "Hairy cell leukemia",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "128832006",
+              "CONCEPT_ID": 4029178,
+              "CONCEPT_NAME": "Juvenile myelomonocytic leukemia",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "1163439000",
+              "CONCEPT_ID": 37156272,
+              "CONCEPT_NAME": "Myeloid leukemia",
+              "DOMAIN_ID": "Observation",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
@@ -57206,11 +56772,8 @@
           "CodesetId": 1,
           "OccurrenceStartDate": {
             "Value": "2000-01-01",
-            "Op": "gte"
-          },
-          "OccurrenceEndDate": {
-            "Value": "2024-12-31",
-            "Op": "lte"
+            "Extent": "2024-12-31",
+            "Op": "bt"
           }
         }
       }

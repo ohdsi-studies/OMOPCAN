@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "396275006",
         "CONCEPT_ID": 80180,
         "CONCEPT_NAME": "Osteoarthritis",

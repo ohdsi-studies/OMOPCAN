@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "62914000",
         "CONCEPT_ID": 381591,
         "CONCEPT_NAME": "Cerebrovascular disease",

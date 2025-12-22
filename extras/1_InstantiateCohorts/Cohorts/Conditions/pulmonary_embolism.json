@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "59282003",
         "CONCEPT_ID": 440417,
         "CONCEPT_NAME": "Pulmonary embolism",

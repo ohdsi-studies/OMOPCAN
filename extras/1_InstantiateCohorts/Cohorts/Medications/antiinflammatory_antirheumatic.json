@@ -11,7 +11,9 @@
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "C",
         "STANDARD_CONCEPT_CAPTION": "Classification",
-        "VOCABULARY_ID": "ATC"
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -28,7 +30,9 @@
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "C",
         "STANDARD_CONCEPT_CAPTION": "Classification",
-        "VOCABULARY_ID": "ATC"
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
       "includeDescendants": true,

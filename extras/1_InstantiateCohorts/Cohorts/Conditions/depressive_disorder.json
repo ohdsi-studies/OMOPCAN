@@ -2,55 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
-        "CONCEPT_CODE": "191659001",
-        "CONCEPT_ID": 438727,
-        "CONCEPT_NAME": "Atypical depressive disorder",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED"
-      },
-      "isExcluded": true,
-      "includeDescendants": true
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
-        "CONCEPT_CODE": "13746004",
-        "CONCEPT_ID": 436665,
-        "CONCEPT_NAME": "Bipolar disorder",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED"
-      },
-      "isExcluded": true,
-      "includeDescendants": true
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
-        "CONCEPT_CODE": "442057004",
-        "CONCEPT_ID": 40481798,
-        "CONCEPT_NAME": "Chronic depressive personality disorder",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED"
-      },
-      "isExcluded": true,
-      "includeDescendants": true
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "35489007",
         "CONCEPT_ID": 440383,
         "CONCEPT_NAME": "Depressive disorder",
@@ -59,13 +11,74 @@
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED"
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
       },
-      "includeDescendants": true
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191659001",
+        "CONCEPT_ID": 438727,
+        "CONCEPT_NAME": "Atypical depressive disorder",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "13746004",
+        "CONCEPT_ID": 436665,
+        "CONCEPT_NAME": "Bipolar disorder",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "442057004",
+        "CONCEPT_ID": 40481798,
+        "CONCEPT_NAME": "Chronic depressive personality disorder",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2009-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "191676002",
         "CONCEPT_ID": 435520,
         "CONCEPT_NAME": "Reactive depressive psychosis",
@@ -74,14 +87,17 @@
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED"
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
       },
-      "isExcluded": true,
-      "includeDescendants": true
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "84760002",
         "CONCEPT_ID": 4224940,
         "CONCEPT_NAME": "Schizoaffective disorder, depressive type",
@@ -90,10 +106,13 @@
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED"
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
       },
-      "isExcluded": true,
-      "includeDescendants": true
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
     }
   ]
 }

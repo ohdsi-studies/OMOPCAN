@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "3738000",
         "CONCEPT_ID": 4291005,
         "CONCEPT_NAME": "Viral hepatitis",

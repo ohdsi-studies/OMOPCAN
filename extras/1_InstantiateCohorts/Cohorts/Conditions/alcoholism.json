@@ -3,28 +3,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "153931000119109",
-        "CONCEPT_ID": 44782718,
-        "CONCEPT_NAME": "Acute combined systolic and diastolic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "10633002",
-        "CONCEPT_ID": 4023479,
-        "CONCEPT_NAME": "Acute congestive heart failure",
+        "CONCEPT_CODE": "231467000",
+        "CONCEPT_ID": 4338024,
+        "CONCEPT_NAME": "Absinthe addiction",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -41,9 +22,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "49584005",
-        "CONCEPT_ID": 312927,
-        "CONCEPT_NAME": "Acute cor pulmonale",
+        "CONCEPT_CODE": "9953008",
+        "CONCEPT_ID": 201343,
+        "CONCEPT_NAME": "Acute alcoholic liver disease",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -60,16 +41,16 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "443343001",
-        "CONCEPT_ID": 40481042,
-        "CONCEPT_NAME": "Acute diastolic heart failure",
+        "CONCEPT_CODE": "838386008",
+        "CONCEPT_ID": 3654690,
+        "CONCEPT_NAME": "Acute alcoholic myopathy",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2010-01-31",
+        "VALID_START_DATE": "2020-07-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
@@ -79,16 +60,16 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "698296002",
-        "CONCEPT_ID": 44782655,
-        "CONCEPT_NAME": "Acute exacerbation of chronic congestive heart failure",
+        "CONCEPT_CODE": "713370005",
+        "CONCEPT_ID": 37017151,
+        "CONCEPT_NAME": "Acute on chronic alcoholic liver disease",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
+        "VALID_START_DATE": "2016-01-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
@@ -98,47 +79,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "56675007",
-        "CONCEPT_ID": 442310,
-        "CONCEPT_NAME": "Acute heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "7421000175106",
-        "CONCEPT_ID": 764877,
-        "CONCEPT_NAME": "Acute heart failure co-occurrent with normal ejection fraction",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2016-09-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "74960003",
-        "CONCEPT_ID": 4327205,
-        "CONCEPT_NAME": "Acute left-sided congestive heart failure",
+        "CONCEPT_CODE": "15167005",
+        "CONCEPT_ID": 433753,
+        "CONCEPT_NAME": "Alcohol abuse",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -155,9 +98,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "364006",
-        "CONCEPT_ID": 4267800,
-        "CONCEPT_NAME": "Acute left-sided heart failure",
+        "CONCEPT_CODE": "73097000",
+        "CONCEPT_ID": 374623,
+        "CONCEPT_NAME": "Alcohol amnestic disorder",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -174,9 +117,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "195114002",
-        "CONCEPT_ID": 4108245,
-        "CONCEPT_NAME": "Acute left ventricular failure",
+        "CONCEPT_CODE": "66590003",
+        "CONCEPT_ID": 435243,
+        "CONCEPT_NAME": "Alcohol dependence",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -193,16 +136,16 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "153951000119103",
-        "CONCEPT_ID": 44782733,
-        "CONCEPT_NAME": "Acute on chronic combined systolic and diastolic heart failure",
+        "CONCEPT_CODE": "10755041000119100",
+        "CONCEPT_ID": 45757131,
+        "CONCEPT_NAME": "Alcohol dependence in childbirth",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
+        "VALID_START_DATE": "2014-07-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
@@ -212,16 +155,16 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "443344007",
-        "CONCEPT_ID": 40481043,
-        "CONCEPT_NAME": "Acute on chronic diastolic heart failure",
+        "CONCEPT_CODE": "10741871000119101",
+        "CONCEPT_ID": 45757093,
+        "CONCEPT_NAME": "Alcohol dependence in pregnancy",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2010-01-31",
+        "VALID_START_DATE": "2014-07-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
@@ -231,16 +174,16 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "7401000175100",
-        "CONCEPT_ID": 764874,
-        "CONCEPT_NAME": "Acute on chronic heart failure co-occurrent with normal ejection fraction",
+        "CONCEPT_CODE": "1234750000",
+        "CONCEPT_ID": 37164777,
+        "CONCEPT_NAME": "Alcoholic cardiomyopathy",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2016-09-01",
+        "VALID_START_DATE": "2022-07-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
@@ -250,47 +193,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "16838951000119100",
-        "CONCEPT_ID": 37309625,
-        "CONCEPT_NAME": "Acute on chronic right-sided congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2020-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "443253003",
-        "CONCEPT_ID": 40480602,
-        "CONCEPT_NAME": "Acute on chronic systolic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2010-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "80479009",
-        "CONCEPT_ID": 4215446,
-        "CONCEPT_NAME": "Acute right-sided congestive heart failure",
+        "CONCEPT_CODE": "361273006",
+        "CONCEPT_ID": 4176653,
+        "CONCEPT_NAME": "Alcoholic cerebellar degeneration",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -307,788 +212,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "359617009",
-        "CONCEPT_ID": 4233424,
-        "CONCEPT_NAME": "Acute right-sided heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "443254009",
-        "CONCEPT_ID": 40480603,
-        "CONCEPT_NAME": "Acute systolic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2010-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "78862003",
-        "CONCEPT_ID": 4193236,
-        "CONCEPT_NAME": "Ayerza's syndrome",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "194767001",
-        "CONCEPT_ID": 439698,
-        "CONCEPT_NAME": "Benign hypertensive heart disease with congestive cardiac failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "13839000",
-        "CONCEPT_ID": 4030258,
-        "CONCEPT_NAME": "Bernheim's syndrome",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "92506005",
-        "CONCEPT_ID": 4242669,
-        "CONCEPT_NAME": "Biventricular congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "71892000",
-        "CONCEPT_ID": 4215802,
-        "CONCEPT_NAME": "Cardiac asthma",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "269299003",
-        "CONCEPT_ID": 4153875,
-        "CONCEPT_NAME": "Cardiac insufficiency as a complication of care",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "5053004",
-        "CONCEPT_ID": 4177493,
-        "CONCEPT_NAME": "Cardiac insufficiency due to prosthesis",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "89819002",
-        "CONCEPT_ID": 4233224,
-        "CONCEPT_NAME": "Cardiac insufficiency during AND/OR resulting from a procedure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "60856006",
-        "CONCEPT_ID": 4264636,
-        "CONCEPT_NAME": "Cardiac insufficiency following cardiac surgery",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "445236007",
-        "CONCEPT_ID": 40482857,
-        "CONCEPT_NAME": "Cardiorenal syndrome",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2010-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "410431009",
-        "CONCEPT_ID": 4259490,
-        "CONCEPT_NAME": "Cardiorespiratory failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2004-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "153941000119100",
-        "CONCEPT_ID": 44782719,
-        "CONCEPT_NAME": "Chronic combined systolic and diastolic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "88805009",
-        "CONCEPT_ID": 4229440,
-        "CONCEPT_NAME": "Chronic congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "79955004",
-        "CONCEPT_ID": 4195892,
-        "CONCEPT_NAME": "Chronic cor pulmonale",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "441530006",
-        "CONCEPT_ID": 40479576,
-        "CONCEPT_NAME": "Chronic diastolic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2009-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "48447003",
-        "CONCEPT_ID": 444031,
-        "CONCEPT_NAME": "Chronic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "7411000175102",
-        "CONCEPT_ID": 764876,
-        "CONCEPT_NAME": "Chronic heart failure co-occurrent with normal ejection fraction",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2016-09-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "5375005",
-        "CONCEPT_ID": 4206009,
-        "CONCEPT_NAME": "Chronic left-sided congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "111283005",
-        "CONCEPT_ID": 4009047,
-        "CONCEPT_NAME": "Chronic left-sided heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "66989003",
-        "CONCEPT_ID": 4284562,
-        "CONCEPT_NAME": "Chronic right-sided congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "10335000",
-        "CONCEPT_ID": 4014159,
-        "CONCEPT_NAME": "Chronic right-sided heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "441481004",
-        "CONCEPT_ID": 40479192,
-        "CONCEPT_NAME": "Chronic systolic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2009-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "195112003",
-        "CONCEPT_ID": 4108244,
-        "CONCEPT_NAME": "Compensated cardiac failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "42343007",
-        "CONCEPT_ID": 319835,
-        "CONCEPT_NAME": "Congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "72481000119103",
-        "CONCEPT_ID": 44784345,
-        "CONCEPT_NAME": "Congestive heart failure as early postoperative complication",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "285211000119102",
-        "CONCEPT_ID": 762002,
-        "CONCEPT_NAME": "Congestive heart failure as post-operative complication of cardiac surgery",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2015-09-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "285221000119109",
-        "CONCEPT_ID": 762003,
-        "CONCEPT_NAME": "Congestive heart failure as post-operative complication of non-cardiac surgery",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2015-09-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "101281000119107",
-        "CONCEPT_ID": 44782428,
-        "CONCEPT_NAME": "Congestive heart failure due to cardiomyopathy",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "426263006",
-        "CONCEPT_ID": 4139864,
-        "CONCEPT_NAME": "Congestive heart failure due to left ventricular systolic dysfunction",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2007-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "426611007",
-        "CONCEPT_ID": 4142561,
-        "CONCEPT_NAME": "Congestive heart failure due to valvular disease",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2007-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "717840005",
-        "CONCEPT_ID": 36713488,
-        "CONCEPT_NAME": "Congestive heart failure stage B",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2017-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "15629591000119103",
-        "CONCEPT_ID": 36712928,
-        "CONCEPT_NAME": "Congestive heart failure stage B due to ischemic cardiomyopathy",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2017-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "67441000119101",
-        "CONCEPT_ID": 43021826,
-        "CONCEPT_NAME": "Congestive heart failure stage C",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "15629541000119106",
-        "CONCEPT_ID": 36712927,
-        "CONCEPT_NAME": "Congestive heart failure stage C due to ischemic cardiomyopathy",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2017-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "67431000119105",
-        "CONCEPT_ID": 43021825,
-        "CONCEPT_NAME": "Congestive heart failure stage D",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "23341000119109",
-        "CONCEPT_ID": 44782713,
-        "CONCEPT_NAME": "Congestive heart failure with right heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "83291003",
-        "CONCEPT_ID": 4307356,
-        "CONCEPT_NAME": "Cor pulmonale",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "195111005",
-        "CONCEPT_ID": 4111554,
-        "CONCEPT_NAME": "Decompensated cardiac failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "424404003",
-        "CONCEPT_ID": 4311437,
-        "CONCEPT_NAME": "Decompensated chronic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2007-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "418304008",
-        "CONCEPT_ID": 443587,
-        "CONCEPT_NAME": "Diastolic heart failure",
+        "CONCEPT_CODE": "420054005",
+        "CONCEPT_ID": 196463,
+        "CONCEPT_NAME": "Alcoholic cirrhosis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1105,104 +231,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "120901000119108",
-        "CONCEPT_ID": 43530643,
-        "CONCEPT_NAME": "Diastolic heart failure stage B",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-03-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "120891000119109",
-        "CONCEPT_ID": 43021842,
-        "CONCEPT_NAME": "Diastolic heart failure stage C",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "120881000119106",
-        "CONCEPT_ID": 43021841,
-        "CONCEPT_NAME": "Diastolic heart failure stage D",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Procedure",
-        "CONCEPT_CODE": "416683003",
-        "CONCEPT_ID": 4215511,
-        "CONCEPT_NAME": "Emergency hospital admission for heart failure",
-        "DOMAIN_ID": "Observation",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2005-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "96311000119109",
-        "CONCEPT_ID": 43022068,
-        "CONCEPT_NAME": "Exacerbation of congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "84114007",
-        "CONCEPT_ID": 316139,
-        "CONCEPT_NAME": "Heart failure",
+        "CONCEPT_CODE": "230800004",
+        "CONCEPT_ID": 4045848,
+        "CONCEPT_NAME": "Alcoholic coma",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1219,180 +250,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "233924009",
-        "CONCEPT_ID": 4124705,
-        "CONCEPT_NAME": "Heart failure as a complication of care",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Context-dependent",
-        "CONCEPT_CODE": "395105005",
-        "CONCEPT_ID": 4215689,
-        "CONCEPT_NAME": "Heart failure confirmed",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2003-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "788950000",
-        "CONCEPT_ID": 37311948,
-        "CONCEPT_NAME": "Heart failure with mid range ejection fraction",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2020-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "446221000",
-        "CONCEPT_ID": 40486933,
-        "CONCEPT_NAME": "Heart failure with normal ejection fraction",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2011-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "703272007",
-        "CONCEPT_ID": 45766164,
-        "CONCEPT_NAME": "Heart failure with reduced ejection fraction",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "703275009",
-        "CONCEPT_ID": 45766167,
-        "CONCEPT_NAME": "Heart failure with reduced ejection fraction due to cardiomyopathy",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "703273002",
-        "CONCEPT_ID": 45766165,
-        "CONCEPT_NAME": "Heart failure with reduced ejection fraction due to coronary artery disease",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "703276005",
-        "CONCEPT_ID": 45773075,
-        "CONCEPT_NAME": "Heart failure with reduced ejection fraction due to heart valve disease",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "703274008",
-        "CONCEPT_ID": 45766166,
-        "CONCEPT_NAME": "Heart failure with reduced ejection fraction due to myocarditis",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-07-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "10091002",
-        "CONCEPT_ID": 4004279,
-        "CONCEPT_NAME": "High output heart failure",
+        "CONCEPT_CODE": "192811002",
+        "CONCEPT_ID": 4104707,
+        "CONCEPT_NAME": "Alcoholic encephalopathy",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1409,28 +269,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "15781000119107",
-        "CONCEPT_ID": 44782728,
-        "CONCEPT_NAME": "Hypertensive heart AND chronic kidney disease with congestive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2014-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "194781004",
-        "CONCEPT_ID": 439694,
-        "CONCEPT_NAME": "Hypertensive heart and renal disease with both (congestive) heart failure and renal failure",
+        "CONCEPT_CODE": "50325005",
+        "CONCEPT_ID": 193256,
+        "CONCEPT_NAME": "Alcoholic fatty liver",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1447,9 +288,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "194779001",
-        "CONCEPT_ID": 439696,
-        "CONCEPT_NAME": "Hypertensive heart and renal disease with (congestive) heart failure",
+        "CONCEPT_CODE": "235880004",
+        "CONCEPT_ID": 4340385,
+        "CONCEPT_NAME": "Alcoholic fibrosis and sclerosis of liver",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1466,9 +307,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "5148006",
-        "CONCEPT_ID": 314378,
-        "CONCEPT_NAME": "Hypertensive heart disease with congestive heart failure",
+        "CONCEPT_CODE": "2043009",
+        "CONCEPT_ID": 195300,
+        "CONCEPT_NAME": "Alcoholic gastritis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1485,28 +326,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "46113002",
-        "CONCEPT_ID": 444101,
-        "CONCEPT_NAME": "Hypertensive heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2002-01-31",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
-        "CONCEPT_CODE": "275514001",
-        "CONCEPT_ID": 4173819,
-        "CONCEPT_NAME": "Impaired left ventricular function",
+        "CONCEPT_CODE": "235881000",
+        "CONCEPT_ID": 4340386,
+        "CONCEPT_NAME": "Alcoholic hepatic failure",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1523,9 +345,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "85232009",
-        "CONCEPT_ID": 439846,
-        "CONCEPT_NAME": "Left heart failure",
+        "CONCEPT_CODE": "235875008",
+        "CONCEPT_ID": 4340383,
+        "CONCEPT_NAME": "Alcoholic hepatitis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1542,9 +364,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "44088000",
-        "CONCEPT_ID": 4185565,
-        "CONCEPT_NAME": "Low cardiac output syndrome",
+        "CONCEPT_CODE": "41309000",
+        "CONCEPT_ID": 201612,
+        "CONCEPT_NAME": "Alcoholic liver damage",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1561,9 +383,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "25544003",
-        "CONCEPT_ID": 4103448,
-        "CONCEPT_NAME": "Low output heart failure",
+        "CONCEPT_CODE": "278363000",
+        "CONCEPT_ID": 4081520,
+        "CONCEPT_NAME": "Alcoholic macrocytosis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1580,9 +402,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "83105008",
-        "CONCEPT_ID": 316994,
-        "CONCEPT_NAME": "Malignant hypertensive heart disease with congestive heart failure",
+        "CONCEPT_CODE": "7916009",
+        "CONCEPT_ID": 378421,
+        "CONCEPT_NAME": "Alcoholic polyneuropathy",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1599,9 +421,28 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "33644002",
-        "CONCEPT_ID": 4141124,
-        "CONCEPT_NAME": "Postvalvulotomy syndrome",
+        "CONCEPT_CODE": "1234778004",
+        "CONCEPT_ID": 37164788,
+        "CONCEPT_NAME": "Alcoholic steatohepatitis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "235942001",
+        "CONCEPT_ID": 4340493,
+        "CONCEPT_NAME": "Alcohol-induced acute pancreatitis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1618,66 +459,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "7391000175102",
-        "CONCEPT_ID": 764873,
-        "CONCEPT_NAME": "Reduced ejection fraction co-occurrent and due to acute heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2016-09-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "7371000175103",
-        "CONCEPT_ID": 764871,
-        "CONCEPT_NAME": "Reduced ejection fraction co-occurrent and due to acute on chronic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2016-09-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "7381000175100",
-        "CONCEPT_ID": 764872,
-        "CONCEPT_NAME": "Reduced ejection fraction co-occurrent and due to chronic heart failure",
-        "DOMAIN_ID": "Condition",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2016-09-01",
-        "VALID_END_DATE": "2099-12-31"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "314206003",
-        "CONCEPT_ID": 4199500,
-        "CONCEPT_NAME": "Refractory heart failure",
+        "CONCEPT_CODE": "300992002",
+        "CONCEPT_ID": 4102250,
+        "CONCEPT_NAME": "Alcohol-induced cerebellar ataxia",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1694,9 +478,9 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "44313006",
-        "CONCEPT_ID": 4195785,
-        "CONCEPT_NAME": "Right heart failure secondary to left heart failure",
+        "CONCEPT_CODE": "235952002",
+        "CONCEPT_ID": 4340964,
+        "CONCEPT_NAME": "Alcohol-induced chronic pancreatitis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1713,9 +497,28 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "367363000",
-        "CONCEPT_ID": 4273632,
-        "CONCEPT_NAME": "Right ventricular failure",
+        "CONCEPT_CODE": "288031000119105",
+        "CONCEPT_ID": 36713086,
+        "CONCEPT_NAME": "Alcohol induced disorder co-occurrent and due to alcohol dependence",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2017-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "361268000",
+        "CONCEPT_ID": 4176652,
+        "CONCEPT_NAME": "Alcohol-induced epilepsy",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1732,9 +535,446 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "15964701000119109",
-        "CONCEPT_ID": 35615055,
-        "CONCEPT_NAME": "Saddle embolus of pulmonary artery with acute cor pulmonale",
+        "CONCEPT_CODE": "308692003",
+        "CONCEPT_ID": 4204015,
+        "CONCEPT_NAME": "Alcohol-induced flushing",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "237641009",
+        "CONCEPT_ID": 4030070,
+        "CONCEPT_NAME": "Alcohol-induced hypoglycemia",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "237738005",
+        "CONCEPT_ID": 4028805,
+        "CONCEPT_NAME": "Alcohol-induced pseudo-Cushing's syndrome",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "61144001",
+        "CONCEPT_ID": 442582,
+        "CONCEPT_NAME": "Alcohol-induced psychotic disorder with delusions",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "7200002",
+        "CONCEPT_ID": 4218106,
+        "CONCEPT_NAME": "Alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "19303008",
+        "CONCEPT_ID": 4078688,
+        "CONCEPT_NAME": "Alcohol myopathy",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "234341005",
+        "CONCEPT_ID": 4120447,
+        "CONCEPT_NAME": "Alcohol-related macrocytosis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "314539001",
+        "CONCEPT_ID": 4152403,
+        "CONCEPT_NAME": "Alcohol related optic neuropathy",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "234366009",
+        "CONCEPT_ID": 4122928,
+        "CONCEPT_NAME": "Alcohol-related sideroblastic anemia",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191480000",
+        "CONCEPT_ID": 375519,
+        "CONCEPT_NAME": "Alcohol withdrawal",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "8635005",
+        "CONCEPT_ID": 377830,
+        "CONCEPT_NAME": "Alcohol withdrawal delirium",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191476005",
+        "CONCEPT_ID": 439277,
+        "CONCEPT_NAME": "Alcohol withdrawal hallucinosis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "308742005",
+        "CONCEPT_ID": 4202330,
+        "CONCEPT_NAME": "Alcohol withdrawal-induced convulsion",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "34938008",
+        "CONCEPT_ID": 4146660,
+        "CONCEPT_NAME": "Anxiety disorder caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1082601000119104",
+        "CONCEPT_ID": 46269816,
+        "CONCEPT_NAME": "Ascites due to alcoholic cirrhosis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2015-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1082611000119101",
+        "CONCEPT_ID": 46269817,
+        "CONCEPT_NAME": "Ascites due to alcoholic hepatitis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2015-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "361272001",
+        "CONCEPT_ID": 4159583,
+        "CONCEPT_NAME": "Cerebellar ataxia due to alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "135761000119101",
+        "CONCEPT_ID": 37016176,
+        "CONCEPT_NAME": "Cerebral degeneration due to alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191475009",
+        "CONCEPT_ID": 4101139,
+        "CONCEPT_NAME": "Chronic alcoholic brain syndrome",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "307757001",
+        "CONCEPT_ID": 4146181,
+        "CONCEPT_NAME": "Chronic alcoholic hepatitis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "713181003",
+        "CONCEPT_ID": 37017009,
+        "CONCEPT_NAME": "Chronic alcoholic liver disease",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "838376007",
+        "CONCEPT_ID": 3654681,
+        "CONCEPT_NAME": "Chronic alcoholic myopathy",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2020-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191813001",
+        "CONCEPT_ID": 439005,
+        "CONCEPT_NAME": "Chronic alcoholism in remission",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "767291004",
+        "CONCEPT_ID": 35624505,
+        "CONCEPT_NAME": "Chronic pancreatitis due to acute alcohol intoxication",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1751,9 +991,864 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "698594003",
-        "CONCEPT_ID": 44784442,
-        "CONCEPT_NAME": "Symptomatic congestive heart failure",
+        "CONCEPT_CODE": "154211000119108",
+        "CONCEPT_ID": 45757494,
+        "CONCEPT_NAME": "Chronic pancreatitis due to chronic alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2014-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "135331000119105",
+        "CONCEPT_ID": 37016175,
+        "CONCEPT_NAME": "Circadian rhythm sleep disorder caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234774002",
+        "CONCEPT_ID": 37164785,
+        "CONCEPT_NAME": "Cognitive impairment caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191811004",
+        "CONCEPT_ID": 436953,
+        "CONCEPT_NAME": "Continuous chronic alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "133301000119102",
+        "CONCEPT_ID": 37016167,
+        "CONCEPT_NAME": "Degenerative brain disorder caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2014-03-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "281004",
+        "CONCEPT_ID": 378726,
+        "CONCEPT_NAME": "Dementia associated with alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "719848005",
+        "CONCEPT_ID": 36714559,
+        "CONCEPT_NAME": "Disorder caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2017-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "288021000119107",
+        "CONCEPT_ID": 37016266,
+        "CONCEPT_NAME": "Disorder due to alcohol abuse",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1197724009",
+        "CONCEPT_ID": 37162881,
+        "CONCEPT_NAME": "Duodenal ulcer caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-02-28",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234767007",
+        "CONCEPT_ID": 37164781,
+        "CONCEPT_NAME": "Duodenitis caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191812006",
+        "CONCEPT_ID": 435532,
+        "CONCEPT_NAME": "Episodic chronic alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "897005004",
+        "CONCEPT_ID": 619608,
+        "CONCEPT_NAME": "Esophageal varices due to alcoholic cirrhosis of liver",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2021-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "721710005",
+        "CONCEPT_ID": 36715922,
+        "CONCEPT_NAME": "Fibrosis of liver caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2017-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "40241000119109",
+        "CONCEPT_ID": 45757783,
+        "CONCEPT_NAME": "Gastric hemorrhage due to alcoholic gastritis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2015-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "723103002",
+        "CONCEPT_ID": 36716878,
+        "CONCEPT_NAME": "Gastric ulcer caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2017-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1085021000119106",
+        "CONCEPT_ID": 46269835,
+        "CONCEPT_NAME": "Hepatic ascites due to chronic alcoholic hepatitis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2015-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1082621000119108",
+        "CONCEPT_ID": 46269818,
+        "CONCEPT_NAME": "Hepatic coma due to alcoholic liver failure",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2015-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "135321000119107",
+        "CONCEPT_ID": 37016174,
+        "CONCEPT_NAME": "Hypersomnia caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "445507008",
+        "CONCEPT_ID": 40483827,
+        "CONCEPT_NAME": "Inflammation of pancreas caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2010-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "135311000119100",
+        "CONCEPT_ID": 37016173,
+        "CONCEPT_NAME": "Insomnia caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2013-09-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "55571001",
+        "CONCEPT_ID": 4206341,
+        "CONCEPT_NAME": "Ketoacidosis due to acute alcohol intoxication",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "69482004",
+        "CONCEPT_ID": 4288013,
+        "CONCEPT_NAME": "Korsakoff's psychosis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191471000",
+        "CONCEPT_ID": 4103124,
+        "CONCEPT_NAME": "Korsakov's alcoholic psychosis with peripheral neuritis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1087451000000109",
+        "CONCEPT_ID": 35609900,
+        "CONCEPT_NAME": "Late onset alcohol-induced psychosis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2018-04-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "87810006",
+        "CONCEPT_ID": 4338370,
+        "CONCEPT_NAME": "Megaloblastic anemia due to alcoholism",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "713583005",
+        "CONCEPT_ID": 37017329,
+        "CONCEPT_NAME": "Mild alcohol dependence",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "714829008",
+        "CONCEPT_ID": 37018356,
+        "CONCEPT_NAME": "Moderate alcohol dependence",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234779007",
+        "CONCEPT_ID": 37164789,
+        "CONCEPT_NAME": "Mood disorder caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234782002",
+        "CONCEPT_ID": 37164792,
+        "CONCEPT_NAME": "Mood disorder with depressive symptoms caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234781009",
+        "CONCEPT_ID": 37164791,
+        "CONCEPT_NAME": "Mood disorder with manic symptoms caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234780005",
+        "CONCEPT_ID": 37164790,
+        "CONCEPT_NAME": "Mood disorder with mixed manic and depressive symptoms caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "230353003",
+        "CONCEPT_ID": 4047762,
+        "CONCEPT_NAME": "Morel laminar sclerosis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234772003",
+        "CONCEPT_ID": 37164783,
+        "CONCEPT_NAME": "Neurological disorder caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "268645007",
+        "CONCEPT_ID": 4152165,
+        "CONCEPT_NAME": "Nondependent alcohol abuse",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191882002",
+        "CONCEPT_ID": 435534,
+        "CONCEPT_NAME": "Nondependent alcohol abuse, continuous",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191883007",
+        "CONCEPT_ID": 440685,
+        "CONCEPT_NAME": "Nondependent alcohol abuse, episodic",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191884001",
+        "CONCEPT_ID": 441276,
+        "CONCEPT_NAME": "Nondependent alcohol abuse in remission",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234783007",
+        "CONCEPT_ID": 37164793,
+        "CONCEPT_NAME": "Organic mental disorder caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1153338005",
+        "CONCEPT_ID": 607374,
+        "CONCEPT_NAME": "Osteonecrosis caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2021-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "135301000119103",
+        "CONCEPT_ID": 37016172,
+        "CONCEPT_NAME": "Parasomnia caused by alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1255066009",
+        "CONCEPT_ID": 37165554,
+        "CONCEPT_NAME": "Perceptual disturbance due to alcohol withdrawal",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-10-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "723926008",
+        "CONCEPT_ID": 37109948,
+        "CONCEPT_NAME": "Perceptual disturbances and seizures co-occurrent and due to alcohol withdrawal",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2017-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "284591009",
+        "CONCEPT_ID": 4109691,
+        "CONCEPT_NAME": "Persistent alcohol abuse",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "713862009",
+        "CONCEPT_ID": 37017563,
+        "CONCEPT_NAME": "Severe alcohol dependence",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1234776000",
+        "CONCEPT_ID": 37164786,
+        "CONCEPT_NAME": "Sleep disorder caused by ethanol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "699208000",
+        "CONCEPT_ID": 44782445,
+        "CONCEPT_NAME": "Thrombocytopenia caused by alcohol",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1770,16 +1865,16 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "417996009",
-        "CONCEPT_ID": 443580,
-        "CONCEPT_NAME": "Systolic heart failure",
+        "CONCEPT_CODE": "97571000119109",
+        "CONCEPT_ID": 37018663,
+        "CONCEPT_NAME": "Thrombocytopenia co-occurrent and due to alcoholism",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2006-01-31",
+        "VALID_START_DATE": "2016-01-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
@@ -1789,16 +1884,16 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "120871000119108",
-        "CONCEPT_ID": 43530642,
-        "CONCEPT_NAME": "Systolic heart failure stage B",
+        "CONCEPT_CODE": "21007002",
+        "CONCEPT_ID": 4050977,
+        "CONCEPT_NAME": "Wernicke's disease",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-03-01",
+        "VALID_START_DATE": "2002-01-31",
         "VALID_END_DATE": "2099-12-31"
       },
       "isExcluded": false,
@@ -1808,9 +1903,484 @@
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "15629641000119107",
-        "CONCEPT_ID": 36717359,
-        "CONCEPT_NAME": "Systolic heart failure stage B due to ischemic cardiomyopathy",
+        "CONCEPT_CODE": "44047000",
+        "CONCEPT_ID": 4195620,
+        "CONCEPT_NAME": "Zieve's syndrome",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "216633005",
+        "CONCEPT_ID": 441465,
+        "CONCEPT_NAME": "Accidental poisoning by alcoholic beverage",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "216635003",
+        "CONCEPT_ID": 4311352,
+        "CONCEPT_NAME": "Accidental poisoning by denatured alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "216636002",
+        "CONCEPT_ID": 4316315,
+        "CONCEPT_NAME": "Accidental poisoning by methylated spirit",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "287166006",
+        "CONCEPT_ID": 435983,
+        "CONCEPT_NAME": "Accidental poisoning with ethyl alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1149333003",
+        "CONCEPT_ID": 607208,
+        "CONCEPT_NAME": "Acute alcohol intoxication",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2021-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "716379000",
+        "CONCEPT_ID": 37396531,
+        "CONCEPT_NAME": "Acute fatty liver of pregnancy",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2016-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1255409006",
+        "CONCEPT_ID": 37165679,
+        "CONCEPT_NAME": "Adverse reaction to alcoholic beverage",
+        "DOMAIN_ID": "Observation",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-10-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1255408003",
+        "CONCEPT_ID": 37165678,
+        "CONCEPT_NAME": "Adverse reaction to ethanol",
+        "DOMAIN_ID": "Observation",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-10-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "7052005",
+        "CONCEPT_ID": 372607,
+        "CONCEPT_NAME": "Alcohol hallucinosis",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "191478006",
+        "CONCEPT_ID": 374014,
+        "CONCEPT_NAME": "Alcoholic paranoia",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CODE": "417633001",
+        "CONCEPT_ID": 4214950,
+        "CONCEPT_NAME": "Alcohol induced hallucinations",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2005-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "25702006",
+        "CONCEPT_ID": 4104431,
+        "CONCEPT_NAME": "Alcohol intoxication",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "18653004",
+        "CONCEPT_ID": 4088373,
+        "CONCEPT_NAME": "Alcohol intoxication delirium",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "82047000",
+        "CONCEPT_ID": 4220072,
+        "CONCEPT_NAME": "Diarrhea caused by alcohol intake",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "609437000",
+        "CONCEPT_ID": 43530900,
+        "CONCEPT_NAME": "Fetal Alcohol Spectrum Disorder",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2013-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1894461000000101",
+        "CONCEPT_ID": 1245975,
+        "CONCEPT_NAME": "Fetal Alcohol Spectrum Disorder (FASD) without sentinel facial features",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2024-02-14",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1894471000000108",
+        "CONCEPT_ID": 1245976,
+        "CONCEPT_NAME": "Fetal Alcohol Spectrum Disorder (FASD) with sentinel facial features",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2024-02-14",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "205788004",
+        "CONCEPT_ID": 4004785,
+        "CONCEPT_NAME": "Fetal alcohol syndrome",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1293117004",
+        "CONCEPT_ID": 1244885,
+        "CONCEPT_NAME": "Fetal disorder caused by maternal alcohol dependence in pregnancy",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2023-11-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "292881006",
+        "CONCEPT_ID": 4099873,
+        "CONCEPT_NAME": "Industrial methylated spirit adverse reaction",
+        "DOMAIN_ID": "Observation",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "461171000124100",
+        "CONCEPT_ID": 37208159,
+        "CONCEPT_NAME": "Intentional poisoning by ethyl alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2019-03-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "698321001",
+        "CONCEPT_ID": 44784276,
+        "CONCEPT_NAME": "Neonatal disorder caused by maternal alcohol transmitted via breast milk",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2014-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "197315008",
+        "CONCEPT_ID": 4026131,
+        "CONCEPT_NAME": "Non-alcoholic fatty liver",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "1231824009",
+        "CONCEPT_ID": 37164766,
+        "CONCEPT_NAME": "Non-alcoholic fatty liver disease",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2022-07-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "722866000",
+        "CONCEPT_ID": 36716710,
+        "CONCEPT_NAME": "Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -1820,64 +2390,102 @@
         "VALID_START_DATE": "2017-01-31",
         "VALID_END_DATE": "2099-12-31"
       },
-      "isExcluded": false,
+      "isExcluded": true,
       "includeDescendants": true,
       "includeMapped": false
     },
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "120861000119102",
-        "CONCEPT_ID": 43020421,
-        "CONCEPT_NAME": "Systolic heart failure stage C",
+        "CONCEPT_CODE": "442685003",
+        "CONCEPT_ID": 40484532,
+        "CONCEPT_NAME": "Nonalcoholic steatohepatitis",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-01-31",
+        "VALID_START_DATE": "2009-07-31",
         "VALID_END_DATE": "2099-12-31"
       },
-      "isExcluded": false,
+      "isExcluded": true,
       "includeDescendants": true,
       "includeMapped": false
     },
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "15629741000119102",
-        "CONCEPT_ID": 36712929,
-        "CONCEPT_NAME": "Systolic heart failure stage C due to ischemic cardiomyopathy",
+        "CONCEPT_CODE": "1231846001",
+        "CONCEPT_ID": 37164773,
+        "CONCEPT_NAME": "Psychosis caused by ethanol",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2017-01-31",
+        "VALID_START_DATE": "2022-07-31",
         "VALID_END_DATE": "2099-12-31"
       },
-      "isExcluded": false,
+      "isExcluded": true,
       "includeDescendants": true,
       "includeMapped": false
     },
     {
       "concept": {
         "CONCEPT_CLASS_ID": "Disorder",
-        "CONCEPT_CODE": "120851000119104",
-        "CONCEPT_ID": 43021840,
-        "CONCEPT_NAME": "Systolic heart failure stage D",
+        "CONCEPT_CODE": "723927004",
+        "CONCEPT_ID": 37109949,
+        "CONCEPT_NAME": "Psychotic disorder caused by alcohol with schizophreniform symptoms",
         "DOMAIN_ID": "Condition",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "SNOMED",
-        "VALID_START_DATE": "2013-01-31",
+        "VALID_START_DATE": "2017-07-31",
         "VALID_END_DATE": "2099-12-31"
       },
-      "isExcluded": false,
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "89507002",
+        "CONCEPT_ID": 4231558,
+        "CONCEPT_NAME": "Toxic effect of denatured alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Disorder",
+        "CONCEPT_CODE": "82782008",
+        "CONCEPT_ID": 436585,
+        "CONCEPT_NAME": "Toxic effect of ethyl alcohol",
+        "DOMAIN_ID": "Condition",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2002-01-31",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": true,
       "includeDescendants": true,
       "includeMapped": false
     }

@@ -2,7 +2,7 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "CONCEPT_CLASS_ID": "Disorder",
         "CONCEPT_CODE": "64766004",
         "CONCEPT_ID": 81893,
         "CONCEPT_NAME": "Ulcerative colitis",
@@ -15,8 +15,9 @@
         "VALID_START_DATE": "2002-01-31",
         "VALID_END_DATE": "2099-12-31"
       },
-      "includeDescendants": true
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
     }
-    
   ]
 }
