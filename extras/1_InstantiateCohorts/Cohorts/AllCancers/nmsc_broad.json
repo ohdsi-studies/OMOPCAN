@@ -2,7 +2,7 @@
   "ConceptSets": [
     {
       "id": 1,
-      "name": "non_melanoma_skin_b",
+      "name": "nmsc_broad",
       "expression": {
         "items": [
           {
