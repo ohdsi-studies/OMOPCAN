@@ -143,6 +143,9 @@ getRegistryPrevalence <- function(cdm,
 
       pr[[paste0(i)]] <- dplyr::tibble(cbind(pr[[paste0(i)]], studyDays[i, ]))
 
+      pr[[paste0(i)]] <- pr[[paste0(i)]] %>% 
+        mutate(n_cases = as.numeric(n_cases), n_population = as.numeric(n_population))
+
     }
 
     pr <- dplyr::bind_rows(pr) %>%
