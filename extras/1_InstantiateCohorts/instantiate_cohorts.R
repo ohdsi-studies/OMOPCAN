@@ -9,9 +9,13 @@ codelistExclusion <- CodelistGenerator::codesFromConceptSet(
   cdm
 )
 
-#Exluir codigos de non_melanoma_broad !!
-
-codelistExclusion <- list(Reduce(union_all, c(all_cancer_codes, codelistExclusion)))
+# codelistExclusion <- list(Reduce(union_all, c(all_cancer_codes, codelistExclusion)))
+codelistExclusion <- list(
+  Reduce(
+    union_all, 
+    c(all_cancer_codes[names(all_cancer_codes) != "non_melanoma_skin_b"],codelistExclusion)
+  )
+)
 names(codelistExclusion) <- "anymalignancy"
 cdm <- CDMConnector::generateConceptCohortSet(
   cdm = cdm,
