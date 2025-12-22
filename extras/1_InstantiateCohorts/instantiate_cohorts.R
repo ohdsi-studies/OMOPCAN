@@ -8,12 +8,13 @@ codelistExclusion <- CodelistGenerator::codesFromConceptSet(
   here::here("extras", "1_InstantiateCohorts", "Cohorts", "Exclusion"), 
   cdm
 )
-
 # codelistExclusion <- list(Reduce(union_all, c(all_cancer_codes, codelistExclusion)))
 codelistExclusion <- list(
   Reduce(
     union_all, 
-    c(all_cancer_codes[names(all_cancer_codes) != "non_melanoma_skin_b"],codelistExclusion)
+    c(all_cancer_codes[!names(all_cancer_codes) %in%  c("nmsc_broad", "nmsc_narrow")],
+      codelistExclusion
+      )
   )
 )
 names(codelistExclusion) <- "anymalignancy"
@@ -24,7 +25,6 @@ cdm <- CDMConnector::generateConceptCohortSet(
   limit = "all",
   overwrite = TRUE
 )
-
 
 # Generate cancer cohorts ------------------------------------------------------
 if (grepl("NAJS", db_name, ignore.case=TRUE)){
@@ -47,16 +47,21 @@ if (grepl("NAJS", db_name, ignore.case=TRUE)){
     compute(name= "exclusion", overwrite=TRUE)
   #Instantiate all cancers
   log4r::info(logger, "Instantiate cancer cohorts")
+  #Create colorectal code list
+  all_cancer_codes[["colorectal"]] <- Reduce(
+    union_all, 
+    all_cancer_codes[names(all_cancer_codes) %in%  c("colon", "rectum")]
+  )
   #Create a cohort using concept sets
   cdm$outcome_all <- CohortConstructor::conceptCohort(
-    cdm,
-    conceptSet = all_cancer_codes,
-    name = "outcome_all",
-    exit = "event_start_date",
-    overlap = "merge",
-    inObservation = TRUE,
-    table = "condition_occurrence"
-  ) %>%
+      cdm,
+      conceptSet = all_cancer_codes,
+      name = "outcome_all",
+      exit = "event_start_date",
+      overlap = "merge",
+      inObservation = TRUE,
+      table = "condition_occurrence"
+    ) %>%
     compute(name= "outcome_all", overwrite=TRUE)
   #Intersect concept cohort with conditions recorded from cancer registry only
   cdm$outcome_all <-cdm$outcome_all %>% 
