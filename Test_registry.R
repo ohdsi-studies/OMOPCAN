@@ -61,8 +61,11 @@ minimum_counts <- 10
 
 cancersToRun = c("respiratory","female")
 
-executeInstantiateCohorts <- FALSE
-executeCharacterisation <- FALSE
+# You can set to FALSE if already executed
+executeInstantiateCohorts <- TRUE
+executeCharacterisation <- TRUE
+executeIncidence <- TRUE
+executePrevalence <- TRUE
 
 # create cdm reference 
 if(executeInstantiateCohorts){
