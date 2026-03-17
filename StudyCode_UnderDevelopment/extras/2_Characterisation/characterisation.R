@@ -33,21 +33,13 @@ if(!isRegistry){
         strata = list(c("age_gr", "sex")),
         ageGroup = ageGroupList,
         cohortIntersectFlag = list(
-          "Conditions prior to index date" = list(
-            targetCohortTable = "conditions_all",
-            window = c(-Inf, -1)
-          ),
           "Conditions prior and up to 365 days before index date" = list(
             targetCohortTable = "conditions_all",
             window = c(-Inf, -366)
           ),
-          "Conditions 365 and up to 31 days before index date" = list(
+          "Conditions 365 days prior to index date" = list(
             targetCohortTable = "conditions_all",
-            window = c(-365, -31)
-          ),
-          "Conditions 30 and up to 1 day before index date" = list(
-            targetCohortTable = "conditions_all",
-            window = c(-30, -1)
+            window = c(-365, -1)
           ),
           "Conditions on index date" = list(
             targetCohortTable = "conditions_all",
@@ -75,26 +67,14 @@ if(!isRegistry){
             targetCohortTable = "medications",
             window = c(-365, -1)
           ),
-          "Medications 365 to 31 days prior to index date" = list(
-            targetCohortTable = "medications",
-            window = c(-365, -31)
-          ),
-          "Medications 30 to 1 day prior to index date" = list(
-            targetCohortTable = "medications",
-            window = c(-30, -1)
-          ),
           "Medications on index date" = list(
             targetCohortTable = "medications",
             window = c(0, 0)
           ),
-          "Medications 1 to 30 days after index date" = list(
+          "Medications 1 to 90 days after index date" = list(
             targetCohortTable = "medications",
-            window = c(1, 30)
-          ),
-          "Medications 31 to 90 days after index date" = list(
-            targetCohortTable = "medications",
-            window = c(31, 90)
-          ) 
+            window = c(1, 90)
+          )
         )
         # ,
         # otherVariables = otherVar
@@ -111,10 +91,8 @@ if(!isRegistry){
     CohortCharacteristics::summariseLargeScaleCharacteristics(
       window = list(
         # Shared windows for both condition_occurrence and drug_era
-        c(-Inf, -1),     #anytimeprior
         c(-Inf, -366),   # >1y before
-        c(-365, -31),    # 1y-1m before
-        c(-30, -1),      # 30d-1d before
+        c(-365, -1),    # 1y-1d before
         c(0, 0)         # Index date
       ),
       eventInWindow = "condition_occurrence",  # Only conditions
@@ -132,14 +110,10 @@ if(!isRegistry){
     CohortCharacteristics::summariseLargeScaleCharacteristics(
       window = list(
         # Shared windows for both condition_occurrence and drug_era
-        c(-Inf, -1),     #anytimeprior
-        c(-Inf, -366),   # >1y before
-        c(-365, -31),    # 1y-1m before
-        c(-30, -1),      # 30d-1d before
-        c(0, 0),         # Index date
+        c(-365, -1),    # 1y-1d before
+        c(0, 0),        # Index date
         # Additional windows for drug_era only
-        c(1, 30),        # 1-30d after
-        c(31, 90)        # 1m-90d after
+        c(1, 90)        # 1-90d after
       ),
       episodeInWindow = "drug_era",    # Only drug eras
       includeSource = TRUE,

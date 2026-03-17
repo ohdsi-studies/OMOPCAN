@@ -47,6 +47,9 @@ stem_table <- "..."
 startdate <- as.Date("YYYY-MM-DD") 
 enddate <- as.Date("YYYY-MM-DD") 
 
+# If your database is a hospital, please set to TRUE.
+isHospital <- FALSE
+
 # If your database is a cancer registry set to TRUE and select corresponding path to population counts
 isRegistry <- FALSE
 # filepop <- here::here("extras/Registries/data_population/norway_dpop.csv")

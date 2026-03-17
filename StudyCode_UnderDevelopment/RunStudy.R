@@ -74,6 +74,13 @@ date_ranges <- list(
   "2020-2024" = c("2020-01-01", "2024-12-31")
 )
 
+if(isHospital){
+  daysPriorObservation <- 0
+  executeIncidence <- FALSE
+  executePrevalence <- FALSE
+}
+
+
 # Get groups of cancer "cancerTypes"
 source(here::here("extras/cancerGroups.R"))
 cancer_types <- cancer_types[cancersToRun]

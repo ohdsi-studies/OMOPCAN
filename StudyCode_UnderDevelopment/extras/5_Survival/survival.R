@@ -7,6 +7,7 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
         cdm$denominator %>% select(subject_id, !!strat_var),
         by="subject_id"
       ) %>% 
+      mutate(year = format(as.character(lubridate::year(cohort_start_date)))) |> 
       compute(name="outcome_surv", overwrite = TRUE, temporary = FALSE)
   }
   
@@ -26,13 +27,13 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
       ) %>% 
     tally() %>% 
     pull(cohort_definition_id)
+  #Print out cohort names without subject deaths
   ids_dif <- setdiff(cancer_types_gr$cohort_definition_id, ids_surv )
   if(length(ids_dif) != 0){
     log4r::info(logger, 
         paste0("No death records for: ",
                 cancer_types_gr[cancer_types_gr$cohort_definition_id %in% ids_dif,"cohort_name"] ))
   }
-  
   log4r::info(logger, "Estimate single event survival") 
   CohortSurvival::estimateSingleEventSurvival(
     cdm,
@@ -43,7 +44,7 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
     minimumSurvivalDays = 1,
     estimateGap = 365,
     strata = 
-      append(as.list(c("study_period","age_gr", "sex", strat_var)), 
+      append(as.list(c("study_period","age_gr", "sex", "year", strat_var)), 
          append(list(c("age_gr","sex"), c("study_period","sex"), c("study_period","age_gr"), c("study_period","age_gr", "sex")),
             append(lapply(strat_var, function(x) c("study_period", x)),
               append(lapply(strat_var, function(x) c("age_gr", x)), 
