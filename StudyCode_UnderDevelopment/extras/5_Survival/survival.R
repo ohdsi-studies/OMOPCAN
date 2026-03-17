@@ -43,6 +43,7 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
     censorOnCohortExit = TRUE,
     minimumSurvivalDays = 1,
     estimateGap = 365,
+    eventGap = 365,
     strata = 
       append(as.list(c("study_period","age_gr", "sex", "year", strat_var)), 
          append(list(c("age_gr","sex"), c("study_period","sex"), c("study_period","age_gr"), c("study_period","age_gr", "sex")),
