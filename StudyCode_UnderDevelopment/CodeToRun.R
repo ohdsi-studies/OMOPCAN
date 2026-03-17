@@ -41,6 +41,9 @@ results_database_schema <- "..."
 # prefix to be used for tables created in the write schema
 stem_table <- "..."
 
+# minimum counts that can be displayed according to data governance
+minimum_counts <- 10
+
 # Study parameters:
 
 # Data availability in your database: start and end dates 
@@ -55,12 +58,10 @@ isRegistry <- FALSE
 # filepop <- here::here("extras/Registries/data_population/norway_dpop.csv")
 # filepop <- here::here("extras/Registries/data_population/geneve_dpop.csv")
 # filepop <- here::here("extras/Registries/data_population/netherlands_dpop.csv")
+# filepop <- here::here("extras/Registries/data_population/belgium_dpop.csv")
 
 # If the database contains death data 
 executeSurvival <- TRUE
-
-# minimum counts that can be displayed according to data governance
-minimum_counts <- 10
 
 # create cdm reference 
 executeInstantiateCohorts <- TRUE
