@@ -15,7 +15,7 @@ prev <- estimateRegistryPointPrevalence(
   cdm = cdm,
   denominatorTableName = "denominator_counts",
   outcomeTable = "outcome_prev",
-  interval = c("years", "overall"),
+  interval = "years",
   timePoint = "end"
 ) 
 

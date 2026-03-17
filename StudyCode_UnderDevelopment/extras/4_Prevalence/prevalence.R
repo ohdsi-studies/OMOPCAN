@@ -15,7 +15,7 @@ IncidencePrevalence::estimatePointPrevalence(
   cdm = cdm,
   denominatorTable = "denominator",
   outcomeTable = "outcome_prev",
-  interval = c("years", "overall"),
+  interval = "years",
   timePoint = "end"
   # strata = as.list(strat_var)
 ) %>% 
