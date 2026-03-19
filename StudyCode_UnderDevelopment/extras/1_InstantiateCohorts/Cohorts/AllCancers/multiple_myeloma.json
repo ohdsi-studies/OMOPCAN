@@ -2,7 +2,7 @@
   "ConceptSets": [
     {
       "id": 1,
-      "name": "multiple_myeloma",
+      "name": "multiple_myeloma_narrow",
       "expression": {
         "items": [
           {
