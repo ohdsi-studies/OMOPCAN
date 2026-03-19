@@ -76,8 +76,6 @@ if(!isRegistry){
             window = c(1, 90)
           )
         )
-        # ,
-        # otherVariables = otherVar
       ) %>% 
       omopgenerics::exportSummarisedResult(
         minCellCount = minimum_counts,
