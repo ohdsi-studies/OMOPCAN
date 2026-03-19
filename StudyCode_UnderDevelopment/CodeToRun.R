@@ -4,7 +4,9 @@ renv::restore()
 
 library(dplyr) 
 
-# Set the short name/acronym for your database (e.g. "SIDIAP", "IPCI", "CPRD", etc..)
+# EDIT FROM HERE: -------------------------------------------------------------
+
+# Set the short name/acronym for your database (e.g. "SIDIAP", "IPCI", "CPRD", "NAJS", etc..)
 # Please do not use "omop" or "cdm" for db_name
 db_name <-"..."
 
@@ -30,8 +32,6 @@ db <- DBI::dbConnect(
 )
 
 
-# Set database details -----
-
 # The name of the schema that contains the omop tables
 cdm_database_schema <- "..."
 
@@ -43,8 +43,6 @@ stem_table <- "..."
 
 # minimum counts that can be displayed according to data governance
 minimum_counts <- 10
-
-# Study parameters:
 
 # Data availability in your database: start and end dates 
 startdate <- as.Date("YYYY-MM-DD") 
@@ -62,6 +60,9 @@ isRegistry <- FALSE
 
 # If the database contains death data 
 executeSurvival <- TRUE
+
+
+# DO NOT EDIT FROM HERE --------------------------------------------------------
 
 # create cdm reference 
 executeInstantiateCohorts <- TRUE
