@@ -28,7 +28,7 @@ if(isRegistry){
   if(!omopgenerics::isTableEmpty(cdm$conditions_all)){
     cdm$outcome %>%
       CohortCharacteristics::summariseCharacteristics(
-        # demographics = FALSE,
+        demographics = TRUE,
         strata = list(c("age_gr", "sex")),
         ageGroup = ageGroupList,
         cohortIntersectFlag = list(
@@ -58,7 +58,7 @@ if(isRegistry){
     log4r::info(logger, "Summarise charactertistics: medications") 
     cdm$outcome %>%
       CohortCharacteristics::summariseCharacteristics(
-        # demographics = FALSE,
+        demographics = TRUE,
         strata = list(c("age_gr", "sex")),
         ageGroup = ageGroupList,
         cohortIntersectFlag = list(
