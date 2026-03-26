@@ -1,17 +1,16 @@
-if(isRegistry){
-  log4r::info(logger, "Summarise charactertistics: demographics") 
-  cdm$outcome %>%
-    CohortCharacteristics::summariseCharacteristics(
-      strata = list("sex", "age_gr", c("age_gr", "sex")),
-      ageGroup = ageGroupList
-    ) %>%
-    omopgenerics::exportSummarisedResult(
-      minCellCount = minimum_counts,
-      path = output_folder,
-      fileName = paste0(omopgenerics::cdmName(cdm), "_summarise_characteristics_demographics.csv")
-    )
-}else{
-  log4r::info(logger, "Summarise charactertistics: demographics & comorbidities")
+log4r::info(logger, "Summarise charactertistics: demographics") 
+cdm$outcome %>%
+CohortCharacteristics::summariseCharacteristics(
+  strata = list("sex", "age_gr", c("age_gr", "sex")),
+  ageGroup = ageGroupList
+) %>%
+omopgenerics::exportSummarisedResult(
+  minCellCount = minimum_counts,
+  path = output_folder,
+  fileName = paste0(omopgenerics::cdmName(cdm), "_summarise_characteristics_demographics.csv")
+)
+if(!isRegistry){
+  log4r::info(logger, "Summarise charactertistics: comorbidities")
   
   otherVar <-  c("study_period")
   
