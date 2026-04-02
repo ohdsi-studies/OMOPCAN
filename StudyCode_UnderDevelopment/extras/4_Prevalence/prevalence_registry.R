@@ -8,14 +8,16 @@ cdm$outcome_prev <- cdm$outcome |>
     cohortDate = "cohort_end_date",
     indexDate = "cohort_start_date",
     name = "outcome_prev"
-  )
+  )%>%
+  PatientProfiles::addDemographics(ageGroup = ageGroupList) %>% 
+  rename(age_gr = age_group) 
 
 #Compute prevalence
 prev <- estimateRegistryPointPrevalence( 
   cdm = cdm,
   denominatorTableName = "denominator_counts",
   outcomeTable = "outcome_prev",
-  interval = "years",
+  # interval = "years",
   timePoint = "end"
 ) 
 
