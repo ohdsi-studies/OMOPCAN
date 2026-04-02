@@ -1,18 +1,17 @@
-log4r::info(logger, "Summarise charactertistics: demographics") 
-cdm$outcome %>%
-  CohortCharacteristics::summariseCharacteristics(
-    strata = list(c("age_gr", "sex")),
-    ageGroup = ageGroupList
-  ) %>%
-  omopgenerics::exportSummarisedResult(
-    minCellCount = minimum_counts,
-    path = output_folder,
-    fileName = paste0(omopgenerics::cdmName(cdm), "_summarise_characteristics_demographics.csv")
-  )
-
-
-if(!isRegistry){
-  log4r::info(logger, "Summarise charactertistics: comorbidities") 
+if(isRegistry){
+  log4r::info(logger, "Summarise charactertistics: demographics") 
+  cdm$outcome %>%
+    CohortCharacteristics::summariseCharacteristics(
+      strata = list("sex", c("age_gr", "sex")),
+      ageGroup = ageGroupList
+    ) %>%
+    omopgenerics::exportSummarisedResult(
+      minCellCount = minimum_counts,
+      path = output_folder,
+      fileName = paste0(omopgenerics::cdmName(cdm), "_summarise_characteristics_demographics.csv")
+    )
+}else{
+  log4r::info(logger, "Summarise charactertistics: demographics & comorbidities") 
   
   otherVar <-  c("study_period")
   
@@ -29,8 +28,8 @@ if(!isRegistry){
   if(!omopgenerics::isTableEmpty(cdm$conditions_all)){
     cdm$outcome %>%
       CohortCharacteristics::summariseCharacteristics(
-        # demographics = FALSE,
-        strata = list(c("age_gr", "sex")),
+        demographics = TRUE,
+        strata = list("sex", c("age_gr", "sex")),
         ageGroup = ageGroupList,
         cohortIntersectFlag = list(
           "Conditions prior and up to 365 days before index date" = list(
@@ -59,8 +58,8 @@ if(!isRegistry){
     log4r::info(logger, "Summarise charactertistics: medications") 
     cdm$outcome %>%
       CohortCharacteristics::summariseCharacteristics(
-        # demographics = FALSE,
-        strata = list(c("age_gr", "sex")),
+        demographics = TRUE,
+        strata = list("sex", c("age_gr", "sex")),
         ageGroup = ageGroupList,
         cohortIntersectFlag = list(
           "Medications 365 days prior to index date" = list(
