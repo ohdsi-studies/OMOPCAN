@@ -33,10 +33,6 @@ for (db in zip_files){
   }
 }
 
-files <- list.files(subfold, pattern = "\\.csv$", full.names = TRUE)
-files <- files[!grepl("snapshot", files)]
-result_load <- omopgenerics::importSummarisedResult(files)
-
 #Get results ids for each type of result
 resultList <- omopgenerics::settings(result) %>% 
   group_by(result_type) %>% 
