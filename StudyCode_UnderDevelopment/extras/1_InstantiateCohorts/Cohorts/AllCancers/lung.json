@@ -13838,6 +13838,38 @@
               "VALID_START_DATE": "2002-01-31",
               "VALID_END_DATE": "2099-12-31"
             }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8510/3-C34.1",
+              "CONCEPT_ID": 36564670,
+              "CONCEPT_NAME": "Medullary carcinoma, NOS, of upper lobe, lung",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8244/3-C34.0",
+              "CONCEPT_ID": 36537376,
+              "CONCEPT_NAME": "Mixed adenoneuroendocrine carcinoma of main bronchus",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
           }
         ]
       }

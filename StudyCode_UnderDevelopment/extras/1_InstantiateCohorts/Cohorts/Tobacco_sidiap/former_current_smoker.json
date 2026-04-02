@@ -1,0 +1,158 @@
+{
+  "ConceptSets": [
+    {
+      "id": 0,
+      "name": "Smoking status",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "72166-2",
+              "CONCEPT_ID": 43054909,
+              "CONCEPT_NAME": "Tobacco smoking status",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {
+        "Observation": {
+          "CodesetId": 0,
+          "ValueAsConcept": [
+            {
+              "CONCEPT_CODE": "LA15918-8",
+              "CONCEPT_ID": 45883387,
+              "CONCEPT_NAME": "Every-day smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA15919-6",
+              "CONCEPT_ID": 45881686,
+              "CONCEPT_NAME": "Some-day smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA15920-4",
+              "CONCEPT_ID": 45883458,
+              "CONCEPT_NAME": "Former smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA18976-3",
+              "CONCEPT_ID": 45881517,
+              "CONCEPT_NAME": "Current every day smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA18977-1",
+              "CONCEPT_ID": 45884037,
+              "CONCEPT_NAME": "Current some day smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA18979-7",
+              "CONCEPT_ID": 45881518,
+              "CONCEPT_NAME": "Smoker, current status unknown",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA18981-3",
+              "CONCEPT_ID": 45884038,
+              "CONCEPT_NAME": "Heavy tobacco smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA18982-1",
+              "CONCEPT_ID": 45878118,
+              "CONCEPT_NAME": "Light tobacco smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA20356-4",
+              "CONCEPT_ID": 36309332,
+              "CONCEPT_NAME": "Current smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA26103-4",
+              "CONCEPT_ID": 36307682,
+              "CONCEPT_NAME": "Some day smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            },
+            {
+              "CONCEPT_CODE": "LA26104-2",
+              "CONCEPT_ID": 36307857,
+              "CONCEPT_NAME": "Every day smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            }
+          ]
+        }
+      }
+    ],
+    "ObservationWindow": {
+      "PriorDays": 0,
+      "PostDays": 0
+    },
+    "PrimaryCriteriaLimit": {
+      "Type": "First"
+    }
+  },
+  "QualifiedLimit": {
+    "Type": "First"
+  },
+  "ExpressionLimit": {
+    "Type": "First"
+  },
+  "InclusionRules": [],
+  "CensoringCriteria": [],
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "cdmVersionRange": ">=5.0.0"
+}

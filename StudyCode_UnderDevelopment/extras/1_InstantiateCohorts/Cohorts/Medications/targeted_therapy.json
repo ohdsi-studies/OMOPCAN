@@ -1,0 +1,3044 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EF03",
+        "CONCEPT_ID": 947806,
+        "CONCEPT_NAME": "abemaciclib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EL02",
+        "CONCEPT_ID": 947886,
+        "CONCEPT_NAME": "acalabrutinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX77",
+        "CONCEPT_ID": 954862,
+        "CONCEPT_NAME": "adagrasib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB03",
+        "CONCEPT_ID": 947754,
+        "CONCEPT_NAME": "afatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01ED03",
+        "CONCEPT_ID": 947776,
+        "CONCEPT_NAME": "alectinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XF02",
+        "CONCEPT_ID": 947748,
+        "CONCEPT_NAME": "alitretinoin; oral, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EM03",
+        "CONCEPT_ID": 947770,
+        "CONCEPT_NAME": "alpelisib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX18",
+        "CONCEPT_ID": 954865,
+        "CONCEPT_NAME": "amivantamab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX35",
+        "CONCEPT_ID": 21603806,
+        "CONCEPT_NAME": "anagrelide; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2006-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EA06",
+        "CONCEPT_ID": 947764,
+        "CONCEPT_NAME": "asciminib; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB11",
+        "CONCEPT_ID": 954878,
+        "CONCEPT_NAME": "aumolertinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX18",
+        "CONCEPT_ID": 947908,
+        "CONCEPT_NAME": "avapritinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EK01",
+        "CONCEPT_ID": 947846,
+        "CONCEPT_NAME": "axitinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XH04",
+        "CONCEPT_ID": 947912,
+        "CONCEPT_NAME": "belinostat; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX74",
+        "CONCEPT_ID": 954888,
+        "CONCEPT_NAME": "belzutifan; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FG01",
+        "CONCEPT_ID": 954893,
+        "CONCEPT_NAME": "bevacizumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XF03",
+        "CONCEPT_ID": 947801,
+        "CONCEPT_NAME": "bexarotene; oral, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EE03",
+        "CONCEPT_ID": 947904,
+        "CONCEPT_NAME": "binimetinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XG01",
+        "CONCEPT_ID": 947957,
+        "CONCEPT_NAME": "bortezomib; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EA04",
+        "CONCEPT_ID": 947740,
+        "CONCEPT_NAME": "bosutinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01ED04",
+        "CONCEPT_ID": 947848,
+        "CONCEPT_NAME": "brigatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX07",
+        "CONCEPT_ID": 947761,
+        "CONCEPT_NAME": "cabozantinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX27",
+        "CONCEPT_ID": 954904,
+        "CONCEPT_NAME": "capivasertib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XG02",
+        "CONCEPT_ID": 947958,
+        "CONCEPT_NAME": "carfilzomib; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EK02",
+        "CONCEPT_ID": 947802,
+        "CONCEPT_NAME": "cediranib; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01ED02",
+        "CONCEPT_ID": 947752,
+        "CONCEPT_NAME": "ceritinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FE01",
+        "CONCEPT_ID": 954920,
+        "CONCEPT_NAME": "cetuximab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EE02",
+        "CONCEPT_ID": 947737,
+        "CONCEPT_NAME": "cobimetinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EM02",
+        "CONCEPT_ID": 947766,
+        "CONCEPT_NAME": "copanlisib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01ED01",
+        "CONCEPT_ID": 947778,
+        "CONCEPT_NAME": "crizotinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EC02",
+        "CONCEPT_ID": 947936,
+        "CONCEPT_NAME": "dabrafenib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB07",
+        "CONCEPT_ID": 947870,
+        "CONCEPT_NAME": "dacomitinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX82",
+        "CONCEPT_ID": 723177,
+        "CONCEPT_NAME": "darinaparsin",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EA02",
+        "CONCEPT_ID": 947768,
+        "CONCEPT_NAME": "dasatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX06",
+        "CONCEPT_ID": 954957,
+        "CONCEPT_NAME": "dinutuximab beta; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EM04",
+        "CONCEPT_ID": 947894,
+        "CONCEPT_NAME": "duvelisib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX01",
+        "CONCEPT_ID": 954965,
+        "CONCEPT_NAME": "edrecolomab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX79",
+        "CONCEPT_ID": 954970,
+        "CONCEPT_NAME": "eflornithine; oral, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XM01",
+        "CONCEPT_ID": 723186,
+        "CONCEPT_NAME": "enasidenib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2025-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EC03",
+        "CONCEPT_ID": 947860,
+        "CONCEPT_NAME": "encorafenib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XH05",
+        "CONCEPT_ID": 947812,
+        "CONCEPT_NAME": "entinostat; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX14",
+        "CONCEPT_ID": 947872,
+        "CONCEPT_NAME": "entrectinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EN01",
+        "CONCEPT_ID": 954985,
+        "CONCEPT_NAME": "erdafitinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB02",
+        "CONCEPT_ID": 947999,
+        "CONCEPT_NAME": "erlotinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EG02",
+        "CONCEPT_ID": 947917,
+        "CONCEPT_NAME": "everolimus; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EJ02",
+        "CONCEPT_ID": 947763,
+        "CONCEPT_NAME": "fedratinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EK04",
+        "CONCEPT_ID": 955003,
+        "CONCEPT_NAME": "fruquintinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EN04",
+        "CONCEPT_ID": 955004,
+        "CONCEPT_NAME": "futibatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB01",
+        "CONCEPT_ID": 948002,
+        "CONCEPT_NAME": "gefitinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX13",
+        "CONCEPT_ID": 947741,
+        "CONCEPT_NAME": "gilteritinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XJ03",
+        "CONCEPT_ID": 947968,
+        "CONCEPT_NAME": "glasdegib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EL01",
+        "CONCEPT_ID": 947893,
+        "CONCEPT_NAME": "ibrutinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB08",
+        "CONCEPT_ID": 947952,
+        "CONCEPT_NAME": "icotinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EM01",
+        "CONCEPT_ID": 947865,
+        "CONCEPT_NAME": "idelalisib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX85",
+        "CONCEPT_ID": 723198,
+        "CONCEPT_NAME": "idroxioleic acid",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EA01",
+        "CONCEPT_ID": 948001,
+        "CONCEPT_NAME": "imatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX80",
+        "CONCEPT_ID": 955018,
+        "CONCEPT_NAME": "imetelstat; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EN03",
+        "CONCEPT_ID": 955021,
+        "CONCEPT_NAME": "infigratinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XM02",
+        "CONCEPT_ID": 723203,
+        "CONCEPT_NAME": "ivosidenib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2025-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XG03",
+        "CONCEPT_ID": 947997,
+        "CONCEPT_NAME": "ixazomib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EH01",
+        "CONCEPT_ID": 947742,
+        "CONCEPT_NAME": "lapatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX12",
+        "CONCEPT_ID": 947797,
+        "CONCEPT_NAME": "larotrectinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB09",
+        "CONCEPT_ID": 955032,
+        "CONCEPT_NAME": "lazertinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX08",
+        "CONCEPT_ID": 947837,
+        "CONCEPT_NAME": "lenvatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX07",
+        "CONCEPT_ID": 21603788,
+        "CONCEPT_NAME": "lonidamine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01ED05",
+        "CONCEPT_ID": 947798,
+        "CONCEPT_NAME": "lorlatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FD06",
+        "CONCEPT_ID": 955060,
+        "CONCEPT_NAME": "margetuximab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX06",
+        "CONCEPT_ID": 947773,
+        "CONCEPT_NAME": "masitinib; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX10",
+        "CONCEPT_ID": 21603791,
+        "CONCEPT_NAME": "masoprocol; topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX10",
+        "CONCEPT_ID": 947818,
+        "CONCEPT_NAME": "midostaurin; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EE05",
+        "CONCEPT_ID": 723211,
+        "CONCEPT_NAME": "mirdametinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB10",
+        "CONCEPT_ID": 955071,
+        "CONCEPT_NAME": "mobocertinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EJ04",
+        "CONCEPT_ID": 955074,
+        "CONCEPT_NAME": "momelotinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX78",
+        "CONCEPT_ID": 955084,
+        "CONCEPT_NAME": "navitoclax; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FE03",
+        "CONCEPT_ID": 955086,
+        "CONCEPT_NAME": "necitumumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EH02",
+        "CONCEPT_ID": 947767,
+        "CONCEPT_NAME": "neratinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EA03",
+        "CONCEPT_ID": 947864,
+        "CONCEPT_NAME": "nilotinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX09",
+        "CONCEPT_ID": 947759,
+        "CONCEPT_NAME": "nintedanib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XK02",
+        "CONCEPT_ID": 947881,
+        "CONCEPT_NAME": "niraparib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX81",
+        "CONCEPT_ID": 723216,
+        "CONCEPT_NAME": "nirogacestat",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX36",
+        "CONCEPT_ID": 21603807,
+        "CONCEPT_NAME": "oblimersen; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XK01",
+        "CONCEPT_ID": 947969,
+        "CONCEPT_NAME": "olaparib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX10",
+        "CONCEPT_ID": 955101,
+        "CONCEPT_NAME": "olaratumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB06",
+        "CONCEPT_ID": 947951,
+        "CONCEPT_NAME": "olmutinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XM03",
+        "CONCEPT_ID": 723221,
+        "CONCEPT_NAME": "olutasidenib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EL04",
+        "CONCEPT_ID": 955109,
+        "CONCEPT_NAME": "orelabrutinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB04",
+        "CONCEPT_ID": 947878,
+        "CONCEPT_NAME": "osimertinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EJ03",
+        "CONCEPT_ID": 955121,
+        "CONCEPT_NAME": "pacritinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EF01",
+        "CONCEPT_ID": 947735,
+        "CONCEPT_NAME": "palbociclib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XK06",
+        "CONCEPT_ID": 947901,
+        "CONCEPT_NAME": "pamiparib; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FE02",
+        "CONCEPT_ID": 955125,
+        "CONCEPT_NAME": "panitumumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XH03",
+        "CONCEPT_ID": 947750,
+        "CONCEPT_NAME": "panobinostat; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX83",
+        "CONCEPT_ID": 723226,
+        "CONCEPT_NAME": "para-toluenesulfonamide",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EM05",
+        "CONCEPT_ID": 955127,
+        "CONCEPT_NAME": "parsaclisib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX03",
+        "CONCEPT_ID": 947779,
+        "CONCEPT_NAME": "pazopanib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX84",
+        "CONCEPT_ID": 723228,
+        "CONCEPT_NAME": "pelabresib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EN02",
+        "CONCEPT_ID": 955136,
+        "CONCEPT_NAME": "pemigatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FY01",
+        "CONCEPT_ID": 955140,
+        "CONCEPT_NAME": "pertuzumab and trastuzumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2024-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FD02",
+        "CONCEPT_ID": 955139,
+        "CONCEPT_NAME": "pertuzumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX15",
+        "CONCEPT_ID": 947910,
+        "CONCEPT_NAME": "pexidartinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EL05",
+        "CONCEPT_ID": 955145,
+        "CONCEPT_NAME": "pirtobrutinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX57",
+        "CONCEPT_ID": 1501891,
+        "CONCEPT_NAME": "plitidepsin; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EA05",
+        "CONCEPT_ID": 947738,
+        "CONCEPT_NAME": "ponatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX23",
+        "CONCEPT_ID": 947879,
+        "CONCEPT_NAME": "pralsetinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX11",
+        "CONCEPT_ID": 947831,
+        "CONCEPT_NAME": "quizartinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FG02",
+        "CONCEPT_ID": 955157,
+        "CONCEPT_NAME": "ramucirumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX05",
+        "CONCEPT_ID": 947943,
+        "CONCEPT_NAME": "regorafenib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX28",
+        "CONCEPT_ID": 723235,
+        "CONCEPT_NAME": "repotrectinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XH07",
+        "CONCEPT_ID": 723236,
+        "CONCEPT_NAME": "resminostat",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EF02",
+        "CONCEPT_ID": 947824,
+        "CONCEPT_NAME": "ribociclib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EG03",
+        "CONCEPT_ID": 947883,
+        "CONCEPT_NAME": "ridaforolimus; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX19",
+        "CONCEPT_ID": 947906,
+        "CONCEPT_NAME": "ripretinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EB05",
+        "CONCEPT_ID": 947823,
+        "CONCEPT_NAME": "rociletinib; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XH02",
+        "CONCEPT_ID": 947959,
+        "CONCEPT_NAME": "romidepsin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XK03",
+        "CONCEPT_ID": 947998,
+        "CONCEPT_NAME": "rucaparib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EJ01",
+        "CONCEPT_ID": 947744,
+        "CONCEPT_NAME": "ruxolitinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX66",
+        "CONCEPT_ID": 715834,
+        "CONCEPT_NAME": "selinexor; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX22",
+        "CONCEPT_ID": 947793,
+        "CONCEPT_NAME": "selpercatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EE04",
+        "CONCEPT_ID": 947971,
+        "CONCEPT_NAME": "selumetinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EG04",
+        "CONCEPT_ID": 955182,
+        "CONCEPT_NAME": "sirolimus; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX26",
+        "CONCEPT_ID": 955185,
+        "CONCEPT_NAME": "sitravatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XJ02",
+        "CONCEPT_ID": 947967,
+        "CONCEPT_NAME": "sonidegib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX02",
+        "CONCEPT_ID": 947774,
+        "CONCEPT_NAME": "sorafenib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX73",
+        "CONCEPT_ID": 947743,
+        "CONCEPT_NAME": "sotorasib; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX01",
+        "CONCEPT_ID": 947855,
+        "CONCEPT_NAME": "sunitinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX24",
+        "CONCEPT_ID": 955196,
+        "CONCEPT_NAME": "surufatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XK04",
+        "CONCEPT_ID": 947884,
+        "CONCEPT_NAME": "talazoparib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX72",
+        "CONCEPT_ID": 947784,
+        "CONCEPT_NAME": "tazemetostat; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EG01",
+        "CONCEPT_ID": 947800,
+        "CONCEPT_NAME": "temsirolimus; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EL06",
+        "CONCEPT_ID": 723252,
+        "CONCEPT_NAME": "tirabrutinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EK03",
+        "CONCEPT_ID": 947856,
+        "CONCEPT_NAME": "tivozanib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EE01",
+        "CONCEPT_ID": 947758,
+        "CONCEPT_NAME": "trametinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FD01",
+        "CONCEPT_ID": 955224,
+        "CONCEPT_NAME": "trastuzumab; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XF01",
+        "CONCEPT_ID": 947751,
+        "CONCEPT_NAME": "tretinoin; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EH03",
+        "CONCEPT_ID": 947885,
+        "CONCEPT_NAME": "tucatinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XH06",
+        "CONCEPT_ID": 723254,
+        "CONCEPT_NAME": "tucidinostat",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX25",
+        "CONCEPT_ID": 955234,
+        "CONCEPT_NAME": "umbralisib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EX04",
+        "CONCEPT_ID": 947974,
+        "CONCEPT_NAME": "vandetanib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XK05",
+        "CONCEPT_ID": 947835,
+        "CONCEPT_NAME": "veliparib; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EC01",
+        "CONCEPT_ID": 947819,
+        "CONCEPT_NAME": "vemurafenib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX52",
+        "CONCEPT_ID": 1123676,
+        "CONCEPT_NAME": "venetoclax; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XJ01",
+        "CONCEPT_ID": 947970,
+        "CONCEPT_NAME": "vismodegib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XM04",
+        "CONCEPT_ID": 723257,
+        "CONCEPT_NAME": "vorasidenib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XH01",
+        "CONCEPT_ID": 947861,
+        "CONCEPT_NAME": "vorinostat; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FD07",
+        "CONCEPT_ID": 723259,
+        "CONCEPT_NAME": "zanidatamab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01EL03",
+        "CONCEPT_ID": 947903,
+        "CONCEPT_NAME": "zanubrutinib; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX31",
+        "CONCEPT_ID": 723261,
+        "CONCEPT_NAME": "zolbetuximab",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5173108",
+        "CONCEPT_ID": 36855491,
+        "CONCEPT_NAME": "FURMONERTINIB",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "2682434",
+        "CONCEPT_ID": 1734345,
+        "CONCEPT_NAME": "tovorafenib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2024-12-02",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5175895",
+        "CONCEPT_ID": 36858278,
+        "CONCEPT_NAME": "TUNLAMETINIB",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5555715",
+        "CONCEPT_ID": 1253620,
+        "CONCEPT_NAME": "Zongertinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5555390",
+        "CONCEPT_ID": 1254162,
+        "CONCEPT_NAME": "Mifanertinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "2695422",
+        "CONCEPT_ID": 1735491,
+        "CONCEPT_NAME": "inavolisib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2024-12-02",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "2362165",
+        "CONCEPT_ID": 1145637,
+        "CONCEPT_NAME": "capmatinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2020-08-03",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "2477103",
+        "CONCEPT_ID": 739739,
+        "CONCEPT_NAME": "tepotinib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm",
+        "VALID_START_DATE": "2021-04-05",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5167748",
+        "CONCEPT_ID": 36850132,
+        "CONCEPT_NAME": "SAVOLITINIB",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5178180",
+        "CONCEPT_ID": 36860563,
+        "CONCEPT_NAME": "VIMSELTINIB",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5178740",
+        "CONCEPT_ID": 36861123,
+        "CONCEPT_NAME": "BEMARITUZUMAB",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5177204",
+        "CONCEPT_ID": 36859587,
+        "CONCEPT_NAME": "SENAPARIB",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5556031",
+        "CONCEPT_ID": 1253378,
+        "CONCEPT_NAME": "Revumenib",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}

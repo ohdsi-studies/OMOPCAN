@@ -2414,6 +2414,54 @@
               "VALID_START_DATE": "2002-01-31",
               "VALID_END_DATE": "2099-12-31"
             }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "128649001",
+              "CONCEPT_ID": 4029506,
+              "CONCEPT_NAME": "Hepatocellular carcinoma, clear cell type",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "128650001",
+              "CONCEPT_ID": 4029981,
+              "CONCEPT_NAME": "Hepatocellular carcinoma, pleomorphic type",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "128646008",
+              "CONCEPT_ID": 4028536,
+              "CONCEPT_NAME": "Hepatocellular carcinoma, scirrhous",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
           }
         ]
       }

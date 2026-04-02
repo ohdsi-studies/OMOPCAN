@@ -6836,6 +6836,38 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
             }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8574/3-C53.9",
+              "CONCEPT_ID": 36551128,
+              "CONCEPT_NAME": "Adenocarcinoma with neuroendocrine differentiation of cervix uteri",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8246/3-C53.0",
+              "CONCEPT_ID": 42512379,
+              "CONCEPT_NAME": "Neuroendocrine carcinoma, NOS, of endocervix",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
           }
         ]
       }

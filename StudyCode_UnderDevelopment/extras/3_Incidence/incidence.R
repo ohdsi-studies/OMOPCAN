@@ -20,8 +20,4 @@ inc %>%
     path = output_folder
   )
 
-
-
-
-
   

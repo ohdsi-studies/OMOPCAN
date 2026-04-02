@@ -7,7 +7,8 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
         cdm$denominator %>% select(subject_id, !!strat_var),
         by="subject_id"
       ) %>% 
-      mutate(year = format(as.character(lubridate::year(cohort_start_date)))) |> 
+      mutate(year = format(as.character(clock::get_year(cohort_start_date)))) |>  
+      # mutate(year = format(as.character(lubridate::year(cohort_start_date)))) |> 
       compute(name="outcome_surv", overwrite = TRUE, temporary = FALSE)
   }
   

@@ -1,0 +1,403 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX15",
+        "CONCEPT_ID": 954886,
+        "CONCEPT_NAME": "belantamab mafodotin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX05",
+        "CONCEPT_ID": 954898,
+        "CONCEPT_NAME": "brentuximab vedotin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX35",
+        "CONCEPT_ID": 723178,
+        "CONCEPT_NAME": "datopotamab deruxtecan",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX29",
+        "CONCEPT_ID": 21603803,
+        "CONCEPT_NAME": "denileukin diftitox; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX13",
+        "CONCEPT_ID": 954980,
+        "CONCEPT_NAME": "enfortumab vedotin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX02",
+        "CONCEPT_ID": 955010,
+        "CONCEPT_NAME": "gemtuzumab ozogamicin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FB01",
+        "CONCEPT_ID": 955022,
+        "CONCEPT_NAME": "inotuzumab ozogamicin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX22",
+        "CONCEPT_ID": 955052,
+        "CONCEPT_NAME": "loncastuximab tesirine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX26",
+        "CONCEPT_ID": 955069,
+        "CONCEPT_NAME": "mirvetuximab soravtansine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FB02",
+        "CONCEPT_ID": 955079,
+        "CONCEPT_NAME": "moxetumomab pasudotox; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX16",
+        "CONCEPT_ID": 955108,
+        "CONCEPT_NAME": "oportuzumab monatox; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX36",
+        "CONCEPT_ID": 723227,
+        "CONCEPT_NAME": "patritumab deruxtecan",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX14",
+        "CONCEPT_ID": 955146,
+        "CONCEPT_NAME": "polatuzumab vedotin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX17",
+        "CONCEPT_ID": 955175,
+        "CONCEPT_NAME": "sacituzumab govitecan; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX67",
+        "CONCEPT_ID": 715816,
+        "CONCEPT_NAME": "tagraxofusp; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FX23",
+        "CONCEPT_ID": 955217,
+        "CONCEPT_NAME": "tisotumab vedotin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FD04",
+        "CONCEPT_ID": 955225,
+        "CONCEPT_NAME": "trastuzumab deruxtecan; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FD05",
+        "CONCEPT_ID": 955226,
+        "CONCEPT_NAME": "trastuzumab duocarmazine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01FD03",
+        "CONCEPT_ID": 955227,
+        "CONCEPT_NAME": "trastuzumab emtansine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2022-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CA06",
+        "CONCEPT_ID": 43534805,
+        "CONCEPT_NAME": "vintafolide; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "OMOP5173868",
+        "CONCEPT_ID": 36856252,
+        "CONCEPT_NAME": "IFINATAMAB DERUXTECAN",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}

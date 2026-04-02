@@ -2,7 +2,7 @@
   "ConceptSets": [
     {
       "id": 1,
-      "name": "nmsc_broad",
+      "name": "non_melanoma_skin_b",
       "expression": {
         "items": [
           {
@@ -16516,6 +16516,86 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED",
               "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8090/3-C44.2",
+              "CONCEPT_ID": 44501710,
+              "CONCEPT_NAME": "Basal cell carcinoma, NOS, of external ear",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8090/3-C44.1",
+              "CONCEPT_ID": 44499798,
+              "CONCEPT_NAME": "Basal cell carcinoma, NOS, of eyelid",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8090/3-C00.9",
+              "CONCEPT_ID": 44500780,
+              "CONCEPT_NAME": "Basal cell carcinoma, NOS, of lip, NOS",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8090/3-C51.9",
+              "CONCEPT_ID": 44500717,
+              "CONCEPT_NAME": "Basal cell carcinoma, NOS, of vulva, NOS",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "ICDO Condition",
+              "CONCEPT_CODE": "8410/3-C44.1",
+              "CONCEPT_ID": 44501946,
+              "CONCEPT_NAME": "Sebaceous carcinoma of eyelid",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "ICDO3",
+              "VALID_START_DATE": "2015-09-18",
               "VALID_END_DATE": "2099-12-31"
             }
           }

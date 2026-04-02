@@ -48545,6 +48545,278 @@
               "VALID_END_DATE": "2099-12-31"
             },
             "isExcluded": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "836277009",
+              "CONCEPT_ID": 3661447,
+              "CONCEPT_NAME": "Hodgkin granuloma",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2020-07-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "112687003",
+              "CONCEPT_ID": 4012175,
+              "CONCEPT_NAME": "Hodgkin lymphoma, lymphocyte depletion",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "16893006",
+              "CONCEPT_ID": 4060382,
+              "CONCEPT_NAME": "Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "71109004",
+              "CONCEPT_ID": 4322166,
+              "CONCEPT_NAME": "Hodgkin lymphoma, lymphocyte depletion, reticular",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "41529000",
+              "CONCEPT_ID": 4216428,
+              "CONCEPT_NAME": "Hodgkin lymphoma, mixed cellularity",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "52248008",
+              "CONCEPT_ID": 4179351,
+              "CONCEPT_NAME": "Hodgkin lymphoma, nodular sclerosis",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "39086001",
+              "CONCEPT_ID": 4193008,
+              "CONCEPT_NAME": "Hodgkin lymphoma, nodular sclerosis, cellular phase",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "45572000",
+              "CONCEPT_ID": 4166852,
+              "CONCEPT_NAME": "Hodgkin lymphoma, nodular sclerosis, grade 1",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "43985008",
+              "CONCEPT_ID": 4195472,
+              "CONCEPT_NAME": "Hodgkin lymphoma, nodular sclerosis, grade 2",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "836276000",
+              "CONCEPT_ID": 3661446,
+              "CONCEPT_NAME": "Hodgkin sarcoma",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2020-07-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "188576003",
+              "CONCEPT_ID": 136655,
+              "CONCEPT_NAME": "Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "188565002",
+              "CONCEPT_ID": 435198,
+              "CONCEPT_NAME": "Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2022-11-30"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "93520007",
+              "CONCEPT_ID": 200355,
+              "CONCEPT_NAME": "Hodgkin's disease of intra-abdominal lymph nodes",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2099-12-31"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "93542008",
+              "CONCEPT_ID": 435494,
+              "CONCEPT_NAME": "Hodgkin's paragranuloma of lymph nodes of head, face AND/OR neck",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2022-11-30"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "93543003",
+              "CONCEPT_ID": 442144,
+              "CONCEPT_NAME": "Hodgkin's paragranuloma of lymph nodes of inguinal region AND/OR lower limb",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2022-11-30"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "93551000",
+              "CONCEPT_ID": 442146,
+              "CONCEPT_NAME": "Hodgkin's sarcoma of lymph nodes of head, face AND/OR neck",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2022-11-30"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Disorder",
+              "CONCEPT_CODE": "93552007",
+              "CONCEPT_ID": 442145,
+              "CONCEPT_NAME": "Hodgkin's sarcoma of lymph nodes of inguinal region AND/OR lower limb",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "U",
+              "INVALID_REASON_CAPTION": "Invalid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2002-01-31",
+              "VALID_END_DATE": "2022-11-30"
+            }
           }
         ]
       }

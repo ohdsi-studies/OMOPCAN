@@ -1,0 +1,2056 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB04",
+        "CONCEPT_ID": 21603735,
+        "CONCEPT_NAME": "aclarubicin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX03",
+        "CONCEPT_ID": 21603786,
+        "CONCEPT_NAME": "altretamine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB10",
+        "CONCEPT_ID": 40253109,
+        "CONCEPT_NAME": "amrubicin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX01",
+        "CONCEPT_ID": 21603784,
+        "CONCEPT_NAME": "amsacrine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX27",
+        "CONCEPT_ID": 21603802,
+        "CONCEPT_NAME": "arsenic trioxide; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX02",
+        "CONCEPT_ID": 21603785,
+        "CONCEPT_NAME": "asparaginase; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC07",
+        "CONCEPT_ID": 21601441,
+        "CONCEPT_NAME": "azacitidine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CE04",
+        "CONCEPT_ID": 947950,
+        "CONCEPT_NAME": "belotecan; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA09",
+        "CONCEPT_ID": 21601397,
+        "CONCEPT_NAME": "bendamustine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DC01",
+        "CONCEPT_ID": 21603742,
+        "CONCEPT_NAME": "bleomycin; parenteral, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AB01",
+        "CONCEPT_ID": 21601399,
+        "CONCEPT_NAME": "busulfan; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CD04",
+        "CONCEPT_ID": 40253093,
+        "CONCEPT_NAME": "cabazitaxel; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX86",
+        "CONCEPT_ID": 723176,
+        "CONCEPT_NAME": "calaspargase pegol",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC06",
+        "CONCEPT_ID": 21601440,
+        "CONCEPT_NAME": "capecitabine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XA02",
+        "CONCEPT_ID": 21603749,
+        "CONCEPT_NAME": "carboplatin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AC03",
+        "CONCEPT_ID": 21601405,
+        "CONCEPT_NAME": "carboquone; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC04",
+        "CONCEPT_ID": 21601438,
+        "CONCEPT_NAME": "carmofur; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD01",
+        "CONCEPT_ID": 21601407,
+        "CONCEPT_NAME": "carmustine; parenteral, topical, transdermal",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA02",
+        "CONCEPT_ID": 21601391,
+        "CONCEPT_NAME": "chlorambucil; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA05",
+        "CONCEPT_ID": 21601393,
+        "CONCEPT_NAME": "chlormethine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XA01",
+        "CONCEPT_ID": 21603748,
+        "CONCEPT_NAME": "cisplatin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BB04",
+        "CONCEPT_ID": 21601430,
+        "CONCEPT_NAME": "cladribine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BB06",
+        "CONCEPT_ID": 21601432,
+        "CONCEPT_NAME": "clofarabine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA01",
+        "CONCEPT_ID": 21601390,
+        "CONCEPT_NAME": "cyclophosphamide; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XY01",
+        "CONCEPT_ID": 715787,
+        "CONCEPT_NAME": "cytarabine and daunorubicin; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC01",
+        "CONCEPT_ID": 21601435,
+        "CONCEPT_NAME": "cytarabine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AX04",
+        "CONCEPT_ID": 21601420,
+        "CONCEPT_NAME": "dacarbazine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DA01",
+        "CONCEPT_ID": 21603730,
+        "CONCEPT_NAME": "dactinomycin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB02",
+        "CONCEPT_ID": 21603733,
+        "CONCEPT_NAME": "daunorubicin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC58",
+        "CONCEPT_ID": 954945,
+        "CONCEPT_NAME": "decitabine, combinations; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC08",
+        "CONCEPT_ID": 21601442,
+        "CONCEPT_NAME": "decitabine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CC01",
+        "CONCEPT_ID": 21603721,
+        "CONCEPT_NAME": "demecolcine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CD02",
+        "CONCEPT_ID": 21603724,
+        "CONCEPT_NAME": "docetaxel; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB01",
+        "CONCEPT_ID": 21603732,
+        "CONCEPT_NAME": "doxorubicin; parenteral, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB03",
+        "CONCEPT_ID": 21603734,
+        "CONCEPT_NAME": "epirubicin; parenteral, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX41",
+        "CONCEPT_ID": 40253430,
+        "CONCEPT_NAME": "eribulin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX11",
+        "CONCEPT_ID": 21603792,
+        "CONCEPT_NAME": "estramustine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CE03",
+        "CONCEPT_ID": 947814,
+        "CONCEPT_NAME": "etirinotecan pegol; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AG01",
+        "CONCEPT_ID": 21601415,
+        "CONCEPT_NAME": "etoglucid; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CB01",
+        "CONCEPT_ID": 21603718,
+        "CONCEPT_NAME": "etoposide; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC09",
+        "CONCEPT_ID": 715876,
+        "CONCEPT_NAME": "floxuridine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BB05",
+        "CONCEPT_ID": 21601431,
+        "CONCEPT_NAME": "fludarabine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC52",
+        "CONCEPT_ID": 21601443,
+        "CONCEPT_NAME": "fluorouracil, combinations; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC02",
+        "CONCEPT_ID": 21601436,
+        "CONCEPT_NAME": "fluorouracil; systemic, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD05",
+        "CONCEPT_ID": 21601411,
+        "CONCEPT_NAME": "fotemustine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC05",
+        "CONCEPT_ID": 21601439,
+        "CONCEPT_NAME": "gemcitabine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX05",
+        "CONCEPT_ID": 21603787,
+        "CONCEPT_NAME": "hydroxycarbamide; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB06",
+        "CONCEPT_ID": 21603737,
+        "CONCEPT_NAME": "idarubicin; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA06",
+        "CONCEPT_ID": 21601394,
+        "CONCEPT_NAME": "ifosfamide; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CE02",
+        "CONCEPT_ID": 947949,
+        "CONCEPT_NAME": "irinotecan; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DC04",
+        "CONCEPT_ID": 21603745,
+        "CONCEPT_NAME": "ixabepilone; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD02",
+        "CONCEPT_ID": 21601408,
+        "CONCEPT_NAME": "lomustine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX69",
+        "CONCEPT_ID": 947825,
+        "CONCEPT_NAME": "lurbinectedin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AB03",
+        "CONCEPT_ID": 21601401,
+        "CONCEPT_NAME": "mannosulfan; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA10",
+        "CONCEPT_ID": 955062,
+        "CONCEPT_NAME": "melphalan flufenamide; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA03",
+        "CONCEPT_ID": 21601392,
+        "CONCEPT_NAME": "melphalan; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BB02",
+        "CONCEPT_ID": 21601428,
+        "CONCEPT_NAME": "mercaptopurine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BA01",
+        "CONCEPT_ID": 21601423,
+        "CONCEPT_NAME": "methotrexate; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AX01",
+        "CONCEPT_ID": 21601417,
+        "CONCEPT_NAME": "mitobronitol; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX16",
+        "CONCEPT_ID": 21603794,
+        "CONCEPT_NAME": "mitoguazone; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DC03",
+        "CONCEPT_ID": 21603744,
+        "CONCEPT_NAME": "mitomycin; ophthalmic, parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB07",
+        "CONCEPT_ID": 21603738,
+        "CONCEPT_NAME": "mitoxantrone; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BB07",
+        "CONCEPT_ID": 21601433,
+        "CONCEPT_NAME": "nelarabine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD06",
+        "CONCEPT_ID": 21601412,
+        "CONCEPT_NAME": "nimustine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX40",
+        "CONCEPT_ID": 40253429,
+        "CONCEPT_NAME": "omacetaxine mepesuccinate; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XA03",
+        "CONCEPT_ID": 21603750,
+        "CONCEPT_NAME": "oxaliplatin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CD51",
+        "CONCEPT_ID": 955120,
+        "CONCEPT_NAME": "paclitaxel and encequidar; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CD01",
+        "CONCEPT_ID": 21603723,
+        "CONCEPT_NAME": "paclitaxel; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CD03",
+        "CONCEPT_ID": 21603725,
+        "CONCEPT_NAME": "paclitaxel poliglumex; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX24",
+        "CONCEPT_ID": 21603800,
+        "CONCEPT_NAME": "pegaspargase; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BA04",
+        "CONCEPT_ID": 21601425,
+        "CONCEPT_NAME": "pemetrexed; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX08",
+        "CONCEPT_ID": 21603789,
+        "CONCEPT_NAME": "pentostatin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AX02",
+        "CONCEPT_ID": 21601418,
+        "CONCEPT_NAME": "pipobroman; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB08",
+        "CONCEPT_ID": 21603739,
+        "CONCEPT_NAME": "pirarubicin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB11",
+        "CONCEPT_ID": 40253110,
+        "CONCEPT_NAME": "pixantrone; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DC02",
+        "CONCEPT_ID": 21603743,
+        "CONCEPT_NAME": "plicamycin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XA05",
+        "CONCEPT_ID": 40253122,
+        "CONCEPT_NAME": "polyplatillen; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BA05",
+        "CONCEPT_ID": 21601426,
+        "CONCEPT_NAME": "pralatrexate; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA08",
+        "CONCEPT_ID": 21601396,
+        "CONCEPT_NAME": "prednimustine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XB01",
+        "CONCEPT_ID": 21603753,
+        "CONCEPT_NAME": "procarbazine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BA03",
+        "CONCEPT_ID": 21601424,
+        "CONCEPT_NAME": "raltitrexed; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD07",
+        "CONCEPT_ID": 21601413,
+        "CONCEPT_NAME": "ranimustine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XA04",
+        "CONCEPT_ID": 21603751,
+        "CONCEPT_NAME": "satraplatin; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD03",
+        "CONCEPT_ID": 21601409,
+        "CONCEPT_NAME": "semustine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD04",
+        "CONCEPT_ID": 21601410,
+        "CONCEPT_NAME": "streptozocin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC53",
+        "CONCEPT_ID": 21601444,
+        "CONCEPT_NAME": "tegafur, combinations; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC03",
+        "CONCEPT_ID": 21601437,
+        "CONCEPT_NAME": "tegafur; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AX03",
+        "CONCEPT_ID": 21601419,
+        "CONCEPT_NAME": "temozolomide; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CB02",
+        "CONCEPT_ID": 21603719,
+        "CONCEPT_NAME": "teniposide; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AC01",
+        "CONCEPT_ID": 21601403,
+        "CONCEPT_NAME": "thiotepa; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX18",
+        "CONCEPT_ID": 21603796,
+        "CONCEPT_NAME": "tiazofurine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BB03",
+        "CONCEPT_ID": 21601429,
+        "CONCEPT_NAME": "tioguanine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CE01",
+        "CONCEPT_ID": 947868,
+        "CONCEPT_NAME": "topotecan; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "2021-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CX01",
+        "CONCEPT_ID": 21603727,
+        "CONCEPT_NAME": "trabectedin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AB02",
+        "CONCEPT_ID": 21601400,
+        "CONCEPT_NAME": "treosulfan; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AC02",
+        "CONCEPT_ID": 21601404,
+        "CONCEPT_NAME": "triaziquone; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01BC59",
+        "CONCEPT_ID": 45893469,
+        "CONCEPT_NAME": "trifluridine, combinations; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AA07",
+        "CONCEPT_ID": 21601395,
+        "CONCEPT_NAME": "trofosfamide; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01AD08",
+        "CONCEPT_ID": 715755,
+        "CONCEPT_NAME": "uramustine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DC05",
+        "CONCEPT_ID": 723255,
+        "CONCEPT_NAME": "utidelone",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB09",
+        "CONCEPT_ID": 21603740,
+        "CONCEPT_NAME": "valrubicin; parenteral, topical",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CA01",
+        "CONCEPT_ID": 21601447,
+        "CONCEPT_NAME": "vinblastine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CA02",
+        "CONCEPT_ID": 21601448,
+        "CONCEPT_NAME": "vincristine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CA03",
+        "CONCEPT_ID": 21601449,
+        "CONCEPT_NAME": "vindesine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CA05",
+        "CONCEPT_ID": 21601451,
+        "CONCEPT_NAME": "vinflunine; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01CA04",
+        "CONCEPT_ID": 21601450,
+        "CONCEPT_NAME": "vinorelbine; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01XX53",
+        "CONCEPT_ID": 1123629,
+        "CONCEPT_NAME": "vosaroxin; systemic",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "L01DB05",
+        "CONCEPT_ID": 21603736,
+        "CONCEPT_NAME": "zorubicin; parenteral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC",
+        "VALID_START_DATE": "1970-01-01",
+        "VALID_END_DATE": "2099-12-31"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}

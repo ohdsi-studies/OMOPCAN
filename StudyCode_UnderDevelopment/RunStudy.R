@@ -2,6 +2,9 @@ if(!exists("executeInstantiateCohorts")){executeInstantiateCohorts <- TRUE}
 if(!exists("executeCharacterisation")){executeCharacterisation <- TRUE}
 if(!exists("executeIncidence")){executeIncidence <- TRUE}
 if(!exists("executePrevalence")){executePrevalence <- TRUE}
+if(!exists("executeSurvival")){executeSurvival <- TRUE}
+
+if(!exists("minimum_counts")){minimum_counts <- 10}
 
 if(!exists("cancersToRun")){
   cancersToRun = c("respiratory", "digestive","male","female","hematologic", "oral","urinary","skin", "other")

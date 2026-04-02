@@ -2916,6 +2916,22 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "ICDO3"
             }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Morph Abnormality",
+              "CONCEPT_CODE": "1179374007",
+              "CONCEPT_ID": 37156774,
+              "CONCEPT_NAME": "Kaposi sarcoma",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED",
+              "VALID_START_DATE": "2021-11-30",
+              "VALID_END_DATE": "2099-12-31"
+            }
           }
         ]
       }
