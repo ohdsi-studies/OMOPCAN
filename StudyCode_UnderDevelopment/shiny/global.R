@@ -1,8 +1,9 @@
+renv::restore()
+
 library(bslib)
 library(CohortCharacteristics)
 library(DiagrammeR)
 library(dplyr)
-# library(DrugUtilisation)
 library(DT)
 library(ggplot2)
 library(glue)
