@@ -737,7 +737,8 @@ server <- function(input, output, session) {
         result,
         header = input$incidence_gt_18_header,
         groupColumn = input$incidence_gt_18_groupColumn,
-        settingsColumn = c("denominator_age_group", "denominator_sex", "denominator_target_cohort_name"),
+        settingsColumn = c("denominator_age_group", "denominator_sex"),
+        # settingsColumn = c("denominator_age_group", "denominator_sex", "denominator_target_cohort_name"),
         hide = input$incidence_gt_18_hide
       )
   })
