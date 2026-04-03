@@ -1,3 +1,4 @@
+renv::activate()
 renv::restore()
 
 library(bslib)
