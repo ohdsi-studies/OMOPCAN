@@ -27,7 +27,7 @@ estimateRegistryIncidence <- function(cdm,
 
   ## add outcome from attribute
   outcomeRef <- omopgenerics::settings(cdm[[outcomeTable]]) %>%
-    dplyr::filter(.env$outcomeCohortId %in% .data$cohort_definition_id) %>%
+    dplyr::filter(.data$cohort_definition_id %in%.env$outcomeCohortId) %>%
     dplyr::collect("cohort_definition_id", "cohort_name") %>%
     dplyr::rename("outcome_cohort_id" = "cohort_definition_id",
                   "outcome_cohort_name" = "cohort_name")
@@ -243,7 +243,8 @@ estimateRegistryIncidence <- function(cdm,
           }
         ),
       by = "denominator_cohort_id"
-    )
+    ) |> 
+    rename(denominator_age_group = denominator_age_gr)
 
   attrition <- irsList[names(irsList) == "attrition"]
   attrition <- dplyr::bind_rows(attrition,.id = NULL) %>%
@@ -319,10 +320,12 @@ estimateRegistryIncidence <- function(cdm,
           )),
         by = "result_id"
       ) |>
-      visOmopResults::uniteGroup("denominator_cohort_name") |>
-      visOmopResults::uniteAdditional(cols = c("incidence_start_date", "incidence_end_date", "analysis_interval")) |>
-      dplyr::rename("variable_level" = "outcome_cohort_name") |>
-      dplyr::mutate("variable_name" = "outcome_cohort_name")
+      visOmopResults::uniteGroup(cols = c("denominator_cohort_name", "outcome_cohort_name")) |>
+      # visOmopResults::uniteGroup("denominator_cohort_name") |>
+      # dplyr::rename("variable_level" = "outcome_cohort_name") |>
+      # dplyr::mutate("variable_name" = "outcome_cohort_name")
+      visOmopResults::uniteAdditional(cols = c("incidence_start_date", "incidence_end_date", "analysis_interval")) 
+      
 
     irs <- irs |>
       mutate(across(c(denominator_count, outcome_count, person_days, person_years,
@@ -343,6 +346,12 @@ estimateRegistryIncidence <- function(cdm,
         "cdm_name" = attr(cdm, "cdm_name"),
         "strata_name" = dplyr::if_else(.data$strata_name == "Overall", "overall", gsub(" and ", " &&& ", .data$strata_name)),
         "strata_level" = dplyr::if_else(.data$strata_level == "Overall", "overall", gsub(" and ", " &&& ", .data$strata_level))
+      )|>
+      mutate(
+        variable_name  = if_else(grepl('incidence|outcome', estimate_name, ignore.case = TRUE), 
+                                 'outcome',
+                                 'denominator'),
+        variable_level = NA_character_
       )
   }
   
@@ -366,11 +375,11 @@ estimateRegistryIncidence <- function(cdm,
         )),
       by = "result_id"
     ) |>
-   dplyr::rename(
-     "variable_level" = "outcome_cohort_name"
-   ) |>
-    visOmopResults::uniteGroup("denominator_cohort_name") |>
-    tidyr::pivot_longer(
+   # dplyr::rename("variable_level" = "outcome_cohort_name" ) |>
+   visOmopResults::uniteGroup(cols = c("denominator_cohort_name", "outcome_cohort_name")) |>
+   dplyr::mutate(variable_level = NA_character_ ) |>
+    # visOmopResults::uniteGroup("denominator_cohort_name") |>
+   tidyr::pivot_longer(
       cols = c(
         "number_records", "number_subjects", "excluded_records",
         "excluded_subjects"
