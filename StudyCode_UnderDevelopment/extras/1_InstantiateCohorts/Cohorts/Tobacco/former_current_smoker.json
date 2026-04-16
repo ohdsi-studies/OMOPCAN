@@ -161,7 +161,6 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
             },
-            "isExcluded": true,
             "includeDescendants": true
           },
           {
@@ -177,29 +176,22 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
             },
-            "isExcluded": true,
             "includeDescendants": true
-          }
-        ]
-      }
-    },
-    {
-      "id": 2,
-      "name": "Smoking",
-      "expression": {
-        "items": [
+          },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "OMOP5181838",
-              "CONCEPT_ID": 903657,
-              "CONCEPT_NAME": "Cigarette smoker",
+              "CONCEPT_CODE": "OMOP5181835",
+              "CONCEPT_ID": 903654,
+              "CONCEPT_NAME": "Tobacco or its derivatives user",
               "DOMAIN_ID": "Observation",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "OMOP Extension"
+              "VOCABULARY_ID": "OMOP Extension",
+              "VALID_START_DATE": "2023-01-05",
+              "VALID_END_DATE": "2099-12-31"
             },
             "includeDescendants": true
           },
@@ -214,24 +206,45 @@
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "C",
               "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "LOINC"
+              "VOCABULARY_ID": "LOINC",
+              "VALID_START_DATE": "2018-06-15",
+              "VALID_END_DATE": "2099-12-31"
             },
             "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "OMOP5181835",
-              "CONCEPT_ID": 903654,
-              "CONCEPT_NAME": "Tobacco or its derivatives user",
+              "CONCEPT_CODE": "OMOP5181838",
+              "CONCEPT_ID": 903657,
+              "CONCEPT_NAME": "Cigarette smoker",
               "DOMAIN_ID": "Observation",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "OMOP Extension"
+              "VOCABULARY_ID": "OMOP Extension",
+              "VALID_START_DATE": "2023-01-05",
+              "VALID_END_DATE": "2099-12-31"
             },
             "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "72166-2",
+              "CONCEPT_ID": 43054909,
+              "CONCEPT_NAME": "Tobacco smoking status",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC",
+              "VALID_START_DATE": "2012-12-28",
+              "VALID_END_DATE": "2099-12-31"
+            },
+            "isExcluded": true
           }
         ]
       }
@@ -361,18 +374,8 @@
         }
       },
       {
-        "ConditionOccurrence": {
-          "CodesetId": 2
-        }
-      },
-      {
-        "Observation": {
-          "CodesetId": 2
-        }
-      },
-      {
         "Measurement": {
-          "CodesetId": 2
+          "CodesetId": 1
         }
       }
     ],
