@@ -5,8 +5,8 @@ tablePopulation <- readDenominatorCounts(file= filepop)
 denominator_counts <- getRegistryDenominator(
   data_input = tablePopulation,
   # region_input = registryRegion,
-  start_year_input = lubridate::year(startdate),
-  end_year_input = lubridate::year(enddate),
+  start_year_input = clock::get_year(startdate),
+  end_year_input = clock::get_year(enddate),
   strata_age = TRUE ,
   strata_sex = TRUE
 )
