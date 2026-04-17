@@ -188,14 +188,16 @@ getRegistryIncidence <- function(cdm,
       workingEndTime <- studyDays$end_time[i]
       
       year_i <- as.integer(format(workingStartTime, "%Y"))
-      days_in_year <- if (lubridate::leap_year(year_i)) 366 else 365
+      # days_in_year <- if (lubridate::leap_year(year_i)) 366 else 365
+      days_in_year <- if (clock::date_leap_year(as.Date(paste0(year_i, "-01-01")))) 366 else 365
       
       if (interval == "overall"){
         n_persons_denom = denomPop %>% 
           dplyr::summarise(n_mean = as.integer(mean(population))) %>% 
           dplyr::pull(n_mean)
         person_days <-  denomPop %>% 
-          mutate(person_days = population * if_else(lubridate::leap_year(year), 366, 365)) %>%
+          # mutate(person_days = population * if_else(lubridate::leap_year(year), 366, 365)) %>%
+          mutate(person_days = population * if_else(clock::date_leap_year(as.Date(paste0(year, "-01-01"))), 366, 365)) %>%
           summarise(total_person_days = sum(person_days)) %>%
           pull(total_person_days)
       } else{
