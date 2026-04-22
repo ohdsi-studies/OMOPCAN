@@ -1,5 +1,5 @@
-renv::activate()
-renv::restore()
+#renv::activate()
+#renv::restore()
 
 library(bslib)
 library(CohortCharacteristics)
