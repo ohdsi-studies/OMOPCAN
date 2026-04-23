@@ -7,13 +7,12 @@ cdm$outcome %>%
   omopgenerics::exportSummarisedResult(
     minCellCount = minimum_counts,
     path = output_folder,
-    fileName = paste0(omopgenerics::cdmName(cdm), "_summarise_characteristics_demographics.csv")
+    fileName = paste0(omopgenerics::cdmName(cdm), "_summarise_characteristics_1demographics.csv")
   )
+
 if(!isRegistry){
-  log4r::info(logger, "Summarise charactertistics: comorbidities")
-  
+  #Add variables for characterisation
   otherVar <-  c("study_period")
-  
   if("smoking_status" %in% strat_var){
     otherVar <- c(otherVar, "smoking_status")
     cdm$outcome <- cdm$outcome %>%
@@ -24,10 +23,52 @@ if(!isRegistry){
       compute(name="outcome", overwrite = TRUE, temporary = FALSE)
   }
   
-  if(!omopgenerics::isTableEmpty(cdm$conditions_all)){
+  #Summarise characteristics
+  if(!omopgenerics::isTableEmpty(cdm$conditions_all) & !omopgenerics::isTableEmpty(cdm$medications)){
+    log4r::info(logger, "Summarise charactertistics: comorbidities & drugs")
+    cdm$outcome |> 
+      CohortCharacteristics::summariseCharacteristics(
+        demographics = FALSE,
+        strata = list("sex", "age_gr", c("age_gr", "sex")),
+        ageGroup = ageGroupList,
+        cohortIntersectFlag = list(
+          "Conditions prior and up to 365 days before index date" = list(
+            targetCohortTable = "conditions_all",
+            window = c(-Inf, -366)
+          ),
+          "Conditions 365 days prior to index date" = list(
+            targetCohortTable = "conditions_all",
+            window = c(-365, -1)
+          ),
+          "Conditions on index date" = list(
+            targetCohortTable = "conditions_all",
+            window = c(0, 0)
+          ),
+          "Medications 365 days prior to index date" = list(
+            targetCohortTable = "medications",
+            window = c(-365, -1)
+          ),
+          "Medications on index date" = list(
+            targetCohortTable = "medications",
+            window = c(0, 0)
+          ),
+          "Medications 1 to 90 days after index date" = list(
+            targetCohortTable = "medications",
+            window = c(1, 90)
+          )
+        ),
+        otherVariables = otherVar
+      )|> 
+      omopgenerics::exportSummarisedResult(
+        minCellCount = minimum_counts,
+        path = output_folder,
+        fileName = paste0(omopgenerics::cdmName(cdm),"_summarise_characteristics_2cond_drugs.csv")
+      )
+    
+  }else if(!omopgenerics::isTableEmpty(cdm$conditions_all)){
+    log4r::info(logger, "Summarise charactertistics: comorbidities")
     cdm$outcome %>%
       CohortCharacteristics::summariseCharacteristics(
-        counts = FALSE,
         demographics = FALSE,
         strata = list("sex", "age_gr", c("age_gr", "sex")),
         ageGroup = ageGroupList,
@@ -50,15 +91,12 @@ if(!isRegistry){
       omopgenerics::exportSummarisedResult(
         minCellCount = minimum_counts,
         path = output_folder,
-        fileName = paste0(omopgenerics::cdmName(cdm),"_summarise_characteristics_conditions.csv")
+        fileName = paste0(omopgenerics::cdmName(cdm),"_summarise_characteristics_2conditions.csv")
       )
-  }
-  
-  if(!omopgenerics::isTableEmpty(cdm$medications)){
+  }else if(!omopgenerics::isTableEmpty(cdm$medications)){
     log4r::info(logger, "Summarise charactertistics: medications") 
     cdm$outcome %>%
       CohortCharacteristics::summariseCharacteristics(
-        counts = FALSE,
         demographics = FALSE,
         strata = list("sex", "age_gr", c("age_gr", "sex")),
         ageGroup = ageGroupList,
@@ -80,7 +118,7 @@ if(!isRegistry){
       omopgenerics::exportSummarisedResult(
         minCellCount = minimum_counts,
         path = output_folder,
-        fileName = paste0(omopgenerics::cdmName(cdm),"_summarise_characteristics_drugs.csv")
+        fileName = paste0(omopgenerics::cdmName(cdm),"_summarise_characteristics_2drugs.csv")
         )
   }
   
@@ -123,6 +161,3 @@ if(!isRegistry){
       fileName = paste0(omopgenerics::cdmName(cdm),"_summarise_large_scale_characteristics_drugs.csv")
       )
 }
-
-  
-
