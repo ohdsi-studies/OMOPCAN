@@ -51,8 +51,8 @@ if (length(resultList$summarise_characteristics) != 0){
     resultList[["summarise_characteristics"]]   <- NULL
     
   }else if (length(resultList$summarise_characteristics) == 2) {
-    resultList[["summarise_characteristics_demographics"]] <- resultList$summarise_characteristics[2]
-    resultList[["summarise_characteristics_clinical"]]     <- resultList$summarise_characteristics[1]
+    resultList[["summarise_characteristics_demographics"]] <- resultList$summarise_characteristics[1]
+    resultList[["summarise_characteristics_clinical"]]     <- resultList$summarise_characteristics[2]
     resultList[["summarise_characteristics"]]   <- NULL
   }else{
     errorCondition(message = "summarise characteristics results are not merged")
