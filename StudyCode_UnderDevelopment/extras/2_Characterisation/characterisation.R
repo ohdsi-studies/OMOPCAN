@@ -17,7 +17,7 @@ if(!isRegistry){
     otherVar <- c(otherVar, "smoking_status")
     cdm$outcome <- cdm$outcome %>%
       left_join(
-        cdm$denominator %>% select(subject_id, smoking_status),
+        cdm$denominator|> filter(cohort_definition_id==1) |>  select(subject_id, smoking_status),
         by="subject_id"
       ) %>% 
       compute(name="outcome", overwrite = TRUE, temporary = FALSE)
