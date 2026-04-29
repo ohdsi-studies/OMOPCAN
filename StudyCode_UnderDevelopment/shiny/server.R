@@ -206,6 +206,15 @@ server <- function(input, output, session) {
   createOutputCountPlot <- shiny::reactive({
     result <- data |>
       filterData("summarise_cohort_count", input)
+    #filter group cancer
+    all_types <- unique(unlist(lapply(
+      data$cancer_group_strata[input$summarise_cohort_count_cancer_group], 
+      `[[`, "types"
+    )))
+    all_strata <- unique(unlist(lapply(
+      data$cancer_group_strata[input$summarise_cohort_count_cancer_group], 
+      `[[`, "stratification"
+    )))
     #filter cancer group
     result <- result |> 
       omopgenerics::filterSettings(
@@ -214,12 +223,9 @@ server <- function(input, output, session) {
       omopgenerics::bind(
         result |> 
           omopgenerics::filterGroup(
-            cohort_name %in% c(
-              data$cancer_group_strata[[input$summarise_cohort_count_cancer_group]]$types,
-              data$cancer_group_strata[[input$summarise_cohort_count_cancer_group]]$stratification
-            )
+              cohort_name %in% c(all_types, all_strata )
           )
-      )
+        )
     CohortCharacteristics::plotCohortCount(
       result,
       facet = input$summarise_cohort_count_ggplot2_10_facet,
