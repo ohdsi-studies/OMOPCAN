@@ -97,16 +97,47 @@ cdm <- omopgenerics::emptyCohortTable(cdm, name="conditions_all", overwrite = TR
 
 if(!isRegistry){
   log4r::info(logger, "Instantiate conditions")
+  # codelistConditions <- CodelistGenerator::codesFromConceptSet(
+  #   here::here("extras","1_InstantiateCohorts","Cohorts","Conditions"),
+  #   cdm
+  # )
+  # cdm <- CDMConnector::generateConceptCohortSet(
+  #   cdm = cdm, 
+  #   conceptSet = codelistConditions,
+  #   name = "conditions",
+  #   overwrite = TRUE
+  # )
+  
+  #Instantiate chronic conditions
   codelistConditions <- CodelistGenerator::codesFromConceptSet(
-    here::here("extras","1_InstantiateCohorts","Cohorts","Conditions"),
+    here::here("extras","1_InstantiateCohorts","Cohorts","Conditions_chronic"),
     cdm
   )
   cdm <- CDMConnector::generateConceptCohortSet(
     cdm = cdm, 
     conceptSet = codelistConditions,
-    name = "conditions",
+    name = "conditions_chronic",
+    limit = "first",
+    end = "observation_period_end_date",
     overwrite = TRUE
   )
+  
+  #Instantiate acute conditions
+  codelistConditions <- CodelistGenerator::codesFromConceptSet(
+    here::here("extras","1_InstantiateCohorts","Cohorts","Conditions_acute"),
+    cdm
+  )
+  cdm <- CDMConnector::generateConceptCohortSet(
+    cdm = cdm, 
+    conceptSet = codelistConditions,
+    name = "conditions_acute",
+    limit = "all",
+    end = "event_end_date",
+    overwrite = TRUE
+  )
+  
+  cdm <- cdm$conditions_chronic %>%
+    omopgenerics::bind(cdm$conditions_acute, name="conditions_all")
   
   # instantiate obesity using diagnosis and measurements and bind to "conditions_all"
   log4r::info(logger, "Instantiate obesity BMI")
@@ -120,7 +151,7 @@ if(!isRegistry){
     computeAttrition = TRUE,
     overwrite = TRUE
   )
-  cdm <- cdm$conditions %>%
+  cdm <- cdm$conditions_all %>%
     omopgenerics::bind(cdm$obesity, name="conditions_all")
   
   # instantiate menopausal status  and bind to "conditions_all"
