@@ -34,26 +34,32 @@ if(!isRegistry){
         cohortIntersectFlag = list(
           "Conditions prior and up to 365 days before index date" = list(
             targetCohortTable = "conditions_all",
+            targetEndDate = "cohort_start_date",
             window = c(-Inf, -366)
           ),
           "Conditions 365 days prior to index date" = list(
             targetCohortTable = "conditions_all",
+            targetEndDate = "cohort_start_date",
             window = c(-365, -1)
           ),
           "Conditions on index date" = list(
             targetCohortTable = "conditions_all",
+            targetEndDate = "cohort_start_date",
             window = c(0, 0)
           ),
           "Medications 365 days prior to index date" = list(
             targetCohortTable = "medications",
+            targetEndDate = "cohort_start_date",
             window = c(-365, -1)
           ),
           "Medications on index date" = list(
             targetCohortTable = "medications",
+            targetEndDate = "cohort_start_date",
             window = c(0, 0)
           ),
           "Medications 1 to 90 days after index date" = list(
             targetCohortTable = "medications",
+            targetEndDate = "cohort_start_date",
             window = c(1, 90)
           )
         ),
@@ -75,14 +81,17 @@ if(!isRegistry){
         cohortIntersectFlag = list(
           "Conditions prior and up to 365 days before index date" = list(
             targetCohortTable = "conditions_all",
+            targetEndDate = "cohort_start_date",
             window = c(-Inf, -366)
           ),
           "Conditions 365 days prior to index date" = list(
             targetCohortTable = "conditions_all",
+            targetEndDate = "cohort_start_date",
             window = c(-365, -1)
           ),
           "Conditions on index date" = list(
             targetCohortTable = "conditions_all",
+            targetEndDate = "cohort_start_date",
             window = c(0, 0)
           )
         ),
@@ -103,14 +112,17 @@ if(!isRegistry){
         cohortIntersectFlag = list(
           "Medications 365 days prior to index date" = list(
             targetCohortTable = "medications",
+            targetEndDate = "cohort_start_date",
             window = c(-365, -1)
           ),
           "Medications on index date" = list(
             targetCohortTable = "medications",
+            targetEndDate = "cohort_start_date",
             window = c(0, 0)
           ),
           "Medications 1 to 90 days after index date" = list(
             targetCohortTable = "medications",
+            targetEndDate = "cohort_start_date",
             window = c(1, 90)
           )
         )
