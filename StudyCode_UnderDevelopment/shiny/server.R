@@ -783,7 +783,8 @@ server <- function(input, output, session) {
       x = input$incidence_ggplot2_19_x,
       ribbon = input$incidence_ggplot2_19_ribbon,
       facet = input$incidence_ggplot2_19_facet,
-      colour = c(input$incidence_ggplot2_19_colour, input$incidence_strata_cols) #force strata in colours
+      colour = c(input$incidence_ggplot2_19_colour) 
+      # colour = c(input$incidence_ggplot2_19_colour, input$incidence_strata_cols) #force strata in colours
     )
   })
   output$incidence_ggplot2_19 <- shiny::renderPlot({
