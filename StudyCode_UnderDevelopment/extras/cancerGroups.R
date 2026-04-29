@@ -9,7 +9,7 @@ cancer_types[["respiratory"]] = list(
 
 cancer_types[["digestive"]] = list(
   types = c("esophagus", "colorectal", "colon", "rectum", "anus", "stomach", "liver", "pancreatic", "gallbladder"),
-  stratification = c("t2d","viral_hepatitis", "tobacco", "obesitycharybdis","cardiovascular_disease", "hypertension", "hpv")
+  stratification = c("t2_diabetes","viral_hepatitis", "tobacco", "obesitycharybdis","cardiovascular_disease", "hypertension", "hpv")
 )
 
 cancer_types[["male"]] = list(
@@ -19,7 +19,7 @@ cancer_types[["male"]] = list(
 
 cancer_types[["female"]] = list(
   types = c("breast", "vulva", "vagina", "cervix", "corpus_uteri", "ovary"),
-  stratification = c("hpv", "tobacco", "obesitycharybdis","menopausal_status", "depressive_disorder", "t2d")
+  stratification = c("hpv", "tobacco", "obesitycharybdis","menopausal_status", "depressive_disorder", "t2_diabetes")
 )
 
 cancer_types[["hematologic"]] = list(
