@@ -14,11 +14,12 @@ for (db in zip_files){
     message("Unzipped: ", db)
   }
   #Import results from each cancer group
+  result_db = omopgenerics::emptySummarisedResult()
   subfolds = list.dirs(unzip_dir)[-1]
   for (subfold in subfolds){
     cancer_group <- basename(subfold)
     message("Processing results for cancer group: ", cancer_group)
-    if(nrow(result) == 0){
+    if(nrow(result_db) == 0){
       result_load <-  omopgenerics::importSummarisedResult(subfold) 
     }else{
       files <- list.files(subfold, pattern = "\\.csv$", full.names = TRUE)
@@ -26,11 +27,15 @@ for (db in zip_files){
       result_load <-  omopgenerics::importSummarisedResult(files) 
     }
     message("Bind results  with other groups")
-    result <- omopgenerics::bind(
-      result, 
+    result_db <- omopgenerics::bind(
+      result_db, 
       result_load
     )
   }
+  result <- omopgenerics::bind(
+    result, 
+    result_db
+  )
 }
 
 #Get results ids for each type of result
