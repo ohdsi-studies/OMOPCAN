@@ -1252,7 +1252,11 @@ ui <- bslib::page_navbar(
                     label = "facet",
                     selected = NULL,
                     multiple = TRUE,
-                    choices = c("cdm_name", "denominator_cohort_name", "outcome_cohort_name", "incidence_start_date", "incidence_end_date", "analysis_complete_database_intervals", "analysis_outcome_washout", "analysis_repeated_events", "denominator_age_group", "denominator_days_prior_observation", "denominator_end_date", "denominator_sex", "denominator_start_date", "denominator_target_cohort_name", "denominator_time_at_risk", "variable_name", "variable_level", "estimate_name"),
+                    choices = c("cdm_name", "denominator_cohort_name", "outcome_cohort_name", "incidence_start_date", "incidence_end_date", 
+                                "analysis_complete_database_intervals", "analysis_outcome_washout", "analysis_repeated_events", 
+                                "denominator_age_group", "denominator_days_prior_observation", "denominator_end_date", "denominator_sex", 
+                                "denominator_start_date", "denominator_target_cohort_name", "denominator_time_at_risk", "variable_name", 
+                                "variable_level", "estimate_name", filterValues$incidence_strata),
                     options = list(`actions-box` = TRUE, size = 5, `selected-text-format` = "count > 3",container = "body")
                   ),
                   shinyWidgets::pickerInput(
@@ -1260,7 +1264,11 @@ ui <- bslib::page_navbar(
                     label = "colour",
                     selected = c("outcome_cohort_name"),
                     multiple = TRUE,
-                    choices = c("cdm_name", "denominator_cohort_name", "outcome_cohort_name", "incidence_start_date", "incidence_end_date", "analysis_complete_database_intervals", "analysis_outcome_washout", "analysis_repeated_events", "denominator_age_group", "denominator_days_prior_observation", "denominator_end_date", "denominator_sex", "denominator_start_date", "denominator_target_cohort_name", "denominator_time_at_risk", "variable_name", "variable_level", "estimate_name"),
+                    choices = c("cdm_name", "denominator_cohort_name", "outcome_cohort_name", "incidence_start_date", "incidence_end_date", 
+                                "analysis_complete_database_intervals", "analysis_outcome_washout", "analysis_repeated_events", 
+                                "denominator_age_group", "denominator_days_prior_observation", "denominator_end_date", "denominator_sex", 
+                                "denominator_start_date", "denominator_target_cohort_name", "denominator_time_at_risk", "variable_name", 
+                                "variable_level", "estimate_name", filterValues$incidence_strata),
                     options = list(`actions-box` = TRUE, size = 5, `selected-text-format` = "count > 3",container = "body")
                   ),
                   position = "right"
