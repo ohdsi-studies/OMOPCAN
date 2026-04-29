@@ -966,7 +966,8 @@ server <- function(input, output, session) {
       ribbon = input$prevalence_ggplot2_19_ribbon,
       facet = input$prevalence_ggplot2_19_facet,
       colour = input$prevalence_ggplot2_19_colour
-    )
+    )+
+    labs(y = "5-year partial prevalence")
   })
   output$prevalence_ggplot2_19 <- shiny::renderPlot({
     createOutputPrevPlot()
