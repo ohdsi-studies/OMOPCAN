@@ -4,7 +4,7 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
   if(!omopgenerics::isTableEmpty(cdm$conditions_st) & !isRegistry){
     cdm$outcome_surv <- cdm$outcome_surv %>% 
       left_join(
-        cdm$denominator %>% select(subject_id, !!strat_var),
+        cdm$denominator %>% filter(cohort_definition_id == 1) %>% select(subject_id, !!strat_var),
         by="subject_id"
       ) %>% 
       compute(name="outcome_surv", overwrite = TRUE, temporary = FALSE)
