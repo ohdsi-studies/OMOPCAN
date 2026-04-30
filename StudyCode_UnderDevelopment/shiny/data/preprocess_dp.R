@@ -90,26 +90,37 @@ if (length(survival_res) > 0) {
     omopgenerics::bind,
     lapply(survival_res, function(x) data[[x]])
   )
-  
-  # Add survival stratification to filterValues
-  surv_strata <- filterValues[
-    grepl("survival_summary_grouping_",names(filterValues))  & 
-      !grepl(paste(exclude_patterns, collapse = "|"), names(filterValues))
-  ]
-  
-  if(length(surv_strata)==0){
-    filterValues$survival_strata <- NULL
-  }else{
-    survival_strata <- gsub("survival_summary_grouping_", "", names(surv_strata))
-    filterValues$survival_strata <- survival_strata
-  }
+  #correct age_gr and sex values
+  strataCols <- visOmopResults::strataColumns(data$survival)
+  if("sex" %in% strataCols & "age_gr" %in% strataCols){
+    data$survival <- data$survival |> 
+      omopgenerics::splitStrata() |> 
+      mutate(
+        sex     = stringr::str_trim(sex, side = "right"),
+        age_gr  = stringr::str_trim(age_gr, side = "right")  
+      ) |> 
+      omopgenerics::uniteStrata(strataCols)
 
+    survival_res <- survival_res[!grepl("attrition", survival_res)]
+    var_adj <- c(glue::glue("{survival_res}_grouping_sex"), glue::glue("{survival_res}_grouping_age_gr"))
+    filterValues[var_adj] <- lapply(filterValues[var_adj], function(x) unique(stringr::str_trim(x, side = "right")))
+  }
+  
+  if("survival_summary" %in% survival_res){
+    cols <- visOmopResults::strataColumns(data$survival_summary)
+    if(length(cols) != 0){
+      filterValues$survival_strata <- cols[!grepl(paste(exclude_patterns, collapse = "|"), cols)]
+    }else{
+      filterValues$survival_strata <- NULL
+    }
+  }
 }
 
 # Group cancers and stratification
 source(here::here("cancerGroups.R"))
 data$cancer_group_strata <- cancer_types
 filterValues$cancer_group_names <- names(cancer_types)
+
 
 #Save RData file
 save(data, filterValues, file = here::here( "data", "shinyData.RData"))
