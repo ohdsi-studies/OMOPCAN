@@ -1,0 +1,1 @@
+Please review the number of subjects, the number of events, the median survival, and the restricted mean survival. These results can be stratified by age, sex, and conditions if available.
