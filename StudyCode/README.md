@@ -1,4 +1,4 @@
-# Time trends in epidemiology and patient characteristics of 34 cancer types
+# Temporal trends in epidemiology and patient characteristics of 36 cancers: A multinational population-based cohort study using OMOP databases to investigate CANcer (OMOPCAN)
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
@@ -14,7 +14,7 @@
 - Publications: **-**
 - Results explorer: **-**
 
-The main aim of this study is to assess, through a federated approach, the value of RWD mapped to OMOP CDM in monitoring cancer epidemiology over time and understanding patient characteristics, disease management and outcomes.
+The main aim of this project is to serve as a proof-of-concept for using real-world data mapped to the Observational Medical Outcomes Partnership (OMOP) common data model (CDM) to monitor cancer epidemiology over time and characterise patients’ clinical history and outcomes.
 
 ## How to run
 
@@ -23,7 +23,6 @@ The main aim of this study is to assess, through a federated approach, the value
 2. Open the project OMOPCAN_Study.Rproj in RStudio. When the project is open, its name will appear in the top-right corner of your RStudio session:
   - Install the necessary packages for the study by activating and restoring the renv. 
   - Open and work through the CodeToRun.R, which is the primary file you'll need. Execute the lines in the file, adding your database-specific information as instructed in the comments.
-  - To run the study, use the command source(here::here("RunStudy.R"))
 
 3. After running the analysis, you will find a results folder with one subfolder per each cancer group.
 
