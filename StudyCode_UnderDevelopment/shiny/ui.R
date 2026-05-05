@@ -82,6 +82,22 @@ ui <- bslib::page_navbar(
           bslib::card(
             full_screen = TRUE,
             bslib::card_header(
+              # Botón de ayuda "+" 
+              bslib::popover(
+                trigger = shiny::actionButton(
+                  inputId = "help_snapshot_table",
+                  label = "+",
+                  class = "btn-sm btn-outline-secondary",
+                  style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                ),
+                placement = "right",
+                title = "What to look at here?",
+                shiny::p(
+                  style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                  leer_ayuda("snapshot")   
+                )
+              ),
+              # Botón de descarga
               bslib::popover(
                 shiny::icon("download"),
                 shinyWidgets::pickerInput(
@@ -169,6 +185,21 @@ ui <- bslib::page_navbar(
           bslib::card(
             full_screen = TRUE,
             bslib::card_header(
+              # Botón de ayuda "+" 
+              bslib::popover(
+                trigger = shiny::actionButton(
+                  inputId = "help_counts_table",
+                  label = "+",
+                  class = "btn-sm btn-outline-secondary",
+                  style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                ),
+                placement = "right",
+                title = "What to look at here?",
+                shiny::p(
+                  style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                  leer_ayuda("cohort_count")   
+                )
+              ),
               bslib::popover(
                 shiny::icon("download"),
                 shinyWidgets::pickerInput(
@@ -350,6 +381,20 @@ ui <- bslib::page_navbar(
             full_screen = TRUE,
             bslib::card_header(
               bslib::popover(
+                trigger = shiny::actionButton(
+                  inputId = "help_cohort_attrition",
+                  label = "+",
+                  class = "btn-sm btn-outline-secondary",
+                  style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                ),
+                placement = "right",
+                title = "What to look at here?",
+                shiny::p(
+                  style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                  leer_ayuda("cohort_attrition")   
+                )
+              ),
+              bslib::popover(
                 shiny::icon("download"),
                 shiny::downloadButton(outputId = "summarise_cohort_attrition_tidy_download", label = "Download csv")
               ),
@@ -489,6 +534,21 @@ ui <- bslib::page_navbar(
           bslib::card(
             full_screen = TRUE,
             bslib::card_header(
+              # Botón de ayuda "+" 
+              bslib::popover(
+                trigger = shiny::actionButton(
+                  inputId = "help_charact1",
+                  label = "+",
+                  class = "btn-sm btn-outline-secondary",
+                  style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                ),
+                placement = "right",
+                title = "What to look at here?",
+                shiny::p(
+                  style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                  leer_ayuda("characteristics1")   
+                )
+              ),
               bslib::popover(
                 shiny::icon("download"),
                 shinyWidgets::pickerInput(
@@ -732,6 +792,21 @@ ui <- bslib::page_navbar(
           bslib::card(
             full_screen = TRUE,
             bslib::card_header(
+              # Botón de ayuda "+" 
+              bslib::popover(
+                trigger = shiny::actionButton(
+                  inputId = "help_charact2",
+                  label = "+",
+                  class = "btn-sm btn-outline-secondary",
+                  style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                ),
+                placement = "right",
+                title = "What to look at here?",
+                shiny::p(
+                  style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                  leer_ayuda("characteristics2")   
+                )
+              ),
               bslib::popover(
                 shiny::icon("download"),
                 shinyWidgets::pickerInput(
@@ -879,6 +954,21 @@ ui <- bslib::page_navbar(
           bslib::card(
             full_screen = TRUE,
             bslib::card_header(
+              # Botón de ayuda "+" 
+              bslib::popover(
+                trigger = shiny::actionButton(
+                  inputId = "help_lsc1",
+                  label = "+",
+                  class = "btn-sm btn-outline-secondary",
+                  style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                ),
+                placement = "right",
+                title = "What to look at here?",
+                shiny::p(
+                  style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                  leer_ayuda("LSC1")   
+                )
+              ),
               bslib::popover(
                 shiny::icon("download"),
                 shiny::downloadButton(outputId = "summarise_lsc_conditions_tidy_download", label = "Download csv")
@@ -970,6 +1060,21 @@ ui <- bslib::page_navbar(
           bslib::card(
             full_screen = TRUE,
             bslib::card_header(
+              # Botón de ayuda "+" 
+              bslib::popover(
+                trigger = shiny::actionButton(
+                  inputId = "help_lsc2",
+                  label = "+",
+                  class = "btn-sm btn-outline-secondary",
+                  style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                ),
+                placement = "right",
+                title = "What to look at here?",
+                shiny::p(
+                  style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                  leer_ayuda("LSC2")   
+                )
+              ),
               bslib::popover(
                 shiny::icon("download"),
                 shiny::downloadButton(outputId = "summarise_lsc_conditions_tidy_download", label = "Download csv")
@@ -1111,6 +1216,21 @@ ui <- bslib::page_navbar(
             bslib::card(
               full_screen = TRUE,
               bslib::card_header(
+                # Botón de ayuda "+" 
+                bslib::popover(
+                  trigger = shiny::actionButton(
+                    inputId = "help_incidence",
+                    label = "+",
+                    class = "btn-sm btn-outline-secondary",
+                    style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                  ),
+                  placement = "right",
+                  title = "What to look at here?",
+                  shiny::p(
+                    style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                    leer_ayuda("incidence")   
+                  )
+                ),
                 bslib::popover(
                   shiny::icon("download"),
                   shiny::downloadButton(outputId = "incidence_tidy_download", label = "Download csv")
@@ -1498,6 +1618,21 @@ ui <- bslib::page_navbar(
             bslib::card(
               full_screen = TRUE,
               bslib::card_header(
+                # Botón de ayuda "+" 
+                bslib::popover(
+                  trigger = shiny::actionButton(
+                    inputId = "help_prevalence",
+                    label = "+",
+                    class = "btn-sm btn-outline-secondary",
+                    style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                  ),
+                  placement = "right",
+                  title = "What to look at here?",
+                  shiny::p(
+                    style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                    leer_ayuda("prevalence")   
+                  )
+                ),
                 bslib::popover(
                   shiny::icon("download"),
                   shiny::downloadButton(outputId = "prevalence_tidy_download", label = "Download csv")
@@ -1849,6 +1984,21 @@ ui <- bslib::page_navbar(
             bslib::card(
               full_screen = TRUE,
               bslib::card_header(
+                # Botón de ayuda "+" 
+                bslib::popover(
+                  trigger = shiny::actionButton(
+                    inputId = "help_survival1",
+                    label = "+",
+                    class = "btn-sm btn-outline-secondary",
+                    style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                  ),
+                  placement = "right",
+                  title = "What to look at here?",
+                  shiny::p(
+                    style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                    leer_ayuda("survival1")   
+                  )
+                ),
                 bslib::popover(
                   shiny::icon("download"),
                   shiny::downloadButton(outputId = "survival_tidy_download", label = "Download csv")
@@ -2024,6 +2174,21 @@ ui <- bslib::page_navbar(
             bslib::card(
               full_screen = TRUE,
               bslib::card_header(
+                # Botón de ayuda "+" 
+                bslib::popover(
+                  trigger = shiny::actionButton(
+                    inputId = "help_survival2",
+                    label = "+",
+                    class = "btn-sm btn-outline-secondary",
+                    style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                  ),
+                  placement = "right",
+                  title = "What to look at here?",
+                  shiny::p(
+                    style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                    leer_ayuda("survival2")   
+                  )
+                ),
                 bslib::popover(
                   shiny::icon("download"),
                   shiny::downloadButton(outputId = "survival_events_tidy_download", label = "Download csv")
@@ -2183,6 +2348,21 @@ ui <- bslib::page_navbar(
             bslib::card(
               full_screen = TRUE,
               bslib::card_header(
+                # Botón de ayuda "+" 
+                bslib::popover(
+                  trigger = shiny::actionButton(
+                    inputId = "help_survival3",
+                    label = "+",
+                    class = "btn-sm btn-outline-secondary",
+                    style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                  ),
+                  placement = "right",
+                  title = "What to look at here?",
+                  shiny::p(
+                    style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                    leer_ayuda("survival3")   
+                  )
+                ),
                 bslib::popover(
                   shiny::icon("download"),
                   shiny::numericInput(
@@ -2321,6 +2501,21 @@ ui <- bslib::page_navbar(
             bslib::card(
               full_screen = TRUE,
               bslib::card_header(
+                # Botón de ayuda "+" 
+                bslib::popover(
+                  trigger = shiny::actionButton(
+                    inputId = "help_survival4",
+                    label = "+",
+                    class = "btn-sm btn-outline-secondary",
+                    style = "border-radius: 50%; width: 28px; height: 28px; padding: 0; font-size: 16px; line-height: 1;"
+                  ),
+                  placement = "right",
+                  title = "What to look at here?",
+                  shiny::p(
+                    style = "font-size: 13px; white-space: pre-wrap; max-width: 280px;",
+                    leer_ayuda("survival_attr")   
+                  )
+                ),
                 bslib::popover(
                   shiny::icon("download"),
                   shiny::downloadButton(outputId = "survival_attrition_tidy_download", label = "Download csv")
