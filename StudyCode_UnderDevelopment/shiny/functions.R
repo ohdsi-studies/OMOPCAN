@@ -344,3 +344,14 @@ defaultFilterValues <- function(result, resultList) {
     }) |>
     purrr::flatten()
 }
+
+#help button
+leer_ayuda <- function(nombre_panel) {
+  ruta <- here::here("help", paste0(nombre_panel, ".txt"))
+  if (file.exists(ruta)) {
+    # readLines(ruta, encoding = "UTF-8") |> paste(collapse = "\n")
+    suppressWarnings(readLines(ruta, encoding = "UTF-8")) |> paste(collapse = "\n")
+  } else {
+    "Please review results."
+  }
+}
