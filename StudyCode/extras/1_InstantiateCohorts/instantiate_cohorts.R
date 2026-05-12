@@ -61,11 +61,11 @@ if (!grepl("NAJS", db_name, ignore.case=TRUE)){
     compute(name= "exclusion", overwrite=TRUE)
   #Instantiate all cancers
   log4r::info(logger, "Instantiate cancer cohorts")
-  #Create colorectal code list
-  all_cancer_codes[["colorectal"]] <- Reduce(
-    union_all, 
-    all_cancer_codes[names(all_cancer_codes) %in%  c("colon", "rectum")]
-  )
+  # #Create colorectal code list
+  # all_cancer_codes[["colorectal"]] <- Reduce(
+  #   union_all, 
+  #   all_cancer_codes[names(all_cancer_codes) %in%  c("colon", "rectum")]
+  # )
   #Create concept cohort
   cdm$outcome_all <- CohortConstructor::conceptCohort(
     cdm,
