@@ -2,7 +2,7 @@
   "ConceptSets": [
     {
       "id": 0,
-      "name": "colon",
+      "name": "colorectal",
       "expression": {
         "items": [
           {
@@ -15166,15 +15166,7 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "ICDO3"
             }
-          }
-        ]
-      }
-    },
-    {
-      "id": 1,
-      "name": "rectum",
-      "expression": {
-        "items": [
+          },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "ICDO Condition",
@@ -18642,16 +18634,6 @@
       {
         "ConditionOccurrence": {
           "CodesetId": 0,
-          "OccurrenceStartDate": {
-            "Value": "2000-01-01",
-            "Extent": "2024-12-31",
-            "Op": "bt"
-          }
-        }
-      },
-      {
-        "ConditionOccurrence": {
-          "CodesetId": 1,
           "OccurrenceStartDate": {
             "Value": "2000-01-01",
             "Extent": "2024-12-31",
