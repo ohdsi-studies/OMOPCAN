@@ -56,7 +56,7 @@ getRegistryIncidence <- function(cdm,
   attrition <- recordAttrition(
     table = studyPopOutcome,
     id = "subject_id",
-    reasonId = 11,
+    reasonId = 1,
     reason = "Starting analysis outcome population"
   )
   
@@ -69,8 +69,9 @@ getRegistryIncidence <- function(cdm,
   attrition <- recordAttrition(
     table = studyPopOutcome,
     id = "subject_id",
-    reasonId = 13,
-    reason = "Exclude individuals based on sex"
+    reasonId = 2,
+    reason = "Exclude individuals based on sex",
+    existingAttrition = attrition
   )
   
   if(!is.na(age_strata)){
@@ -80,8 +81,9 @@ getRegistryIncidence <- function(cdm,
   attrition <- recordAttrition(
     table = studyPopOutcome,
     id = "subject_id",
-    reasonId = 14,
-    reason = "Exclude individuals based on age"
+    reasonId = 3,
+    reason = "Exclude individuals based on age",
+    existingAttrition = attrition
   )
   
   #check nº of individuals in the head of outcome cohort
@@ -140,7 +142,7 @@ getRegistryIncidence <- function(cdm,
     attrition <- recordAttrition(
       table = studyPopOutcome,
       id = "subject_id",
-      reasonId = 13,
+      reasonId = 4,
       reason = "Excluded due to prior event (do not pass outcome washout during study period)",
       existingAttrition = attrition
     )
