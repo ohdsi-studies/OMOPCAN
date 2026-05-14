@@ -79,7 +79,7 @@ estimateRegistryIncidence <- function(cdm,
              end_date = studyStartEnd$max) %>%
       distinct()
   }
-
+  
   # Get outcomes in selected outcome ids and rename variables
   cdm[[paste0(tablePrefix, "_inc_1")]] <- cdm[[outcomeTable]] %>%
     dplyr::filter(.data$cohort_definition_id %in% .env$outcomeCohortId) %>%
@@ -93,70 +93,29 @@ estimateRegistryIncidence <- function(cdm,
       temporary = FALSE,
       overwrite = TRUE
     )
-
-
-  # Join outcomes during study period with the latest outcome before study period (if any)
+  
+  # Add outcome_prev_end_date for washout
   cdm[[paste0(tablePrefix, "_inc_2")]] <- cdm[[paste0(tablePrefix, "_inc_1")]] %>%
-    # most recent outcome starting before cohort start per person
+    # most recent outcome before study start per person
     dplyr::filter(.data$outcome_start_date < studyStartEnd$min) %>%
-    dplyr::group_by(
-      .data$subject_id,
-      .data$outcome_cohort_id
-    ) %>%
-    dplyr::filter(.data$outcome_start_date ==
-                    max(.data$outcome_start_date, na.rm = TRUE)) %>%
+    dplyr::group_by(.data$subject_id, .data$outcome_cohort_id) %>%
+    dplyr::filter(.data$outcome_start_date == max(.data$outcome_start_date, na.rm = TRUE)) %>%
+    dplyr::ungroup() %>%
     dplyr::union_all(
-      # all starting during cohort period
-      cdm[[paste0(tablePrefix, "_inc_1")]]   %>%
-        dplyr::filter(.data$outcome_start_date >= studyStartEnd$min) %>%
-        dplyr::filter(.data$outcome_start_date <= studyStartEnd$max)
+      # all outcomes during study period
+      cdm[[paste0(tablePrefix, "_inc_1")]] %>%
+        dplyr::filter(.data$outcome_start_date >= studyStartEnd$min,
+                      .data$outcome_start_date <= studyStartEnd$max)
     ) %>%
-    dplyr::compute(
-      name = paste0(tablePrefix, "_inc_2"),
-      temporary = FALSE,
-      overwrite = TRUE
-    )
-
-  # Order multiple outcomes for the same subject/outcome_id based on outcome start date
-  cdm[[paste0(tablePrefix, "_inc_3")]] <-  cdm[[paste0(tablePrefix, "_inc_2")]] %>%
-    dplyr::group_by(
-      .data$subject_id,
-      .data$outcome_cohort_id
-    ) %>%
+    # add previous outcome end date via lag
+    dplyr::group_by(.data$subject_id, .data$outcome_cohort_id) %>%
     dbplyr::window_order(.data$outcome_start_date) %>%
-    dplyr::mutate(index = rank()) %>%
+    dplyr::mutate(outcome_prev_end_date = dplyr::lag(.data$outcome_end_date)) %>%
     dplyr::ungroup() %>%
-    dplyr::compute(
-      name = paste0(tablePrefix, "_inc_3"),
-      temporary = FALSE,
-      overwrite = TRUE
-    )
-
-  # Create "outcome_prev_end_date" for consecutive outcomes (then apply washout)
-  cdm[[paste0(tablePrefix, "_inc_4")]] <- cdm[[paste0(tablePrefix, "_inc_3")]] %>%
-    dplyr::select(
-      c(outcome_cohort_id, subject_id, outcome_start_date, outcome_end_date, age_gr, sex, index)
-    ) %>%
-    dplyr::full_join(
-      cdm[[paste0(tablePrefix, "_inc_3")]] %>%
-        dplyr::select(
-          c(outcome_cohort_id, subject_id, outcome_prev_end_date = outcome_end_date, index, sex)
-        ) %>%
-        dplyr::mutate(index = .data$index + 1) ,
-      by = c("outcome_cohort_id", "subject_id",  "index", "sex")
-    ) %>%
-    dplyr::group_by(outcome_cohort_id, subject_id) %>%
-    dplyr::arrange(outcome_cohort_id, subject_id, index) %>%
-    tidyr::fill(age_gr, .direction = "down") %>%
-    dplyr::ungroup() %>%
-    dplyr::select(-"index")%>%
-    #CHECK THIS!!! should we filter out NA start dates?? filter(!is.na(outcome_start_date))
+    # remove pre-study row (it was only needed to feed the lag)
+    dplyr::filter(.data$outcome_start_date >= studyStartEnd$min) %>%
     dplyr::distinct() %>%
-    dplyr::compute(
-      name = paste0(tablePrefix, "_inc_4"),
-      temporary = FALSE,
-      overwrite = TRUE
-    )
+    dplyr::compute(name = paste0(tablePrefix, "_inc_2"),temporary = FALSE,overwrite = TRUE)
 
   studySpecs <- tidyr::expand_grid(
     outcome_cohort_id = outcomeCohortId,
@@ -190,7 +149,7 @@ estimateRegistryIncidence <- function(cdm,
       cdm = cdm,
       denominatorTable = denominatorTable,
       denominatorCohortId = x$denominator_cohort_id,
-      outcomeTable = paste0(tablePrefix, "_inc_4"),
+      outcomeTable = paste0(tablePrefix, "_inc_2"),
       outcomeCohortId = x$outcome_cohort_id,
       interval = x$interval,
       outcomeWashout = x$outcome_washout,
