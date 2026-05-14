@@ -47,7 +47,7 @@ getRegistryPrevalence <- function(cdm,
   attrition <- recordAttrition(
     table = studyPop,
     id = "subject_id",
-    reasonId = 11,
+    reasonId = 1,
     reason = "Starting analysis population"
   )
 
@@ -71,7 +71,7 @@ getRegistryPrevalence <- function(cdm,
   attrition <- recordAttrition(
     table = studyPop,
     id = "subject_id",
-    reasonId = 12,
+    reasonId = 2,
     reason = "Not observed during the complete database interval",
     existingAttrition = attrition
   )
