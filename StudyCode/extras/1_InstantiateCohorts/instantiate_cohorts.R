@@ -10,15 +10,19 @@ codelistExclusion <- CodelistGenerator::codesFromConceptSet(
   cdm
 )
 #Combine exclusion malignancy codes with cancer codes (except non-melanoma skin)
-codelistExclusion <- list(
-  Reduce(
-    union_all, 
-    c(all_cancer_codes[!names(all_cancer_codes) %in%  c("nmsc_broad", "nmsc_narrow")],
-      codelistExclusion
-    )
-  )
-)
-names(codelistExclusion) <- "anymalignancy"
+# codelistExclusion <- list(
+#   Reduce(
+#     union_all,
+#     c(all_cancer_codes[!names(all_cancer_codes) %in%  c("nmsc_broad", "nmsc_narrow")],
+#       codelistExclusion
+#     )
+#   )
+# )
+# names(codelistExclusion) <- "anymalignancy"
+all_codes <- unlist(all_cancer_codes[!names(all_cancer_codes) %in% c("nmsc_broad", "nmsc_narrow")], use.names = FALSE)
+all_codes <- unique(c(all_codes, unlist(codelistExclusion,use.names = FALSE)))
+codelistExclusion <- list("anymalignancy" = all_codes)
+
 #Create exclusion (anymalignancy) cohort
 cdm <- CDMConnector::generateConceptCohortSet(
   cdm = cdm,
