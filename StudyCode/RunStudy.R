@@ -83,7 +83,6 @@ if(isHospital){
   executePrevalence <- FALSE
 }
 
-
 # Get groups of cancer "cancerTypes"
 source(here::here("extras/cancerGroups.R"))
 cancer_types <- cancer_types[cancersToRun]
@@ -114,25 +113,25 @@ if (any(cancer_counts$number_subjects > minimum_counts, na.rm = TRUE)) {
     log4r::info(logger, "------------------------------------------------------")
     log4r::info(logger, paste0("RUNNING ANALYSIS FOR ", toupper(cancer_group)," CANCERS"))
     log4r::info(logger, "------------------------------------------------------")
-    
-    output_folder <-  paste0(final_output_folder, "/", cancer_group)
-    if (!dir.exists(output_folder)) {
-      dir.create(output_folder, recursive = TRUE)
-    }
-    
-    snapshot %>% 
-      omopgenerics::exportSummarisedResult(
-        minCellCount = NULL, 
-        fileName =  paste0(db_name,"_summarise_omop_snapshot.csv"),
-        path = output_folder
-      )
-    
+       
     #Get cancer types in the current GROUP
     cancer_types_gr <-  cancer_counts %>% 
       filter(cohort_name %in% cancer_types[[cancer_group]]$types) %>% 
       filter(number_subjects > minimum_counts )
     
     if(nrow(cancer_types_gr)>0) {
+
+      output_folder <-  paste0(final_output_folder, "/", cancer_group)
+      if (!dir.exists(output_folder)) {
+        dir.create(output_folder, recursive = TRUE)
+      }
+    
+      snapshot %>% 
+        omopgenerics::exportSummarisedResult(
+          minCellCount = NULL, 
+          fileName =  paste0(db_name,"_summarise_omop_snapshot.csv"),
+          path = output_folder
+        )
     
       log4r::info(logger, "STEP 1 CREATE OUTCOME COHORT -------------------------")
       source(here::here("extras/1_InstantiateCohorts/create_outcome.R"))
