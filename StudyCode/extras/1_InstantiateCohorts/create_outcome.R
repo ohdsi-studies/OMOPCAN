@@ -15,16 +15,29 @@ cdm$outcome <- cdm$outcome_all %>%
 #Filter out exlusions
 log4r::info(logger, "Apply exclusion criteria to selected cancer cohorts")
 ##prior observation/study period/ age/ sex
+if(daysPriorObservation != 0 ){
+  cdm$outcome <- cdm$outcome %>% 
+    CohortConstructor::requirePriorObservation(
+      minPriorObservation = daysPriorObservation
+    )
+}
 cdm$outcome <- cdm$outcome %>% 
-  CohortConstructor::requirePriorObservation(
-    minPriorObservation = daysPriorObservation
-  ) %>% 
   CohortConstructor::requireInDateRange(
-    dateRange = as.Date(c(startdate, enddate)),
+    dateRange = as.Date(c(startdate, enddate))
   ) %>% 
   CohortConstructor::requireAge(
     ageRange = c(0,150)
   )
+# cdm$outcome <- cdm$outcome %>% 
+#   CohortConstructor::requirePriorObservation(
+#     minPriorObservation = daysPriorObservation
+#   ) %>% 
+#   CohortConstructor::requireInDateRange(
+#     dateRange = as.Date(c(startdate, enddate))
+#   ) %>% 
+#   CohortConstructor::requireAge(
+#     ageRange = c(0,150)
+#   )
 
 if (cancer_group == "male") {
   cdm$outcome <- cdm$outcome %>%
