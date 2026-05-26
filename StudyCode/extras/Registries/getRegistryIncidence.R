@@ -219,7 +219,8 @@ getRegistryIncidence <- function(cdm,
             as.Date(NA)
           )) %>% 
           dplyr::filter(!is.na(.data$outcome_start_date)) %>%
-          mutate(remaining_days = as.integer(workingEndTime - cohort_end_date))
+          # mutate(remaining_days = as.integer(workingEndTime - cohort_end_date))
+          mutate(remaining_days = as.integer(as.numeric(difftime(workingEndTime, cohort_end_date, units = "days"))))
 
         ir[[paste0(i)]] <- workingPop %>%
           # dplyr::filter(!is.na(.data$outcome_start_date)) %>%
@@ -229,8 +230,8 @@ getRegistryIncidence <- function(cdm,
           ) %>%
           dplyr::mutate(n_persons = .env$n_persons_denom) %>%
           dplyr::mutate(person_days = .env$person_days - .data$n_days_remaining) %>%
-          dplyr::mutate(incidence_start_date = .env$workingStartTime) %>%
-          dplyr::mutate(incidence_end_date = .env$workingEndTime) %>%
+          dplyr::mutate(incidence_start_date = as.Date(.env$workingStartTime)) %>%
+          dplyr::mutate(incidence_end_date = as.Date(.env$workingEndTime)) %>%
           select(-c("n_days_remaining")) %>% 
           collect()
         
@@ -246,8 +247,8 @@ getRegistryIncidence <- function(cdm,
           n_events=0, 
           n_persons =0, 
           person_days =0,
-          incidence_start_date = .env$workingStartTime,
-          incidence_end_date = .env$workingEndTime,
+          incidence_start_date = as.Date(.env$workingStartTime),
+          incidence_end_date = as.Date(.env$workingEndTime),
           strata_name = "Overall", 
           strata_level = "Overall"
           )         
