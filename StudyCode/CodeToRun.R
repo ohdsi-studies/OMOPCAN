@@ -38,6 +38,11 @@ cdm_database_schema <- "..."
 # The name of the schema where results tables will be created 
 results_database_schema <- "..."
 
+#Vocabulary schema
+vocabulary_database_schema <- list()
+vocabulary_database_schema[["catalog"]] <- "OMOP_VOCAB"
+vocabulary_database_schema[["schema"]] <- "dbo"
+
 # prefix to be used for tables created in the write schema
 stem_table <- "..."
 
@@ -70,9 +75,11 @@ if(executeInstantiateCohorts){
   cdm <- CDMConnector::cdmFromCon(
     con = db,
     cdmSchema = cdm_database_schema,
+    vocabularySchema = vocabulary_database_schema,   
     writeSchema = results_database_schema,
     writePrefix = stem_table,
-    cdmName = db_name
+    cdmName = db_name,
+    .softValidation = TRUE
   )
 } else{
   listCohorts <- c("outcome_all", "exclusion")
@@ -80,12 +87,28 @@ if(executeInstantiateCohorts){
   cdm <- CDMConnector::cdmFromCon(
     con = db, 
     cdmSchema = cdm_database_schema,
+    vocabularySchema = vocabulary_database_schema,   
     writeSchema = results_database_schema, 
     writePrefix = stem_table,
     cdmName = db_name,
-    cohortTables = listCohorts
+    cohortTables = listCohorts,
+    .softValidation = TRUE
   )
 }
+
+vocab_tables <- c("concept", "concept_ancestor", "concept_class","concept_relationship", "concept_synonym", "domain",
+                   "drug_strength", "relationship", "vocabulary")
+for (tbl_name in vocab_tables) {
+   cdm[[tbl_name]] <- dplyr::tbl(
+     db,
+     DBI::Id(
+       catalog = vocabulary_database_schema[["catalog"]],  # "OMOP_VOCAB"
+       schema  = vocabulary_database_schema[["schema"]],   # "dbo"
+       table   = tbl_name
+     )
+   )
+}
+
 
 if(isRegistry){
   source(here::here("RunStudyRegistry.R"))
