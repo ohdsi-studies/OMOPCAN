@@ -11,7 +11,8 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
   }
   
   cdm$outcome_surv <- cdm$outcome_surv |> 
-    mutate(year = as.character(clock::get_year(cohort_start_date))) |> 
+    # mutate(year = as.character(clock::get_year(cohort_start_date))) |> 
+    mutate(year = as.character(lubridate::year(cohort_start_date))) |>
     compute(name="outcome_surv", overwrite = TRUE, temporary = FALSE)
   
   #Create new cohort splitting in time periods
