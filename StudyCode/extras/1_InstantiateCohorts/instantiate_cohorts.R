@@ -188,7 +188,7 @@ if(!isRegistry){
 
   # Fixing YUHS issue: avoid binding acute + chronic + other conditions
   ids_other <- omopgenerics::settings(cdm$conditions_all) |> 
-    filter(cohort_name %in%  c("obesity", "menopausal_status", "tobacco")) |> 
+    filter(grepl("obesity|menopaus|smoker" ,cohort_name) ) |> 
     pull(cohort_definition_id)
   
   cdm$conditions_other <- cdm$conditions_all |>  
