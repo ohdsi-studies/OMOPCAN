@@ -185,6 +185,17 @@ if(!isRegistry){
   )
   cdm <- cdm$conditions_all %>% 
     omopgenerics::bind(cdm$tobacco, name="conditions_all")
+
+  # Fixing YUHS issue: avoid binding acute + chronic + other conditions
+  ids_other <- omopgenerics::settings(cdm$conditions_all) |> 
+    filter(cohort_name %in%  c("obesity", "menopausal_status", "tobacco")) |> 
+    pull(cohort_definition_id)
+  
+  cdm$conditions_other <- cdm$conditions_all |>  
+    CohortConstructor::subsetCohorts( 
+      cohortId = ids_other,
+      name = "conditions_other" 
+    )
   
   # instantiate medications -------------------------------------------------------
   log4r::info(logger, "Instantiate medications")
