@@ -7,9 +7,6 @@ if(cdm$death %>% head(5) %>% count() %>% pull("n") > 0) {
         cdm$denominator %>% filter(cohort_definition_id == 1) %>% select(subject_id, !!strat_var),
         by="subject_id"
       ) %>% 
-      mutate(
-        across( all_of(strat_var), ~ coalesce(as.character(.x), "missing"))
-      ) %>%
       compute(name="outcome_surv", overwrite = TRUE, temporary = FALSE)
   }
   
