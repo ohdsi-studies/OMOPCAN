@@ -1,0 +1,1 @@
+Please check that the number of subjects (N) for each cancer type, which can be explored by selecting each "Cancer group" and "Cohort name", is approximately as expected. You should also confirm that the number of records and the number of subjects are the same.

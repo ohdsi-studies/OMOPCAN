@@ -1,0 +1,1 @@
+You may review prevalence through either tables or plots, exploring individual cancer types or all cancers combined, and stratifying by age and sex. Please note that these estimates represent 5-year partial (limited-duration) prevalence, and therefore an increase during the first five years may reflect cumulative incidence rather than stable prevalence.

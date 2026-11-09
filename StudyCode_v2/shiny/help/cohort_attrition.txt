@@ -1,0 +1,1 @@
+Please review the attrition diagrams for each cancer type by selecting the "Cancer group" and "Cohort name". You should identify any unexpectedly large reductions at specific criteria. Some exclusions, such as males in female-specific cancers and vice versa, are somewhat expected; however, please report if any appear unusually high or inconsistent.

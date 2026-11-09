@@ -1,0 +1,1 @@
+Please review the number at risk and the number of events per year, considering stratification by cancer type and available variables.

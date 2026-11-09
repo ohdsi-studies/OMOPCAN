@@ -1,0 +1,1 @@
+Please review the main characteristics of each cohort and verify that all variables (age, sex, prior observation, etc.) contain expected values.

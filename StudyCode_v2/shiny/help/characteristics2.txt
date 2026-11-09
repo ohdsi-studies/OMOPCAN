@@ -1,0 +1,1 @@
+Please select a few cancer types and review the most frequent conditions and medications across the diferent windows. For conditions -Inf to -366; -365 to -1, 0 to 0. For medications -365 to-1, 0 to 0, 1 to 90. 
