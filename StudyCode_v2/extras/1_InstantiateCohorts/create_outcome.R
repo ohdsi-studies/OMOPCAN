@@ -39,10 +39,10 @@ cdm$outcome <- cdm$outcome |>
 #     ageRange = c(0,150)
 #   )
 
-if (cancer_group == "male") {
-  cdm$outcome <- cdm$outcome |>
-    CohortConstructor::requireSex(sex = "Male")
-}
+# if (cancer_group == "male") {
+#  cdm$outcome <- cdm$outcome |>
+#    CohortConstructor::requireSex(sex = "Male")
+#}
 
 if (cancer_group == "f_breast") {
   cdm$outcome <- cdm$outcome |>
