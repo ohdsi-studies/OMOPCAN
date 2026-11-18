@@ -28,7 +28,7 @@ The main aim of this project is to serve as a proof-of-concept for using real-wo
 **Although the code is optimised for efficiency, it may still require considerable time and server memory. If possible, we recommend running it during periods of low server activity.**
 
 1. Download or clone this repository. You can do this by selecting Code > Download ZIP or by using GitHub Desktop.
-2. Open the project OMOPCAN_Study_v2.Rproj in RStudio. When the project is open, its name will appear in the top-right corner of your RStudio session:
+2. Open the StudyCode folder and then, the project OMOPCAN_Study_v2.Rproj in RStudio. When the project is open, its name will appear in the top-right corner of your RStudio session:
   - Install the necessary packages for the study by activating and restoring the renv. 
   - Open and work through the CodeToRun.R, which is the primary file you'll need. Execute the lines in the file, adding your database-specific information as instructed in the comments (database name, data source type and wheather the database contains mortality data to perform the survival analysis). Follow the instructions to run the script.
 3. After running the analysis, you will find a results folder with one subfolder per each cancer group.
