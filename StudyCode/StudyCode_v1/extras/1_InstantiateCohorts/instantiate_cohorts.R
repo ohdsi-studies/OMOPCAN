@@ -158,20 +158,6 @@ if(!isRegistry){
   cdm <- cdm$conditions_all |>
     omopgenerics::bind(cdm$obesity, name="conditions_all")
   
-  # instantiate hpv infection using diagnosis and measurements and bind to "conditions_all"
-  log4r::info(logger, "Instantiate HPV")
-  hpv_cohorts <- CDMConnector::readCohortSet(
-    here::here("extras","1_InstantiateCohorts","Cohorts","HPV")
-  )
-  cdm <- CDMConnector::generateCohortSet(
-    cdm = cdm,
-    cohortSet = hpv_cohorts,
-    name = "hpv_meas",
-    computeAttrition = TRUE,
-    overwrite = TRUE
-  )
-  cdm <- cdm$conditions_all |>
-    omopgenerics::bind(cdm$hpv_meas, name="conditions_all")
   # instantiate menopausal status  and bind to "conditions_all"
   log4r::info(logger, "Instantiate menopausal status")
   cdm[["menopausal_status"]] <- cdm |> 

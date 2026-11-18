@@ -8,7 +8,7 @@ if(!exists("executeAgeStandardisation")){executeAgeStandardisation <- TRUE}
 if(!exists("minimum_counts")){minimum_counts <- 10}
 
 if(!exists("cancersToRun")){
-  cancersToRun = c("respiratory", "digestive","male","female", "f_breast", "hematologic", "oral","urinary","skin", "other")
+  cancersToRun = c("respiratory", "digestive","male","female","hematologic", "oral","urinary","skin", "other")
 }
 
 if (is.na(startdate) || is.null(startdate) || (is.character(startdate) && length(startdate) == 0)) {
@@ -50,59 +50,27 @@ log4r::level(logger) <- "INFO"
 log4r::info(logger, "------------------------------------------------------")
 log4r::info(logger, "INITIAL SETTINGS")
 log4r::info(logger, "------------------------------------------------------")
+log4r::info(logger, "MAIN STUDY FOR CANCER REGISTRY")
+log4r::info(logger, "------------------------------------------------------")
 
 # snapshot the cdm
 snapshot <- OmopSketch::summariseOmopSnapshot(cdm = cdm)
 
-# Predefined prior obs and age/sex strata
-ageGroupList = list(
-  "0 to 9" = c(0, 9),
-  "10 to 19" = c(10, 19),
-  "20 to 29" = c(20, 29),
-  "30 to 39" = c(30, 39),
-  "40 to 49" = c(40, 49),
-  "50 to 59" = c(50, 59),
-  "60 to 69" = c(60, 69),
-  "70 to 79" = c(70, 79),
-  "80 to 89" = c(80, 89),
-  "90 to 99" = c(90, 99),
-  "100 +" = c(100, 150)
-)
+#Settings (all other settings are provided by the input file)
+daysPriorObservation = 0
 ageGroupListBroad = list(
   "0 to 19" = c(0, 19),
   "20 to 49" = c(20, 49),
   "50 +" = c(50, 150)
 )
-sexGroup = c("Both", "Male", "Female")
-daysPriorObservation = 365
-date_ranges <- list(
-  "2000-2004" = c("2000-01-01", "2004-12-31"),
-  "2005-2009" = c("2005-01-01", "2009-12-31"),
-  "2010-2014" = c("2010-01-01", "2014-12-31"),
-  "2015-2019" = c("2015-01-01", "2019-12-31"),
-  "2020-2024" = c("2020-01-01", "2024-12-31")
-)
-
-if(isHospital){
-  daysPriorObservation <- 0
-  executeIncidence <- FALSE
-  executePrevalence <- FALSE
-}
 
 if(executeAgeStandardisation){
-  source(here::here( "extras","Standardisation", "age_standardisation.R"))
+  source(here::here( "extras",  "Standardisation",  "age_standardisation.R" ))
   standardPopulations <- readStandardPopulations()
 }
 
-if(toupper(db_name) == "SIDIAP"){
-  log4r::info(logger,"Filter SIDIAP drug_exposure keeping only prescriptions")
-  cdm$drug_exposure <- cdm$drug_exposure |>
-    filter(drug_type_concept_id == 32839)
-}
-
-
 # Get groups of cancer "cancerTypes"
-log4r::info(logger,"Get cancer groups and stratification variables")
+log4r::info(logger, "Get cancer groups and stratification variables")
 source(here::here("extras/cancerGroups.R"))
 cancer_types <- cancer_types[cancersToRun]
 
@@ -110,21 +78,20 @@ cancer_types <- cancer_types[cancersToRun]
 if (executeInstantiateCohorts) {
   log4r::info(logger, "STEP 0 INSTANTIATE COHORTS ---------------------------")
   source(here::here("extras/1_InstantiateCohorts/instantiate_cohorts.R"))
-  source(here::here("extras/1_InstantiateCohorts/instantiate_denominator.R"))
 }
 
-# Compute cohort counts --------------------------------------------------------
-log4r::info(logger, "Get cohort counts")
+#Denominator counts for registries
+filesReg <- list.files(here::here("extras/Registries"),pattern = "\\.R$", full.names = TRUE)
+invisible(lapply(filesReg, source))
+source(here::here("extras/1_InstantiateCohorts/denominator_registry.R"))
 
+# Compute cohort counts --------------------------------------------------------
 cancer_counts <- cdm$outcome_all |> 
   omopgenerics::settings() |> 
   left_join(cdm$outcome_all |> omopgenerics::cohortCount(), by="cohort_definition_id") |> 
   select(cohort_definition_id, cohort_name, number_subjects)
 
-covariable_counts <- cdm$conditions_all |> 
-  omopgenerics::settings() |> 
-  left_join(cdm$conditions_all |> omopgenerics::cohortCount(), by="cohort_definition_id") |> 
-  select(cohort_definition_id, cohort_name, number_subjects)
+covariable_counts <- tibble()
 
 # Loop over each group  ---------------------------------------------------------
 if (any(cancer_counts$number_subjects > minimum_counts, na.rm = TRUE)) {
@@ -132,25 +99,25 @@ if (any(cancer_counts$number_subjects > minimum_counts, na.rm = TRUE)) {
     log4r::info(logger, "------------------------------------------------------")
     log4r::info(logger, paste0("RUNNING ANALYSIS FOR ", toupper(cancer_group)," CANCERS"))
     log4r::info(logger, "------------------------------------------------------")
-
+    
+    output_folder <-  paste0(final_output_folder, "/", cancer_group)
+    if (!dir.exists(output_folder)) {
+      dir.create(output_folder, recursive = TRUE)
+    }
+    
+    snapshot |> 
+      omopgenerics::exportSummarisedResult(
+        minCellCount = NULL, 
+        fileName =  paste0(db_name,"_summarise_omop_snapshot.csv"),
+        path = output_folder
+      )
+    
     #Get cancer types in the current GROUP
     cancer_types_gr <-  cancer_counts |> 
       filter(cohort_name %in% cancer_types[[cancer_group]]$types) |> 
       filter(number_subjects > minimum_counts )
     
     if(nrow(cancer_types_gr)>0) {
-      
-      output_folder <-  paste0(final_output_folder, "/", cancer_group)
-      if (!dir.exists(output_folder)) {
-        dir.create(output_folder, recursive = TRUE)
-      }
-      
-      snapshot |> 
-        omopgenerics::exportSummarisedResult(
-          minCellCount = NULL, 
-          fileName =  paste0(db_name,"_summarise_omop_snapshot.csv"),
-          path = output_folder
-        )
     
       log4r::info(logger, "STEP 1 CREATE OUTCOME COHORT -------------------------")
       source(here::here("extras/1_InstantiateCohorts/create_outcome.R"))
@@ -158,27 +125,20 @@ if (any(cancer_counts$number_subjects > minimum_counts, na.rm = TRUE)) {
       if (executeCharacterisation) {
         log4r::info(logger, "STEP 2 COHORT CHARACTERISATION -----------------------")
         source(here::here("extras/2_Characterisation/characterisation.R"))
-        
-        # if(grepl("YUHS", db_name, ignore.case=TRUE)){
-        #   source(here::here("extras/2_Characterisation/characterisation_YUHS.R"))
-        # }else{
-        #   source(here::here("extras/2_Characterisation/characterisation.R"))
-        # }
       }
       if (executeIncidence) {
         log4r::info(logger, "STEP 3 INCIDENCE -------------------------------------")
-        # source(here::here("extras/3_Incidence/incidence.R"))
-        source(here::here("extras/3_Incidence/incidence_opt.R"))
+        source(here::here("extras/3_Incidence/incidence_registry.R"))
       }
       if (executePrevalence) {
         log4r::info(logger, "STEP 4 PREVALENCE ------------------------------------")
-        source(here::here("extras/4_Prevalence/prevalence.R"))
+        source(here::here("extras/4_Prevalence/prevalence_registry.R"))
       }
       if (executeSurvival) {
         log4r::info(logger, "STEP 5 SURVIVAL ANALYSIS -----------------------------")
         source(here::here("extras/5_Survival/survival.R"))
       }
-    } else{
+    }else{
       log4r::info(logger, "NO MINIMUM SUBJECT COUNT TO CREATE COHORTS IN THIS GROUP")
     }
   }
@@ -194,8 +154,6 @@ zip::zipr(zip_file, files = final_output_folder)
 file.copy(from = zip_file, to = here::here("shiny","data"))
 # Compute and save execution time 
 x <- abs(as.numeric(Sys.time()-start, units="secs"))
-log4r::info(logger, 
-  paste0("STUDY TOOK: ",
-         sprintf("%02d:%02d:%02d:%02d",
-                 x %/% 86400,  x %% 86400 %/% 3600, x %% 3600 %/% 60,  x %% 60 %/% 1)))
+log4r::info(logger, paste0("STUDY TOOK: ",sprintf("%02d:%02d:%02d:%02d",
+          x %/% 86400,  x %% 86400 %/% 3600, x %% 3600 %/% 60,  x %% 60 %/% 1)))
 log4r::info(logger, "------------------------------------------------------")

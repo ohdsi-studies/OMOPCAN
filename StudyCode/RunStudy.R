@@ -8,7 +8,7 @@ if(!exists("executeAgeStandardisation")){executeAgeStandardisation <- TRUE}
 if(!exists("minimum_counts")){minimum_counts <- 10}
 
 if(!exists("cancersToRun")){
-  cancersToRun = c("respiratory", "digestive","male","female","hematologic", "oral","urinary","skin", "other")
+  cancersToRun = c("respiratory", "digestive","male","female", "f_breast", "hematologic", "oral","urinary","skin", "other")
 }
 
 if (is.na(startdate) || is.null(startdate) || (is.character(startdate) && length(startdate) == 0)) {

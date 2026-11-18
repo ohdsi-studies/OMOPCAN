@@ -16,8 +16,13 @@ cancer_types[["male"]] = list(
 )
 
 cancer_types[["female"]] = list(
-  types = c("breast", "vulva", "vagina", "cervix", "corpus_uteri", "ovary"),
-  stratification = c("hpv", "former_current_smoker" , "non_smoker", "obesitycharybdis","menopausal_status", "depressive_disorder", "t2_diabetes")
+  types = c("vulva", "vagina", "cervix", "corpus_uteri", "ovary"),
+  stratification = c("hpv","hpv_meas","former_current_smoker" , "non_smoker", "obesitycharybdis","menopausal_status", "depressive_disorder", "t2_diabetes")
+)
+
+cancer_types[["f_breast"]] = list(
+  types = c("breast"),
+  stratification = c("hpv", "hpv_meas", "tobacco", "obesitycharybdis", "menopausal_status", "depressive_disorder", "t2_diabetes")
 )
 
 cancer_types[["hematologic"]] = list(

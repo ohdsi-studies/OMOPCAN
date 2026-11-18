@@ -19,13 +19,27 @@
               "VOCABULARY_ID": "LOINC"
             },
             "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "88031-0",
+              "CONCEPT_ID": 36305168,
+              "CONCEPT_NAME": "Smokeless tobacco status",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            }
           }
         ]
       }
     },
     {
       "id": 1,
-      "name": "Smoking and cessation therapy",
+      "name": "Smoking assessment and cessation therapy",
       "expression": {
         "items": [
           {
@@ -189,26 +203,7 @@
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "OMOP Extension",
-              "VALID_START_DATE": "2023-01-05",
-              "VALID_END_DATE": "2099-12-31"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "LOINC Group",
-              "CONCEPT_CODE": "LG41856-2",
-              "CONCEPT_ID": 40654161,
-              "CONCEPT_NAME": "Smoking-related terms",
-              "DOMAIN_ID": "Measurement",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "C",
-              "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "LOINC",
-              "VALID_START_DATE": "2018-06-15",
-              "VALID_END_DATE": "2099-12-31"
+              "VOCABULARY_ID": "OMOP Extension"
             },
             "includeDescendants": true
           },
@@ -223,9 +218,7 @@
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "OMOP Extension",
-              "VALID_START_DATE": "2023-01-05",
-              "VALID_END_DATE": "2099-12-31"
+              "VOCABULARY_ID": "OMOP Extension"
             },
             "includeDescendants": true
           },
@@ -240,11 +233,249 @@
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC",
-              "VALID_START_DATE": "2012-12-28",
-              "VALID_END_DATE": "2099-12-31"
+              "VOCABULARY_ID": "LOINC"
             },
             "isExcluded": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "CPT4",
+              "CONCEPT_CODE": "0005F",
+              "CONCEPT_ID": 2108437,
+              "CONCEPT_NAME": "Osteoarthritis assessed (OA) Includes assessment of all the following components: Osteoarthritis symptoms and functional status assessed (1006F) Use of anti-inflammatory or over-the-counter (OTC) analgesic medications assessed (1007F) Initial examinati...",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "CPT4"
+            },
+            "isExcluded": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "OMOP5181837",
+              "CONCEPT_ID": 903656,
+              "CONCEPT_NAME": "Passive smoker",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "OMOP Extension"
+            },
+            "isExcluded": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "63638-1",
+              "CONCEPT_ID": 40766362,
+              "CONCEPT_NAME": "Smoking status [FTND]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "63922-9",
+              "CONCEPT_ID": 40766642,
+              "CONCEPT_NAME": "Are you considering quitting smoking during the next 6 months [PLCO]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Survey",
+              "CONCEPT_CODE": "68537-0",
+              "CONCEPT_ID": 40771122,
+              "CONCEPT_NAME": "Would you be interested in quitting tobacco use within the next few weeks [SAMHSA]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "74010-0",
+              "CONCEPT_ID": 44786668,
+              "CONCEPT_NAME": "Date quit tobacco smoking",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "171055003",
+              "CONCEPT_ID": 4062357,
+              "CONCEPT_NAME": "Pregnancy smoking education",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Tobacco use",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Survey",
+              "CONCEPT_CODE": "54845-3",
+              "CONCEPT_ID": 40757976,
+              "CONCEPT_NAME": "Tobacco use during assessment period [CMS Assessment]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "64217-3",
+              "CONCEPT_ID": 40766928,
+              "CONCEPT_NAME": "Do you now smoke cigarettes, as of 1 month ago [PhenX]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "64234-8",
+              "CONCEPT_ID": 40766945,
+              "CONCEPT_NAME": "Current smoker",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Survey",
+              "CONCEPT_CODE": "68535-4",
+              "CONCEPT_ID": 40771120,
+              "CONCEPT_NAME": "Have you used tobacco in the last 30 days [SAMHSA]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Number of cigarretes smoked",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "64231-4",
+              "CONCEPT_ID": 40766942,
+              "CONCEPT_NAME": "How many cigars are you smoking per week now [PhenX]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "8663-7",
+              "CONCEPT_ID": 3004518,
+              "CONCEPT_NAME": "Cigarettes smoked current (pack per day) - Reported",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "64218-1",
+              "CONCEPT_ID": 40766929,
+              "CONCEPT_NAME": "How many cigarettes do you smoke per day now [PhenX]",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "63640-7",
+              "CONCEPT_ID": 40766364,
+              "CONCEPT_NAME": "How many cigarettes per day do, or did, you smoke",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
           }
         ]
       }
@@ -374,8 +605,28 @@
         }
       },
       {
-        "Measurement": {
-          "CodesetId": 1
+        "Observation": {
+          "CodesetId": 3,
+          "ValueAsConcept": [
+            {
+              "CONCEPT_CODE": "LA33-6",
+              "CONCEPT_ID": 45877994,
+              "CONCEPT_NAME": "Yes",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            }
+          ]
+        }
+      },
+      {
+        "Observation": {
+          "CodesetId": 4,
+          "ValueAsNumber": {
+            "Value": 0,
+            "Op": "gt"
+          }
         }
       }
     ],

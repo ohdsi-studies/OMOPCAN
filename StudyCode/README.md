@@ -5,7 +5,7 @@
 
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Cohort study**
-- Tags: **@AgustinaGiulio @irelopsan**
+- Tags: **@andreapistillo @irelopsan**
 - Study lead: **Irene Lopez Sanchez, Talita Duarte-Salles**
 - Study lead forums tag: **@irelopsan**
 - Study start date: **-**

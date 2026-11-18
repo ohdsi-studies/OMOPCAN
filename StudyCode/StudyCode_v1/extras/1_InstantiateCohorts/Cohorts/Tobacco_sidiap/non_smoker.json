@@ -1,0 +1,68 @@
+{
+  "ConceptSets": [
+    {
+      "id": 0,
+      "name": "Smoking status",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "72166-2",
+              "CONCEPT_ID": 43054909,
+              "CONCEPT_NAME": "Tobacco smoking status",
+              "DOMAIN_ID": "Observation",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {
+        "Observation": {
+          "CodesetId": 0,
+          "ValueAsConcept": [
+            {
+              "CONCEPT_CODE": "LA18978-9",
+              "CONCEPT_ID": 45879404,
+              "CONCEPT_NAME": "Never smoker",
+              "DOMAIN_ID": "Meas Value",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "LOINC"
+            }
+          ]
+        }
+      }
+    ],
+    "ObservationWindow": {
+      "PriorDays": 0,
+      "PostDays": 0
+    },
+    "PrimaryCriteriaLimit": {
+      "Type": "First"
+    }
+  },
+  "QualifiedLimit": {
+    "Type": "First"
+  },
+  "ExpressionLimit": {
+    "Type": "First"
+  },
+  "InclusionRules": [],
+  "CensoringCriteria": [],
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "cdmVersionRange": ">=5.0.0"
+}
