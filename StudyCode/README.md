@@ -42,6 +42,7 @@ After running the study code:
 2. Restore the environment using renv.
 3. Open global.R.
 4. Click Run App.
+   
 A "+" icon is available in the upper-right corner of each tab, providing guidance on the outputs that should be reviewed.
 
 
